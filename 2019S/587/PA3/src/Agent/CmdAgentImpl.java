@@ -14,10 +14,12 @@ public class CmdAgentImpl extends UnicastRemoteObject implements CmdAgent {
 
     public Object execute(String CmdID, Object CmdObj) throws RemoteException {
         if (CmdID.equals("GetLocalTime")) {
-            return C_GetLocalTime((GetLocalTime) CmdObj);
+            return C_GetLocalTime((GetLocalTime)CmdObj);
+            //return "local time";
         }
         else if (CmdID.equals("GetVersion")) {
-            return C_GetVersion((GetVersion) CmdObj);
+            return C_GetVersion((GetVersion)CmdObj);
+            //return "version";
         }
         return 1;
     }

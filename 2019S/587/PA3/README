@@ -1,1 +1,12 @@
-This project is a test for JNI and RMI
+This project is an example for JNI and RMI
+
+How to run?
+
+cd src
+rmiregistry &
+
+sh compile.sh
+
+sh run_manager.sh
+
+sh run_agent.sh [agent_id]

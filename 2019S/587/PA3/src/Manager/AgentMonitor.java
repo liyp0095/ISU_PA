@@ -69,8 +69,14 @@ public class AgentMonitor extends Thread {
                 String registration = "rmi://" + registry + "/CmdAgent";
                 Remote remoteService = Naming.lookup(registration);
                 CmdAgent cmdAgent = (CmdAgent) remoteService;
-                int t = (int)cmdAgent.execute("GetLocalTime", 12);
-                System.out.println("It's local time is : " + t);
+                
+                GetLocalTime localTime = new GetLocalTime();
+                localTime = (GetLocalTime)cmdAgent.execute("GetLocalTime", localTime);
+                System.out.println("It's local time is : " + localTime.time);
+                
+                GetVersion localVersion = new GetVersion();
+                localVersion = (GetVersion)cmdAgent.execute("GetVersion", localVersion);
+                System.out.println("It's local version is : " + localVersion.version);
             } catch (Exception e) {
                 System.err.println("Error - " + e);
             }
