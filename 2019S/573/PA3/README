@@ -1,1 +1,11 @@
 This is a lab for fully-connected feed-forward neural networks and convolutional networks.
+
+It works at python3.6 with packages of numpy, tensorflow, keras.
+
+cd src
+python neural_network_classifer.py
+
+Since this experiment has many repeated work, I reuse the code by changing the parameter or comment and uncomment the code. So if you have difficulty of reading or using it, please feel free to contact me. We could talk face to face.
+
+Yuepei Li
+liyp0095@iastate.edu
