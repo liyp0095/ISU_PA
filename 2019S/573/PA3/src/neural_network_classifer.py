@@ -103,7 +103,6 @@ def run_cnn_model(x_train, y_train, x_valid, y_valid, parameters):
     c_model.fit(x_train, y_train, validation_data=(x_valid, y_valid), epochs=500, verbose=0, callbacks=[es, mc])
 
 
-
 def print_class_accuracy(data):
     print("Class accuracies: ")
     sum = 0.0
