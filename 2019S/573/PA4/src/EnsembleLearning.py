@@ -1,8 +1,10 @@
 import numpy as np
+import keras
 from DataStructure import DataStructure
 import RandomForest
 import AdaboostClassifier
-import NeuralNetwork, KNN, LogisticRegression, DecisionTree
+import NeuralNetwork, KNN, LogisticRegression, DecisionTree, LogisticRegression, NaiveBayes, DecisionTree
+import MajorityVote
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import AdaBoostClassifier
@@ -119,131 +121,169 @@ def ABCShow(DS):
 
 
 def run_task1(DS):
+    print("===================== TASK 1 ========================")
     # (RF) random forest
     # RFShow(DS)
-    # RF_parameter = {"n_estimators": 68,
-    #                 "max_depth": 4,
-    #                 "random_state": 0,
-    #                 "min_samples_leaf": 6}
-    # model = RandomForest.random_forest_model(DS.train_set, RF_parameter)
-    # print(model.score(DS.test_set.feature, DS.test_set.label))
-    # pre = model.predict(DS.test_set.feature)
-    # print(confusion_matrix(DS.test_set.label, pre))
+    RF_parameter = {"n_estimators": 68,
+                    "max_depth": 4,
+                    "random_state": 0,
+                    "min_samples_leaf": 6}
+    rf_model = RandomForest.random_forest_model(DS.train_set, RF_parameter)
+    rf_acc = rf_model.score(DS.test_set.feature, DS.test_set.label)
+    print("Random Forest accuracy: %.4f" % rf_acc)
+    pre = rf_model.predict(DS.test_set.feature)
+    print("confusion matrix:")
+    print(confusion_matrix(DS.test_set.label, pre))
+    print("parameter:")
+    print(rf_model.get_params())
+    print()
 
     # (ABC) adaboost classifier
-    # ABCShow(DS)
-    # ABC_parameter = {"max_depth": 2,
-    #                  "min_samples_leaf": 20,
-    #                  "n_estimators": 70,
-    #                  "random_state": 0,
-    #                  "learning_rate": 0.1,
-    #                  "algorithm": "SAMME.R"}
-    # model = AdaboostClassifier.adaboost_classifier_model(DS.train_set, ABC_parameter)
-    # print(model.score(DS.test_set.feature, DS.test_set.label))
-    # pre = model.predict(DS.test_set.feature)
-    # print(confusion_matrix(DS.test_set.label, pre))
-    pass
-
-
-def test(DS):
-    n_estimators = 400
-    # A learning rate of 1. may not be optimal for both SAMME and SAMME.R
-    learning_rate = 0.1
-
-    X_test = DS.test_set.feature
-    y_test = DS.test_set.label
-    X_train = DS.train_set.feature
-    y_train = DS.train_set.label
-
-    dt_stump = DecisionTreeClassifier(max_depth=2, min_samples_leaf=20)
-    dt_stump.fit(X_train, y_train)
-    dt_stump_err = 1.0 - dt_stump.score(X_test, y_test)
-
-    dt = DecisionTreeClassifier(max_depth=9, min_samples_leaf=10)
-    dt.fit(X_train, y_train)
-    dt_err = 1.0 - dt.score(X_test, y_test)
-
-    ada_discrete = AdaBoostClassifier(
-        base_estimator=dt_stump,
-        learning_rate=learning_rate,
-        n_estimators=n_estimators,
-        random_state=rng,
-        algorithm="SAMME")
-    ada_discrete.fit(X_train, y_train)
-
-    ada_real = AdaBoostClassifier(
-        base_estimator=dt_stump,
-        learning_rate=learning_rate,
-        n_estimators=n_estimators,
-        random_state=rng,
-        algorithm="SAMME.R")
-    ada_real.fit(X_train, y_train)
-
-    fig = plt.figure()
-    ax = fig.add_subplot(111)
-
-    ax.plot([1, n_estimators], [dt_stump_err] * 2, 'k-',
-            label='Decision Stump Error')
-    ax.plot([1, n_estimators], [dt_err] * 2, 'k--',
-            label='Decision Tree Error')
-
-    ada_discrete_err = np.zeros((n_estimators,))
-    for i, y_pred in enumerate(ada_discrete.staged_predict(X_test)):
-        ada_discrete_err[i] = zero_one_loss(y_pred, y_test)
-
-    ada_discrete_err_train = np.zeros((n_estimators,))
-    for i, y_pred in enumerate(ada_discrete.staged_predict(X_train)):
-        ada_discrete_err_train[i] = zero_one_loss(y_pred, y_train)
-
-    ada_real_err = np.zeros((n_estimators,))
-    for i, y_pred in enumerate(ada_real.staged_predict(X_test)):
-        ada_real_err[i] = zero_one_loss(y_pred, y_test)
-
-    ada_real_err_train = np.zeros((n_estimators,))
-    for i, y_pred in enumerate(ada_real.staged_predict(X_train)):
-        ada_real_err_train[i] = zero_one_loss(y_pred, y_train)
-
-    ax.plot(np.arange(n_estimators) + 1, ada_discrete_err,
-            label='Discrete AdaBoost Test Error',
-            color='red')
-    ax.plot(np.arange(n_estimators) + 1, ada_discrete_err_train,
-            label='Discrete AdaBoost Train Error',
-            color='blue')
-    ax.plot(np.arange(n_estimators) + 1, ada_real_err,
-            label='Real AdaBoost Test Error',
-            color='orange')
-    ax.plot(np.arange(n_estimators) + 1, ada_real_err_train,
-            label='Real AdaBoost Train Error',
-            color='green')
-
-    # ax.set_ylim((0.0, 0.5))
-    ax.set_xlabel('n_estimators')
-    ax.set_ylabel('accurate')
-
-    leg = ax.legend(loc='upper right', fancybox=True)
-    leg.get_frame().set_alpha(0.7)
-
-    plt.show()
+    ABCShow(DS)
+    ABC_parameter = {"max_depth": 2,
+                     "min_samples_leaf": 20,
+                     "n_estimators": 70,
+                     "random_state": 0,
+                     "learning_rate": 0.1,
+                     "algorithm": "SAMME.R"}
+    abc_model = AdaboostClassifier.adaboost_classifier_model(DS.train_set, ABC_parameter)
+    abc_acc = abc_model.score(DS.test_set.feature, DS.test_set.label)
+    print("Adaboost Classifier accuracy: %.4f" % abc_acc)
+    pre = abc_model.predict(DS.test_set.feature)
+    print("confusion matrix:")
+    print(confusion_matrix(DS.test_set.label, pre))
+    print("parameter:")
+    print(abc_model.get_params())
+    print()
 
 
 def run_task2(DS):
-    # print(DS.train_set.feature)
-    # parameter_scale = {"hidden_layer": [2, 3],
-    #                    "hidden_unit": [4, 8],
-    #                    'batch_size': [50, 100],
-    #                    'epochs': [10, 20, 50],
-    #                    "activation": ["relu", "tanh"],
-    #                    "loss": ["mean_absolute_error", "hinge"]}
-    # nn_model = NeuralNetwork.tune_with_grid(DS.train_set, parameter_scale)
-    # print(nn_model.predi)
-    # print(nn_model.predict(np.array([[0,0,0,0],[1,1,1,1]])))
+    print("===================== TASK 2 ========================")
+    # NeuralNetwork
+    parameter = {"hidden_layer": 3,
+                 "hidden_unit": 9,
+                 'batch_size': 128,
+                 'epochs': 100,
+                 "activation": "tanh",
+                 "loss": "binary_crossentropy",
+                 "dropout": 0.2,
+                 "learn_rate": 0.1,
+                 "momentum": 0.5}
+    nn_model = NeuralNetwork.neural_network_train(DS.train_set, parameter)
+    nn_acc = NeuralNetwork.model_accuracy(DS.test_set, nn_model)
+
 
     # knn
-    # model = KNN.knn_model(DS)
-    # print(model.score(DS.test_set.feature, DS.test_set.label))
-    parameter_scale = {"n_neighbors": }
-    model = KNN.tune_with_grid(DS.train_set, parameter_scale)
-    print(model.score(DS.test_set.feature, DS.test_set.label))
+    # KNN.KNNShow(DS)
+    parameter = {"n_neighbors": 5}
+    knn_model = KNN.knn_model(parameter)
+    knn_model.fit(DS.train_set.feature, DS.train_set.label)
+    knn_acc = knn_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # Logistic Regression
+    lr_model = LogisticRegression.LR_model(DS.train_set)
+    lr_acc = lr_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # Naive Bayes
+    nb_model = NaiveBayes.NB_model(DS.train_set)
+    nb_acc = NaiveBayes.model_accuracy(DS.test_set, nb_model)
+    # print(nb_acc)
+
+    # Decision Tree
+    parameter = {"max_depth": 9,
+                 "min_sample_leaf": 10}
+    dt_model = DecisionTree.DT_model(DS.train_set, parameter)
+    dt_acc = dt_model.score(DS.test_set.feature, DS.test_set.label)
+
+    print("Neural Network accuracy: %.4f" % nn_acc)
+    print("KNN accuracy: %.4f" % knn_acc)
+    print("Logistic Regression accuracy: %.4f" % lr_acc)
+    print("Naive Bayes accuracy: %.4f" % nb_acc)
+    print("Decision Tree accuracy: %.4f" % dt_acc)
+    print()
+
+    # Majority Vote
+    umv_acc = MajorityVote.unweighted_model_predict([nn_model, knn_model, lr_model, nb_model, dt_model],
+                                                    [nn_acc, knn_acc, lr_acc, nb_acc, dt_acc], DS.test_set)
+    wmv_acc = MajorityVote.weighted_model_predict([nn_model, knn_model, lr_model, nb_model, dt_model],
+                                                    [nn_acc, knn_acc, lr_acc, nb_acc, dt_acc], DS.test_set)
+    print("Unweighted Majority Vote accuracy: %.4f" % umv_acc)
+    print("Weighted Majority Vote accuracy: %.4f" % wmv_acc)
+    print()
+
+
+def run_task3(DS):
+    print("===================== TASK 3 ========================")
+    # (RF) random forest
+    RF_parameter = {"n_estimators": 68,
+                    "max_depth": 4,
+                    "random_state": 0,
+                    "min_samples_leaf": 6}
+    rf_model = RandomForest.random_forest_model(DS.train_set, RF_parameter)
+    rf_acc = rf_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # (ABC) adaboost classifier
+    ABC_parameter = {"max_depth": 2,
+                     "min_samples_leaf": 20,
+                     "n_estimators": 70,
+                     "random_state": 0,
+                     "learning_rate": 0.1,
+                     "algorithm": "SAMME.R"}
+    abc_model = AdaboostClassifier.adaboost_classifier_model(DS.train_set, ABC_parameter)
+    abc_acc = abc_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # NeuralNetwork
+    parameter = {"hidden_layer": 3,
+                 "hidden_unit": 9,
+                 'batch_size': 128,
+                 'epochs': 100,
+                 "activation": "tanh",
+                 "loss": "binary_crossentropy",
+                 "dropout": 0.2,
+                 "learn_rate": 0.1,
+                 "momentum": 0.5}
+    nn_model = NeuralNetwork.neural_network_train(DS.train_set, parameter)
+    nn_acc = NeuralNetwork.model_accuracy(DS.test_set, nn_model)
+
+    # knn
+    parameter = {"n_neighbors": 5}
+    knn_model = KNN.knn_model(parameter)
+    knn_model.fit(DS.train_set.feature, DS.train_set.label)
+    knn_acc = knn_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # Logistic Regression
+    lr_model = LogisticRegression.LR_model(DS.train_set)
+    lr_acc = lr_model.score(DS.test_set.feature, DS.test_set.label)
+
+    # Naive Bayes
+    nb_model = NaiveBayes.NB_model(DS.train_set)
+    nb_acc = NaiveBayes.model_accuracy(DS.test_set, nb_model)
+
+    # Decision Tree
+    parameter = {"max_depth": 9,
+                 "min_sample_leaf": 10}
+    dt_model = DecisionTree.DT_model(DS.train_set, parameter)
+    dt_acc = dt_model.score(DS.test_set.feature, DS.test_set.label)
+
+    umv_acc = MajorityVote.unweighted_model_predict([rf_model, abc_model, nn_model, knn_model, lr_model, nb_model, dt_model],
+                                                    [rf_acc, abc_acc, nn_acc, knn_acc, lr_acc, nb_acc, dt_acc],
+                                                    DS.test_set)
+    wmv_acc = MajorityVote.weighted_model_predict([rf_model, abc_model, nn_model, knn_model, lr_model, nb_model, dt_model],
+                                                  [rf_acc, abc_acc, nn_acc, knn_acc, lr_acc, nb_acc, dt_acc],
+                                                  DS.test_set)
+
+    print("Random Forest accuracy: %.4f" % rf_acc)
+    print("Adaboost Classifier accuracy: %.4f" % abc_acc)
+    print("Neural Network accuracy: %.4f" % nn_acc)
+    print("KNN accuracy: %.4f" % knn_acc)
+    print("Logistic Regression accuracy: %.4f" % lr_acc)
+    print("Naive Bayes accuracy: %.4f" % nb_acc)
+    print("Decision Tree accuracy: %.4f" % dt_acc)
+    print()
+
+    print("Unweighted Majority Vote accuracy: %.4f" % umv_acc)
+    print("Weighted Majority Vote accuracy: %.4f" % wmv_acc)
+    print()
     pass
 
 
@@ -252,16 +292,17 @@ def main():
                        test_file_name="../data/lab4-test.csv")
     # print(DS.train_set.feature / DS.train_set.feature.max(axis=0))
     # DS.train_set.feature = DS.train_set.feature / DS.train_set.feature.max(axis=0)
-
+    # DS.test_set.feature = DS.test_set.feature / DS.test_set.feature.max(axis=0)
     # test(DS)
 
     # task 1
-    # run_task1(DS)
+    run_task1(DS)
 
     # task 2
     run_task2(DS)
 
     # task 3
+    run_task3(DS)
     pass
 
 

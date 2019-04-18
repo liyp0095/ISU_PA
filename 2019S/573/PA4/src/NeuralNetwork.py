@@ -1,9 +1,11 @@
 import keras
+import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.optimizers import SGD
 from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import accuracy_score
 
 
 def nn_model(hidden_layer=1,
@@ -29,6 +31,7 @@ def nn_model(hidden_layer=1,
 
 
 def tune_with_grid(data, parameter_scale):
+    data.feature = data.feature / data.feature.max(axis=0)
     model = KerasClassifier(build_fn=nn_model, verbose=0, shuffle=True)
     grid = GridSearchCV(estimator=model, param_grid=parameter_scale, n_jobs=-1, cv=5, return_train_score=True)
     output_category = keras.utils.to_categorical(data.label, num_classes=None)
@@ -42,7 +45,8 @@ def tune_with_grid(data, parameter_scale):
     return grid_result.best_estimator_
 
 
-def neural_network_model(data, parameter):
+def neural_network_train(data, parameter):
+    data_feature = data.feature / data.feature.max(axis=0)
     model = nn_model(hidden_layer=parameter["hidden_layer"],
                      hidden_unit=parameter["hidden_unit"],
                      dropout=parameter["dropout"],
@@ -51,6 +55,23 @@ def neural_network_model(data, parameter):
                      learn_rate=parameter["learn_rate"],
                      momentum=parameter["momentum"],
                      class_num=2)
+    output_category = keras.utils.to_categorical(data.label, num_classes=None)
+    model.fit(data_feature, output_category, epochs=parameter["epochs"], batch_size=parameter["batch_size"], verbose=0)
+    return model
+
+
+def model_predict(data, model):
+    data_feature = data.feature / data.feature.max(axis=0)
+    pre = model.predict(data_feature)
+    pre = np.argmax(pre, axis=-1)
+    return pre
+
+
+def model_accuracy(data, model):
+    data_feature = data.feature / data.feature.max(axis=0)
+    pre = model.predict(data_feature)
+    pre = np.argmax(pre, axis=-1)
+    return accuracy_score(data.label, pre)
 
 
 def main():
