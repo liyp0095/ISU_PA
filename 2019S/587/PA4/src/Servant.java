@@ -3,6 +3,7 @@ public class Servant {
         LocalFileMonitor localFileMonitor = new LocalFileMonitor();
         localFileMonitor.show();
 
-
+        MessageMonitor messageMonitor = new MessageMonitor();
+        
     }
 }
