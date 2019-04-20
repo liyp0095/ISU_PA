@@ -4,10 +4,14 @@ import java.util.Random;
 public class LocalFileMonitor {
     ArrayList<LocalFile> localFileList = new ArrayList<>();
     Random rand = new Random();
+    int fileNumber;
+    int byteSize;
 
     LocalFileMonitor() {
         System.out.println("Generate local file randomly ... ");
         GenerateFiles(rand.nextInt(20));
+        fileNumber = localFileList.size();
+        byteSize = size();
     }
 
     private void GenerateFiles(int fileNumber) {
@@ -41,5 +45,13 @@ public class LocalFileMonitor {
         for (LocalFile localFile : localFileList) {
             System.out.println(localFile.fileName + "\t" + localFile.fileContent);
         }
+    }
+
+    public int size() {
+        int s = 0;
+        for (LocalFile localFile : localFileList) {
+            s += localFile.fileContent.length();
+        }
+        return s;
     }
 }

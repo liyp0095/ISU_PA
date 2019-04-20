@@ -17,6 +17,13 @@ public class UDPSocket {
         socket.send(packet);
     }
 
+    public void send(DescriptorHeader descriptorHeader, String IP, int port) throws IOException {
+        byte[] buf = descriptorHeader.byteArray.bytes;
+        InetAddress inetAddress = InetAddress.getByName(IP);
+        packet = new DatagramPacket(buf, buf.length, inetAddress, port);
+        socket.send(packet);
+    }
+
     public void receive(byte[] buf) throws IOException {
         packet = new DatagramPacket(buf, buf.length);
         socket.receive(packet);

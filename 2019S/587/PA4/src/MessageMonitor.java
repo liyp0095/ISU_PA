@@ -21,6 +21,15 @@ public class MessageMonitor {
         messageArrayList.remove(index);
     }
 
+    public Message get(int messageID) {
+        for (Message message : messageArrayList) {
+            if (messageID == message.MessageID) {
+                return message;
+            }
+        }
+        return null;
+    }
+
     public void show() {
         for (Message message : messageArrayList) {
             System.out.println(message.MessageID + "\t" + message.hostAddress.IP + "\t"
