@@ -1,61 +1,76 @@
+import java.util.Random;
+
+import static java.lang.Thread.getDefaultUncaughtExceptionHandler;
+import static java.lang.Thread.sleep;
+
 public class Servant {
     public static void main(String[] args) {
-        int port = Integer.getInteger(args[0]);
+        Random random = new Random();
+        System.out.println(args.length);
+        int port = Integer.parseInt(args[0]);
+        int recPort = port;
+        int sendPort = port + 1;
         int firstConnectPort = 0;
         boolean firstConnect = false;
+        boolean queryOrNot = false;
+        String queryCriteria = "";
         if (args.length > 1) {
-            firstConnectPort = Integer.getInteger(args[1]);
+            firstConnectPort = Integer.parseInt(args[1]);
             firstConnect = true;
+        }
+
+        if (args.length > 2) {
+            queryOrNot = true;
+            queryCriteria = args[2];
         }
 
         LocalFileMonitor localFileMonitor = new LocalFileMonitor();
         localFileMonitor.show();
+
         MessageMonitor messageMonitor = new MessageMonitor();
+        messageMonitor.start();
+
+
         try {
-            UDPSocket udpSocket = new UDPSocket(port);
-            NeighbourMonitor neighbourMonitor = new NeighbourMonitor(udpSocket);
-            neighbourMonitor.run();
+            byte[] buff = new byte[1024];
+            UDPSocket sendUdpSocket = new UDPSocket(sendPort);
+            UDPSocket recUDPSocket = new UDPSocket(recPort);
+
+            Address address = new Address();
+            DescriptorHeader descriptorHeader = new DescriptorHeader();
 
             if (firstConnect)
-                neighbourMonitor.ping("127.0.0.1", firstConnectPort, 3);
+                Util.ping(sendUdpSocket, descriptorHeader, "127.0.0.1", firstConnectPort);
+            descriptorHeader.show();
+
+            NeighbourMonitor neighbourMonitor = new NeighbourMonitor(sendUdpSocket, messageMonitor);
+            neighbourMonitor.start();
 
             while (true) {
-                byte[] buff = new byte[23];
-                Address address = new Address();
-                udpSocket.receive(buff, address);
-                DescriptorHeader descriptorHeader = new DescriptorHeader(buff);
+                recUDPSocket.receive(buff, address);
+                descriptorHeader = new DescriptorHeader(buff);
+//                descriptorHeader.show();
                 int payLoad = descriptorHeader.getPayload();
+//                descriptorHeader.show();
                 if (payLoad == 0x00) {
-                    int ttl = descriptorHeader.getTTL() - 1;
-                    if (ttl <= 0)
-                        continue;
-                    descriptorHeader.setTTL((byte)ttl);
-                    descriptorHeader.setHops((byte)(descriptorHeader.getHops()+1));
-                    neighbourMonitor.NeighbourOverAllPing(address, descriptorHeader);
-                    messageMonitor.add(new Message(descriptorHeader.getMessageID(), address));
-                    descriptorHeader.setHops((byte)0);
-                    descriptorHeader.setTTL((byte)4);
-                    descriptorHeader.setPayload((byte)0x01);
-                    descriptorHeader.setPayloadLength(16);
-                    PongPayLoad pongPayLoad = new PongPayLoad();
-                    pongPayLoad.setPort(port);
-                    pongPayLoad.setIP("127.0.0.1");
-                    pongPayLoad.setNumberOfBytes(localFileMonitor.fileNumber);
-                    pongPayLoad.setNumberOfBytes(localFileMonitor.byteSize);
-                    neighbourMonitor.pong(address.IP, address.port, descriptorHeader, pongPayLoad);
+//                    System.out.println("receive ping .. ");
+                    new HandleCMD("Ping", recPort, buff, sendUdpSocket, address, descriptorHeader, localFileMonitor, messageMonitor, neighbourMonitor).start();
                 } else if (payLoad == 0x01) {
-                    PongPayLoad pongPayLoad = new PongPayLoad();
-                    udpSocket.receive(pongPayLoad.byteArray.bytes);
-                    int MID = descriptorHeader.getMessageID();
-                    Message m = messageMonitor.get(MID);
-                    neighbourMonitor.add(new Neighbour(address.IP, address.port));
-                    if (m == null)
-                        continue;
-                    neighbourMonitor.pong(m.hostAddress.IP, m.hostAddress.port, descriptorHeader, pongPayLoad);
+//                    System.out.println("receive pong .. ");
+                    new HandleCMD("Pong", recPort, buff, sendUdpSocket, address, descriptorHeader, localFileMonitor, messageMonitor, neighbourMonitor).start();
+                } else if (payLoad == 0x60) {
+                    System.out.println("receive query .. ");
+                    new HandleCMD("Query", recPort, buff, sendUdpSocket, address, descriptorHeader, localFileMonitor, messageMonitor, neighbourMonitor).start();
+                } else if (payLoad == 0x61) {
+//                    System.out.println("receive pong .. ");
+                    new HandleCMD("QueryHit", recPort, buff, sendUdpSocket, address, descriptorHeader, localFileMonitor, messageMonitor, neighbourMonitor).start();
+                } else if (payLoad == 0x40) {
+//                    System.out.println("receive pong .. ");
+                    new HandleCMD("Push", recPort, buff, sendUdpSocket, address, descriptorHeader, localFileMonitor, messageMonitor, neighbourMonitor).start();
                 }
             }
         } catch (Exception e) {
-            System.out.println(e);
+            System.out.println("servent error : " + e);
         }
     }
 }

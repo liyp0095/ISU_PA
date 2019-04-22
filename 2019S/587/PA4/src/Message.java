@@ -1,9 +1,13 @@
 public class Message {
-    int MessageID;
-    Address hostAddress;
+    String MessageID;
+    String IP;
+    int port;
+    int latestTime;
 
-    Message(int messageID, Address hostAddress) {
-        MessageID = messageID;
-        hostAddress = hostAddress;
+    Message(String messageID, String IP, int port) {
+        this.MessageID = messageID;
+        this.IP = IP;
+        this.port = port;
+        this.latestTime = (int)(System.currentTimeMillis() / 1000);
     }
 }

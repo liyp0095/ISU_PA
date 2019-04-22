@@ -7,7 +7,7 @@ public class DescriptorHeader {
     DescriptorHeader() {
         byteArray = new ByteArray(23);
         rand = new Random();
-        setMessageID(rand.nextInt(10000));
+        setMessageID("Ping_" + String.format("%4d", rand.nextInt(10000)));
         setPayload((byte)0x00);
         setTTL((byte)6);
         setHops((byte)0);
@@ -15,11 +15,13 @@ public class DescriptorHeader {
     }
 
     DescriptorHeader(byte[] bytes) {
-        this.byteArray = new ByteArray(bytes);
+        byte[] data = new byte[23];
+        System.arraycopy(bytes, 0, data, 0, 23);
+        this.byteArray = new ByteArray(data);
     }
 
-    public void setMessageID(int messageID) {
-        byteArray.setTwoBytes(messageID, 0);
+    public void setMessageID(String messageID) {
+        byteArray.setBytes(messageID, 0);
     }
 
     public void setPayload(byte b) {
@@ -38,8 +40,8 @@ public class DescriptorHeader {
         byteArray.setBytes(payloadLength, 19);
     }
 
-    public int getMessageID() {
-        return byteArray.getTwoByteInteger(0);
+    public String getMessageID() {
+        return byteArray.getString(0, 16);
     }
 
     public byte getPayload() {
@@ -56,5 +58,12 @@ public class DescriptorHeader {
 
     public int getPayloadLength() {
         return byteArray.getInteger(19);
+    }
+
+    public void show() {
+        System.out.print(getMessageID() + "\t");
+        System.out.print(Integer.toString(getPayload()) + "\t");
+        System.out.print(Integer.toString(getTTL()) + "\t");
+        System.out.print(Integer.toString(getPayloadLength()) + "\n");
     }
 }

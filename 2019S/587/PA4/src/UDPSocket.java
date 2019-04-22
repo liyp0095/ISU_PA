@@ -27,14 +27,16 @@ public class UDPSocket {
     public void receive(byte[] buf) throws IOException {
         packet = new DatagramPacket(buf, buf.length);
         socket.receive(packet);
+//        new ByteArray(packet.getData()).show();
         System.arraycopy(packet.getData(), 0, buf, 0, buf.length);
     }
 
     public void receive(byte[] buf, Address address) throws IOException {
         packet = new DatagramPacket(buf, buf.length);
         socket.receive(packet);
+//        new ByteArray(packet.getData()).show();
         address.IP = packet.getAddress().getHostAddress();
-        address.port = packet.getPort();
+        address.port = packet.getPort() - 1;
         System.arraycopy(packet.getData(), 0, buf, 0, buf.length);
     }
 }

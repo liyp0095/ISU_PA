@@ -9,7 +9,7 @@ public class LocalFileMonitor {
 
     LocalFileMonitor() {
         System.out.println("Generate local file randomly ... ");
-        GenerateFiles(rand.nextInt(20));
+        GenerateFiles(rand.nextInt(5) + 5);
         fileNumber = localFileList.size();
         byteSize = size();
     }
@@ -53,5 +53,14 @@ public class LocalFileMonitor {
             s += localFile.fileContent.length();
         }
         return s;
+    }
+
+    public LocalFile serch(String criteria) {
+        for (LocalFile localFile : localFileList) {
+            if (localFile.fileName.contains(criteria)) {
+                return localFile;
+            }
+        }
+        return null;
     }
 }

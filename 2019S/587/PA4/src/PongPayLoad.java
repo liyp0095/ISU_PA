@@ -5,7 +5,16 @@ public class PongPayLoad {
 
     PongPayLoad() {
         byteArray = new ByteArray(16);
+    }
 
+    PongPayLoad(byte[] buff, int offset) {
+        byte[] data = new byte[16];
+        System.arraycopy(buff, offset, data, 0, 16);
+        byteArray = new ByteArray(data);
+    }
+
+    PongPayLoad(byte[] buff) {
+        byteArray = new ByteArray(buff);
     }
 
     public void setPort(int port) {
@@ -49,5 +58,9 @@ public class PongPayLoad {
 
     public int getNumberOfBytes() {
         return byteArray.getInteger(12);
+    }
+
+    public void show() {
+        System.out.println(getPort() + "\t" + getIP() + "\t" + getNumberOfFiles() + "\t" + getNumberOfBytes());
     }
 }

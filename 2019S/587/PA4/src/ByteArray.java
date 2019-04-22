@@ -5,6 +5,9 @@ public class ByteArray {
 
     ByteArray(int n) {
         bytes = new byte[n];
+        for (int i = 0; i < bytes.length; i++ ) {
+            bytes[i] = 0;
+        }
     }
 
     ByteArray(byte[] bytes) { this.bytes = bytes; }
@@ -73,8 +76,6 @@ public class ByteArray {
 
     public byte[] twoByteIntToByteArray(int value) {
         return new byte[] {
-                (byte)(value >>> 24),
-                (byte)(value >>> 16),
                 (byte)(value >>> 8),
                 (byte)value};
     }
@@ -84,6 +85,20 @@ public class ByteArray {
     }
 
     public int byteArrayToTwoByteInteger(byte[] bytes) {
-        return (bytes[2] & 0xFF) << 8 | (bytes[3] & 0xFF);
+        return (bytes[0] & 0xFF) << 8 | (bytes[1] & 0xFF);
+    }
+
+    public ByteArray add(ByteArray byteArray) {
+        ByteArray b = new ByteArray(this.bytes.length + byteArray.bytes.length);
+        b.setBytes(this.bytes, 0);
+        b.setBytes(byteArray.bytes, this.bytes.length);
+        return b;
+    }
+
+    public void show() {
+        for (int i = 0; i < bytes.length; i ++ ) {
+            System.out.print(bytes[i]);
+            System.out.println();
+        }
     }
 }
