@@ -1,0 +1,9 @@
+(python37) ➜ Assignment2 git:(master) ✗ python ProjectionProblem.py --console
+View plane (4 numbers split by spaces): 0 2 3 4
+View point (4 numbers split by spaces): 1 -2 3 0
+Matrix =
+[[-5.  2.  3.  4.]
+ [-0. -9. -6. -8.]
+ [ 0.  6.  4. 12.]
+ [ 0.  0.  0. -5.]]
+Continue ... (yes/[no]):
