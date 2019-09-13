@@ -1,6 +1,7 @@
 #define _GNU_SOURCE
 #include <sched.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 int th_code(void *arg) {
   int i;
