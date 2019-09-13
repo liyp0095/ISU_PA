@@ -3,7 +3,7 @@
 
 int main(){
   int i;
-  printf("A\n");
+  // printf("A\n");
   for(i=0;i<3;i++) {
     if(i%2==1) {
       fork();
