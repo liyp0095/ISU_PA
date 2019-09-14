@@ -1,0 +1,2 @@
+This	is	process	A.	global=1
+This is process	B, global=0.

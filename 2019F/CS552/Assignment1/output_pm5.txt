@@ -1,0 +1,4 @@
+chid: pid = 0
+child: pid = 30450
+parent: pid = 30450
+parent: pid = 30449
