@@ -15,7 +15,7 @@ int	main(	){
   pid = fork();
   if (pid	==	0) {
     global = 1;
-    printf("This	is	process	A.	global=%d\n",	global);
+    printf("This is process A. global=%d\n",	global);
     *p=1;
     exit(0);
   }

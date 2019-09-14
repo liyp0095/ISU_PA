@@ -21,8 +21,8 @@ int	main(	)	{
   child_stack_1	=	(void	*)	malloc(1001);
   child_stack_2	=	(void	*)	malloc(1001);
   child_stack_1	+=	1000;
-  child_stack_2	+=	1000;	
-  printf("var	=	%d\n",	var);
+  child_stack_2	+=	1000;
+  printf("var = %d\n",	var);
   if (var == 1)
     clone(do_1,	child_stack_1,	CLONE_VM,	NULL);
   else
@@ -37,6 +37,6 @@ int	do_1(void	*x)	{
 
 int	do_2(void	*x)	{
   var	=	var*3;
-  printf("Thread	%d:	var=%d	\n",	2,	var);
+  printf("Thread %d: var=%d	\n", 2, var);
   exit(0);
 };

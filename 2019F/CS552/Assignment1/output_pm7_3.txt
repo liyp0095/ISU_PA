@@ -1,5 +1,5 @@
-var	=	5
-var	=	1
-Thread	2:	var=3	
-var	=	5
-Thread	2:	var=15	
+var = 1
+Thread 2: var=6	
+var = 5
+var = 5
+Thread 2: var=15	
