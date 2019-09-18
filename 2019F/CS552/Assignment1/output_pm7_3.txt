@@ -1,5 +1,7 @@
 var = 1
+var = 1
 Thread 2: var=6	
+var = 5
 var = 5
 var = 5
 Thread 2: var=15	
