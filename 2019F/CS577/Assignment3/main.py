@@ -37,11 +37,14 @@ def tumble(p, q, v, omega, T, Q):
             omega = omega + Vector3(dt*(np.linalg.inv(Q).dot(omega.cross(Vector3(
                         Q.dot(omega.to_column()))).to_column())))
             t = t + dt
-        p = p - v*dt + 0.5*g*(dt**2)
+        p = p + v*dt + 0.5*g*(dt**2)
         # print(omega.length())
-        print(p)
+        # print(p)
         if (t/dt) % (0.1/dt) < 1:
-            output_dict[round(100*(abs(T)-t))/100] = (p, v, omega)
+            if T > 0:
+                output_dict[round(100*(t))/100 + 0.4] = (p, v, omega)
+            else:
+                output_dict[round(100*(abs(T)-t))/100] = (p, v, omega)
         # break
     return output_dict
 
@@ -80,11 +83,16 @@ def main():
     # return 0
 
     # simulation
-    out = tumble(p1, q1, v1_neg, w1_neg, -t1, Q)
+    out1 = tumble(p1, q1, v1_neg, w1_neg, -t1, Q)
+    out2 = tumble(p1, q1, v1_pos, w1_pos, t2-t1, Q)
 
     # output
-    for i in out:
-        print(i, out[i])
+    for i in out1:
+        print(i, out1[i])
+
+    print("============================")
+    for i in out2:
+        print(i, out2[i])
 
 
 if __name__ == "__main__":

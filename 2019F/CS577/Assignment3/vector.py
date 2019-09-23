@@ -30,8 +30,11 @@ class Vector3:
     def __repr__(self):
         return "<%s, %s, %s>" % (self.x, self.y, self.z)
 
-    def __str__(self):
-        return "<%s, %s, %s>" % (self.x, self.y, self.z)
+    def __str__(self, n = None):
+        if n != None:
+            return 0
+        else:
+            return "<%s, %s, %s>" % (self.x, self.y, self.z)
 
     def __add__(self, v):
         return Vector3(self.x + v.x, self.y + v.y, self.z + v.z)
