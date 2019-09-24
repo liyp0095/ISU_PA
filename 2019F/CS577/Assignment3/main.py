@@ -45,8 +45,8 @@ def tumble(p, q, v, omega, T, Q):
         # print(p)
         if (abs(t)/dt) % (0.1/dt) < 1:
             # print(output_dict)
-            print(p_final)
-            output_dict[round(abs(t), 1)] = (p_final, v, omega)
+            # print(p_final)
+            output_dict[round(abs(t), 2)] = (p_final, v, omega)
         # break
     return output_dict
 
@@ -87,20 +87,22 @@ def main():
 
     # simulation
     d1 = tumble(p1, q1, v1_neg, w1_neg, -t1, Q)
-    # exit(0)
     d2 = tumble(p1, q1, v1_pos, w1_pos, t2-t1, Q)
 
-    print(p1)
-
     # output
-    td = {}
+    td1 = {}
+    td2 = {}
     for k in d1:
-        td[0.4 - round(k,1)] = d1[k]
+        td1[0.4 - round(k,2)] = d1[k]
     for k in d2:
-        td[round(k, 1) + 0.4] = d2[k]
-    for (key, item) in sorted(td.items(), key=lambda x:x[0]):
-        print(key, item)
-
+        td2[round(k, 2) + 0.4] = d2[k]
+    td1[0.4] = (p1, v1_neg, w1_neg)
+    td2[0.4] = (p1, v1_pos, w1_pos)
+    for (key, item) in sorted(td1.items(), key=lambda x:x[0]):
+        print("Time: %s : p = %s, v = %s, w = %s " % (round(key, 2), item[0], item[1], item[2]))
+    print("----------- Collision ----------------")
+    for (key, item) in sorted(td2.items(), key=lambda x:x[0]):
+        print("Time: %s : p = %s, v = %s, w = %s " % (round(key, 2), item[0], item[1], item[2]))
 
 if __name__ == "__main__":
     main()
