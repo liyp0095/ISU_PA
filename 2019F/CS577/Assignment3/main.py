@@ -7,39 +7,49 @@ import numpy as np
 from quaternion import Quaternion
 from vector import Vector3
 
-output_dict = {}
 
 def tumble(p, q, v, omega, T, Q):
     g = Vector3(0, 0, -9.8)
     t = 0
-    if T > 0:
-        dt = 0.00001
-    else:
-        dt = -0.00001
+    v_ori = v
+    p_ori = p
+    dt = 0.00001
     output_dict = {}
     while abs(t) <= abs(T):
         cap_omega = q._act(omega)
         # print(cap_omega.length())
         unit_cap_omega = cap_omega / cap_omega.length()
         # print(unit_cap_omega)
-        dphi = cap_omega.length() * dt
+        if T > 0:
+            dphi = cap_omega.length() * dt
+        else:
+            dphi = - cap_omega.length() * dt
         # print(dphi)
         r = Quaternion(math.cos(dphi/2), math.sin(dphi/2)*unit_cap_omega)
         # print(q)
         q = r * q
         # print(q)
         # print(omega.length())
-        v = v + g*dt
-        omega = omega + Vector3(dt*(np.linalg.inv(Q).dot(omega.cross(Vector3(
-                    Q.dot(omega.to_column()))).to_column())))
-        t = t + dt
-        p = p + v*dt + 0.5*g*(dt**2)
+        if T > 0:
+            v = v + g*dt
+            omega = omega - Vector3(dt*(np.linalg.inv(Q).dot(omega.cross(Vector3(
+                        Q.dot(omega.to_column()))).to_column())))
+            t = t + dt
+        else:
+            v = v - g*dt
+            omega = omega + Vector3(dt*(np.linalg.inv(Q).dot(omega.cross(Vector3(
+                        Q.dot(omega.to_column()))).to_column())))
+            t = t - dt
+        p_final = p_ori + v_ori*t + 0.5*g*(t**2)
         # print(omega.length())
         # print(p)
-        if (abs(t)/abs(dt)) % (0.1/abs(dt)) < 1:
-            print(output_dict)
-            output_dict[round(t, 1) + 0.4] = (p, v, omega)
+        if (abs(t)/dt) % (0.1/dt) < 1:
+            # print(output_dict)
+            print(p_final)
+            output_dict[round(abs(t), 1)] = (p_final, v, omega)
         # break
+    return output_dict
+
 
 def main():
     # input
@@ -76,11 +86,19 @@ def main():
     # return 0
 
     # simulation
-    tumble(p1, q1, v1_neg, w1_neg, -t1, Q)
-    tumble(p1, q1, v1_pos, w1_pos, t2-t1, Q)
+    d1 = tumble(p1, q1, v1_neg, w1_neg, -t1, Q)
+    # exit(0)
+    d2 = tumble(p1, q1, v1_pos, w1_pos, t2-t1, Q)
+
+    print(p1)
 
     # output
-    for (key, item) in sorted(output_dict.items(), key=lambda x:x[0]):
+    td = {}
+    for k in d1:
+        td[0.4 - round(k,1)] = d1[k]
+    for k in d2:
+        td[round(k, 1) + 0.4] = d2[k]
+    for (key, item) in sorted(td.items(), key=lambda x:x[0]):
         print(key, item)
 
 
