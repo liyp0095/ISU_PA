@@ -76,12 +76,13 @@ def main():
     w1_pos = Vector3(0.09957, -0.04174, 0.5)
     q1 = Quaternion(math.cos(math.pi/12), math.sin(math.pi/12)*Vector3(0,1,0))
 
-    Q11 = m / (h1 + h2/3) * (h1*((3*r**2 + h**2)/12+l**2) +
+    Q11 = m / (h1 + h2/3) * (h1*((3*r**2 + h1**2)/12+l**2) +
             h2/3*(3/5*(r**2/4 + h2**2) + h**2))
     Q22 = Q11
     Q33 = (1/2*m1 + 3/10*m2)*r**2
 
     Q = np.array([[Q11,0,0], [0,Q22,0], [0,0,Q33]])
+    print(Q)
     # print(np.linalg.inv(Q))
     # return 0
 
