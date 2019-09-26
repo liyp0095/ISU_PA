@@ -5,6 +5,7 @@
 
 int th_code(void *arg) {
   int i;
+  printf("%d", i);
   for(i=0;i<-1;i++){
     printf("test\n");
     void *p;
