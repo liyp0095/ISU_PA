@@ -6,7 +6,7 @@
 int th_code(void *arg) {
   int i;
   printf("%d", i);
-  for(i=0;i<-1;i++){
+  for(i=0;i<2;i++){
     printf("test\n");
     void *p;
     p=(void *)malloc(16384);
