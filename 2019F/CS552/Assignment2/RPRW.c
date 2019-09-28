@@ -57,12 +57,12 @@ int main(int argc, char *argv[]) {
   Sem *p_sem;
 
   printf("%d\n", (int)sizeof(Sem));
-  segment_id = shmget(IPC_PRIVATE, sizeof(Sem), S_IRUSR | S_IWUSR);
-  p_sem = (Sem *) shmat(segment_id, NULL, 0);
-  sem_init(&p_sem->mutex, 1, 1);
-  sem_init(&p_sem->fmutex, 1, 1);
-  sem_init(&p_sem->wmutex, 1, 1);
-  p_sem->nreader = 0;
+  // segment_id = shmget(IPC_PRIVATE, sizeof(Sem), S_IRUSR | S_IWUSR);
+  // p_sem = (Sem *) shmat(segment_id, NULL, 0);
+  // sem_init(&p_sem->mutex, 1, 1);
+  // sem_init(&p_sem->fmutex, 1, 1);
+  // sem_init(&p_sem->wmutex, 1, 1);
+  // p_sem->nreader = 0;
   //
   //
   // for (int i = 0; argv[1][i] != '\0'; i++) {
