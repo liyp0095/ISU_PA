@@ -11,7 +11,7 @@ typedef struct MySem {
 } Sem;
 
 int do_read(Sem * s, int process_id, char * type) {
-  printf("Process %d (%s) arrives.\n", process_id, type);
+  // printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->mutex);
   if (s->nreader == 0) {
     s->nreader += 1;
@@ -20,6 +20,7 @@ int do_read(Sem * s, int process_id, char * type) {
     s->nreader += 1;
   }
   sem_post(&s->mutex);
+  printf("Process %d (%s) arrives.\n", process_id, type);
   printf("Process %d starts reading.\n", process_id);
   sleep(2); // reading file
   printf("Process %d ends reading.\n", process_id);
