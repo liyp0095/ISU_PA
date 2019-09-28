@@ -90,7 +90,7 @@ int main(int argc, char *argv[]) {
     // if (argv[1][i] == 'w') {
     //   printf(java)
     // }
-    sleep(1);
+    sleep(1.1);
   }
 
   // int	segment_id;
