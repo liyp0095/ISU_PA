@@ -11,7 +11,7 @@ typedef struct MySem {
 } Sem;
 
 int do_read(Sem * s, int process_id, char * type) {
-  // printf("Process %d (%s) arrives.\n", process_id, type);
+  printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->mutex);
   if (s->nreader == 0) {
     s->nreader += 1;
@@ -20,32 +20,29 @@ int do_read(Sem * s, int process_id, char * type) {
     s->nreader += 1;
   }
   sem_post(&s->mutex);
-  printf("Process %d (%s) arrives.\n", process_id, type);
   printf("Process %d starts reading.\n", process_id);
   sleep(2); // reading file
   printf("Process %d ends reading.\n", process_id);
-  printf("Process %d (%s) leaves.\n", process_id, type);
   sem_wait(&s->mutex);
   s->nreader -= 1;
-  printf("%d\n", s->nreader);
   if (s->nreader == 0) {
     sem_post(&s->fmutex);
   }
   sem_post(&s->mutex);
+  printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
 }
 
 int do_write(Sem *s, int process_id, char * type) {
+  printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->wmutex);
   sem_wait(&s->fmutex);
-  printf("Process %d (%s) arrives.\n", process_id, type);
   printf("Process %d starts writing.\n", process_id);
   sleep(2);
   printf("Process %d ends writing.\n", process_id);
-  printf("Process %d (%s) leaves.\n", process_id, type);
   sem_post(&s->fmutex);
-  // sleep(0.000001);
   sem_post(&s->wmutex);
+  printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
 }
 
@@ -91,7 +88,7 @@ int main(int argc, char *argv[]) {
     // if (argv[1][i] == 'w') {
     //   printf(java)
     // }
-    sleep(1);
+    sleep(0.9);
   }
 
   // int	segment_id;
