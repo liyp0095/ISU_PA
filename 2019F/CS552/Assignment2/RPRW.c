@@ -99,6 +99,7 @@ int main(int argc, char *argv[]) {
   // *p = 0;
   // printf("%s", argv[1]);
   wait(NULL);
+  sleep(10);
   // sem_destory(&p_sem->mutex);
   // sem_destory(&p_sem->fmutex);
   // sem_destory(&p_sem->wmutex);
