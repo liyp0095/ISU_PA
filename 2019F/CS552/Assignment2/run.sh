@@ -1,7 +1,7 @@
 #!/bin/sh
 
 C_FILE=$1
-C_PARA="rrwwrw"
+C_PARA="rrwwrwwr"
 C_FILE_NAME=${C_FILE%.*}
 
 OUT_FILE=$C_FILE_NAME.out
