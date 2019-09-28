@@ -25,6 +25,7 @@ int do_read(Sem * s, int process_id, char * type) {
   printf("Process %d ends reading.\n", process_id);
   sem_wait(&s->mutex);
   s->nreader -= 1;
+  printf("%d\n", s->nreader);
   if (s->nreader == 0) {
     sem_post(&s->fmutex);
   }
