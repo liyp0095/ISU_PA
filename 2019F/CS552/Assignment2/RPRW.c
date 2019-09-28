@@ -100,9 +100,9 @@ int main(int argc, char *argv[]) {
   // *p = 0;
   // printf("%s", argv[1]);
   wait(NULL);
-  sem_destory(&p_sem->mutex);
-  sem_destory(&p_sem->fmutex);
-  sem_destory(&p_sem->wmutex);
+  // sem_destory(&p_sem->mutex);
+  // sem_destory(&p_sem->fmutex);
+  // sem_destory(&p_sem->wmutex);
   shmdt(p_sem);
   shmctl(segment_id, IPC_RMID, NULL); //remove the shared memory
   printf("All Done!\n");
