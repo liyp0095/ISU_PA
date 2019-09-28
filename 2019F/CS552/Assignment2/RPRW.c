@@ -25,7 +25,7 @@ int do_read(Sem * s, int process_id, char * type) {
   printf("Process %d ends reading.\n", process_id);
   sem_wait(&s->mutex);
   s->nreader -= 1;
-  if (s->nreader == 1) {
+  if (s->nreader == 0) {
     sem_post(&s->fmutex);
   }
   sem_post(&s->mutex);
@@ -59,11 +59,10 @@ int main(int argc, char *argv[]) {
   printf("%d\n", (int)sizeof(Sem));
   segment_id = shmget(IPC_PRIVATE, sizeof(Sem), S_IRUSR | S_IWUSR);
   p_sem = (Sem *) shmat(segment_id, NULL, 0);
-  sem_init(&p_sem->mutex, 1, 0);
-  sem_init(&p_sem->fmutex, 1, 0);
-  sem_init(&p_sem->wmutex, 1, 0);
+  sem_init(&p_sem->mutex, 1, 1);
+  sem_init(&p_sem->fmutex, 1, 1);
+  sem_init(&p_sem->wmutex, 1, 1);
   p_sem->nreader = 0;
-
 
   for (int i = 0; argv[1][i] != '\0'; i++) {
     // printf("%c\t %d\n", argv[1][i], i);
