@@ -41,7 +41,7 @@ int do_write(Sem *s, int process_id, char * type) {
   sleep(2);
   printf("Process %d ends writing.\n", process_id);
   sem_post(&s->fmutex);
-  sleep(0.001);
+  sleep(0.000001);
   sem_post(&s->wmutex);
   printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
