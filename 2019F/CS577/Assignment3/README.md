@@ -2,7 +2,7 @@
 
 python 3.7 + numpy
 
-## how to ran
+## how to run
 ```shell
 python main.py
 ```
