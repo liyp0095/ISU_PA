@@ -64,9 +64,8 @@ x =
 ### question 3
 
 ```shell
-(python37) ➜ Assignment4 git:(master) ✗ python SolutionOfNonlinear.py
-
-
+accuracy: 5e-05
+max_iterations: 5000
 ============== Bisection ==============
 iterations 	 f(x) 	 interval
 0 -0.6214672120713155 (-2, 0.0)
