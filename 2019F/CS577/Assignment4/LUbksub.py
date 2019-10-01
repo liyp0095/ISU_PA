@@ -45,7 +45,7 @@ def main():
     ])
     T = np.array(A)
     x1 = LUbksub(A, b1)
-    x2 = LUbksub(A, b2)
+    x2 = LUbksub(T, b2)
     print("========== b1 ===========")
     print(b1)
     print("x = ")

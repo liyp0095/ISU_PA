@@ -8,11 +8,11 @@ N = 5000
 delta = 0.00005
 
 def func(x):
-    return math.exp(x) - math.sin(2*x)
+    return math.exp(-x) - math.sin(2*x)
 
 
 def d_func(x):
-    return math.exp(x) - math.cos(2*x) * 2
+    return -math.exp(-x) - math.cos(2*x) * 2
 
 
 def Bisection(f, interval, flag = 0):
@@ -52,6 +52,7 @@ def MRF(f, interval, flag = 0):
             F = f(w_next)
             if f(w)*f(w_next) > 0:
                 G = G/2
+        w = w_next
         if flag:
             print(i, f(a), (a, b))
         if abs(a - b) < delta:
@@ -88,13 +89,13 @@ def main():
     print("accuracy: " + str(delta))
     print("max_iterations: " + str(N))
     print("============== Bisection ==============")
-    Bisection(func, (-2, 2), 1)
+    Bisection(func, (0, 1), 1)
     print("================= MRF =================")
-    MRF(func, (-2, 2), 1)
+    MRF(func, (0, 1), 1)
     print("=============== Secant ================")
-    Secant(func, (-2, 2), 1)
+    Secant(func, (0, 1), 1)
     print("=============== Newton ================")
-    Newton(func, d_func, (-2, 2), 1)
+    Newton(func, d_func, (0, 1), 1)
 
 
 if __name__ == "__main__":
