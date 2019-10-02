@@ -112,15 +112,15 @@ int main(int argc, char *argv[]) {
         Sem *s = p_sem;
         printf("Process %d (%s) arrives.\n", process_id, type);
         sem_wait(&s->wmutex);
-        // printf("Process %d pass wmutex.\n", process_id);
-        printf("Process %d starts writing.\n", process_id);
+        printf("Process %d pass wmutex.\n", process_id);
         sem_wait(&s->fmutex);
+        printf("Process %d starts writing.\n", process_id);
         sleep(2);
         printf("Process %d ends writing.\n", process_id);
         sem_post(&s->fmutex);
-        // printf("Process %d release fmutex.\n", process_id);
-        printf("Process %d (%s) leaves.\n", process_id, type);
+        printf("Process %d release fmutex.\n", process_id);
         sem_post(&s->wmutex);
+        printf("Process %d (%s) leaves.\n", process_id, type);
         // printf("Process %d (%s) arrives.\n", i, "writer");
         // p_file->size += 1;
       }
