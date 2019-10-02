@@ -3,6 +3,8 @@
 #include <sys/stat.h>
 #include <semaphore.h>      /* sem_open(), sem_destroy(), sem_wait().. */
 
+#include <unistd.h> /* sleep */
+
 typedef struct MySem {
   sem_t wmutex;
   sem_t fmutex;
