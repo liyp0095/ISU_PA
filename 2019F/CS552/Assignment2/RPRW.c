@@ -15,7 +15,9 @@ int do_read(Sem * s, int process_id, char * type) {
   sem_wait(&s->mutex);
   if (s->nreader == 0) {
     s->nreader += 1;
+    printf("Process %d needs fmutex.\n", process_id);
     sem_wait(&s->fmutex);
+    printf("Process %d pass fmutex.\n", process_id);
   } else {
     s->nreader += 1;
   }
@@ -42,6 +44,7 @@ int do_write(Sem *s, int process_id, char * type) {
   sleep(2);
   printf("Process %d ends writing.\n", process_id);
   sem_post(&s->fmutex);
+  printf("Process %d release fmutex.\n", process_id);
   sem_post(&s->wmutex);
   // printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
