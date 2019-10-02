@@ -21,5 +21,3 @@ struct myStruct *s2;
 s2->a;
 
 ```
-
-## new 
