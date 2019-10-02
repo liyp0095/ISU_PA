@@ -82,9 +82,9 @@ int main(int argc, char *argv[]) {
         sem_wait(&s->mutex);
         if (s->nreader == 0) {
           s->nreader += 1;
-          // printf("Process %d needs fmutex.\n", process_id);
+          printf("Process %d needs fmutex.\n", process_id);
           sem_wait(&s->fmutex);
-          // printf("Process %d pass fmutex.\n", process_id);
+          printf("Process %d pass fmutex.\n", process_id);
         } else {
           s->nreader += 1;
         }
