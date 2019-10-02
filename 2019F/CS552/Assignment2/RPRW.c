@@ -4,9 +4,9 @@
 #include <semaphore.h>      /* sem_open(), sem_destroy(), sem_wait().. */
 
 typedef struct MySem {
-  sem_t mutex;
-  sem_t fmutex;
   sem_t wmutex;
+  sem_t fmutex;
+  sem_t mutex;
   int nreader;
 } Sem;
 
