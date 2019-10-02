@@ -11,13 +11,13 @@ typedef struct MySem {
 } Sem;
 
 int do_read(Sem * s, int process_id, char * type) {
-  // printf("Process %d (%s) arrives.\n", process_id, type);
+  printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->mutex);
   if (s->nreader == 0) {
     s->nreader += 1;
-    printf("Process %d needs fmutex.\n", process_id);
+    // printf("Process %d needs fmutex.\n", process_id);
     sem_wait(&s->fmutex);
-    printf("Process %d pass fmutex.\n", process_id);
+    // printf("Process %d pass fmutex.\n", process_id);
   } else {
     s->nreader += 1;
   }
@@ -31,7 +31,7 @@ int do_read(Sem * s, int process_id, char * type) {
     sem_post(&s->fmutex);
   }
   sem_post(&s->mutex);
-  // printf("Process %d (%s) leaves.\n", process_id, type);
+  printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
 }
 
