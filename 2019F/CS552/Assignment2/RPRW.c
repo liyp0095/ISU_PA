@@ -36,7 +36,7 @@ int do_read(Sem * s, int process_id, char * type) {
 int do_write(Sem *s, int process_id, char * type) {
   // printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->wmutex);
-  printf("Process %d pass wmutex.\n", process_id)
+  printf("Process %d pass wmutex.\n", process_id);
   sem_wait(&s->fmutex);
   printf("Process %d starts writing.\n", process_id);
   sleep(2);
