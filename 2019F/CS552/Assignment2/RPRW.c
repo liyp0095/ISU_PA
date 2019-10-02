@@ -15,8 +15,8 @@ typedef struct MySem {
 } Sem;
 
 int do_read(Sem * s, int process_id, char * type) {
-  printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->mutex);
+  printf("Process %d (%s) arrives.\n", process_id, type);
   if (s->nreader == 0) {
     s->nreader += 1;
     // printf("Process %d needs fmutex.\n", process_id);
