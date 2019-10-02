@@ -78,7 +78,7 @@ int main(int argc, char *argv[]) {
         char* type = "reader";
         Sem *s = p_sem;
         // do_read(p_sem, i, "reader");
-        printf("Process %d (%s) arrives.\n", process_i, type);
+        printf("Process %d (%s) arrives.\n", process_id, type);
         sem_wait(&s->mutex);
         if (s->nreader == 0) {
           s->nreader += 1;
