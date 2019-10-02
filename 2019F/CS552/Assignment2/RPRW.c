@@ -36,18 +36,18 @@ int do_read(Sem * s, int process_id, char * type) {
 }
 
 int do_write(Sem *s, int process_id, char * type) {
-  // printf("Process %d (%s) arrives.\n", process_id, type);
+  printf("Process %d (%s) arrives.\n", process_id, type);
   sem_wait(&s->wmutex);
-  printf("Process %d pass wmutex.\n", process_id);
-  sem_wait(&s->fmutex);
+  // printf("Process %d pass wmutex.\n", process_id);
   printf("Process %d starts writing.\n", process_id);
+  sem_wait(&s->fmutex);
   sleep(2);
   printf("Process %d ends writing.\n", process_id);
   sem_post(&s->fmutex);
-  printf("Process %d release fmutex.\n", process_id);
+  // printf("Process %d release fmutex.\n", process_id);
+  printf("Process %d (%s) leaves.\n", process_id, type);
   sem_post(&s->wmutex);
-  printf("Process %d release wmutex.\n", process_id);
-  // printf("Process %d (%s) leaves.\n", process_id, type);
+  // printf("Process %d release wmutex.\n", process_id);
   return 0;
 }
 
