@@ -46,6 +46,7 @@ int do_write(Sem *s, int process_id, char * type) {
   sem_post(&s->fmutex);
   printf("Process %d release fmutex.\n", process_id);
   sem_post(&s->wmutex);
+  printf("Process %d release wmutex.\n", process_id);
   // printf("Process %d (%s) leaves.\n", process_id, type);
   return 0;
 }
