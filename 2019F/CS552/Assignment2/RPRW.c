@@ -118,6 +118,7 @@ int main(int argc, char *argv[]) {
         sleep(2);
         printf("Process %d ends writing.\n", process_id);
         sem_post(&s->fmutex);
+        sleep(0.001);
         printf("Process %d release fmutex.\n", process_id);
         sem_post(&s->wmutex);
         printf("Process %d (%s) leaves.\n", process_id, type);
