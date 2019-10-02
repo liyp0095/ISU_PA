@@ -4,6 +4,8 @@
 #include <semaphore.h>      /* sem_open(), sem_destroy(), sem_wait().. */
 
 #include <unistd.h> /* sleep */
+#include <sys/types.h>
+#include <sys/wait.h> /*wait*/
 
 typedef struct MySem {
   sem_t wmutex;
