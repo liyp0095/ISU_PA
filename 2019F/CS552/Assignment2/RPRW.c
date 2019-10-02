@@ -74,7 +74,31 @@ int main(int argc, char *argv[]) {
     int pid = fork();
     if (pid == 0) {
       if (argv[1][i] == 'r') {
-        do_read(p_sem, i, "reader");
+        int process_id = i;
+        char* type = "reader";
+        Sem *s = p_sem;
+        // do_read(p_sem, i, "reader");
+        printf("Process %d (%s) arrives.\n", process_i, type);
+        sem_wait(&s->mutex);
+        if (s->nreader == 0) {
+          s->nreader += 1;
+          // printf("Process %d needs fmutex.\n", process_id);
+          sem_wait(&s->fmutex);
+          // printf("Process %d pass fmutex.\n", process_id);
+        } else {
+          s->nreader += 1;
+        }
+        sem_post(&s->mutex);
+        printf("Process %d starts reading.\n", process_id);
+        sleep(2); // reading file
+        printf("Process %d ends reading.\n", process_id);
+        sem_wait(&s->mutex);
+        s->nreader -= 1;
+        if (s->nreader == 0) {
+          sem_post(&s->fmutex);
+        }
+        sem_post(&s->mutex);
+        printf("Process %d (%s) leaves.\n", process_id, type);
         // sem_wait(p_sem->mutex)
         // printf("Process %d (%s) arrives.\n", i, "reader");
         // printf("s.mutex = %d\n", p_file->size);
@@ -82,7 +106,21 @@ int main(int argc, char *argv[]) {
         // sem_post(*p_sem);
       }
       if (argv[1][i] == 'w') {
-        do_write(p_sem, i, "writer");
+        // do_write(p_sem, i, "writer");
+        int process_id = i;
+        char* type = "reader";
+        Sem *s = p_sem;
+        printf("Process %d (%s) arrives.\n", process_id, type);
+        sem_wait(&s->wmutex);
+        // printf("Process %d pass wmutex.\n", process_id);
+        printf("Process %d starts writing.\n", process_id);
+        sem_wait(&s->fmutex);
+        sleep(2);
+        printf("Process %d ends writing.\n", process_id);
+        sem_post(&s->fmutex);
+        // printf("Process %d release fmutex.\n", process_id);
+        printf("Process %d (%s) leaves.\n", process_id, type);
+        sem_post(&s->wmutex);
         // printf("Process %d (%s) arrives.\n", i, "writer");
         // p_file->size += 1;
       }
@@ -104,7 +142,7 @@ int main(int argc, char *argv[]) {
   // *p = 0;
   // printf("%s", argv[1]);
   wait(NULL);
-  sleep(10);
+  sleep(5);
   // sem_destory(&p_sem->mutex);
   // sem_destory(&p_sem->fmutex);
   // sem_destory(&p_sem->wmutex);
