@@ -65,7 +65,7 @@ int main(int argc, char *argv[]) {
   int segment_id;
   Sem *p_sem;
 
-  printf("%d\n", (int)sizeof(Sem));
+  // printf("%d\n", (int)sizeof(Sem));
   segment_id = shmget(IPC_PRIVATE, sizeof(Sem), S_IRUSR | S_IWUSR);
   p_sem = (Sem *) shmat(segment_id, NULL, 0);
   sem_init(&p_sem->mutex, 1, 1);
@@ -101,7 +101,7 @@ int main(int argc, char *argv[]) {
   // *p = 0;
   // printf("%s", argv[1]);
   wait(NULL);
-  // sleep(5);
+  sleep(8);
   // sem_destory(&p_sem->mutex);
   // sem_destory(&p_sem->fmutex);
   // sem_destory(&p_sem->wmutex);
