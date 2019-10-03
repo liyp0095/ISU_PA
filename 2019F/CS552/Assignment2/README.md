@@ -59,3 +59,5 @@ All Done!
 ## Question
 
 - works well in my linux computer, but incorrect in [pyrite]( (http://web.cs.iastate.edu/~smkautz/cs227f12/labs/lab1/page15.html).
+- ```sem_destory``` not works
+- ```wait(NULL);``` not works
