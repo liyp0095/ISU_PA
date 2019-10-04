@@ -7,6 +7,7 @@
   - [discussion](#discussion)
     - [Task 2a)](#task-2a)
     - [Task 2c)](#task-2c)
+  - [Future work](#future-work)
 <!-- TOC END -->
 
 
@@ -124,3 +125,7 @@ I think the function is admissible. Because it provides correct choice for major
 **Answer:** My heuristic works well on Intranet1 and Intranet5. It reduced the cost (# of visited nodes) significantly. Meanwhile, the solution path increased only several steps. So, the performance is good.
 
 However, the heuristic didn't work well when compared with depth search on Intranet7 and it is the only drawback case. Depth-first Search may get good solution with a little cost. But it does not guarantee the low-cost solution. Best-first Search with Beam didn't get valid solution on Intranet7. It is because the beam width is only 2. And we may discard the correct branch at the beginning of the process.  
+
+## Future work
+
+- does not implement task 3
