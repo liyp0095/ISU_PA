@@ -20,6 +20,11 @@ s1.a;
 struct myStruct *s2;
 s2->a;
 
+Sem s3;
+s3.a = 1;
+Sem *s4;
+s4->a = 1;
+
 ```
 
 ## share memory
