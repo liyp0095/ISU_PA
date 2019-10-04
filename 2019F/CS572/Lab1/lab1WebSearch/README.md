@@ -25,6 +25,8 @@ sh runSearch.sh
 
 ## Runtime result
 
+*we have runtime result in result_runtime.txt*
+
 ```sh
 ============== Task 1 ================
 intranet 1 :
@@ -84,7 +86,6 @@ intranet 5 :
 intranet 7 :
  + Visited 9 nodes, starting @ intranet7/page1.html, using: beam search.
 
-
 ```
 
 ## result
@@ -104,9 +105,22 @@ intranet 7 :
 
 ### Task 2a)
 
-- Is your heuristic admissible? Explain why or why not.
+**Question:** Is your heuristic admissible? Explain why or why not.
 
+**Answer:** My heuristic function consist of 4 parts.
+1. Percentage of all query words in one page.
+2. Percentage of pattern query words in a hypertext.
+3. Percentage of consecutive words in hypertext.
+4. Score of the position of hypertext. (1 for the beginning, 0 for the endding)
+
+I give them weights for 0.2, 0.3, 0.8, 0.2. And the summary are the H-value of one node.
+
+I think the function is admissible. Because it provides correct choice for majority of situations. It is acceptable for human perceptions.
 
 ### Task 2c)
 
-- How well did your heuristic work on the sample intranets?
+**Question:** How well did your heuristic work on the sample intranets?
+
+**Answer:** My heuristic works well on Intranet1 and Intranet5. It reduced the cost (# of visited nodes) significantly. Meanwhile, the solution path increased only several steps. So, the performance is good.
+
+However, the heuristic didn't work well when compared with depth search on Intranet7 and it is the only drawback case. Depth-first Search may get good solution with a little cost. But it does not guarantee the low-cost solution. Best-first Search with Beam didn't get valid solution on Intranet7. It is because the beam width is only 2. And we may discard the correct branch at the beginning of the process.  
