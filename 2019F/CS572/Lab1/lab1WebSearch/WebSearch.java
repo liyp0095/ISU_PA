@@ -8,6 +8,10 @@ import java.util.StringTokenizer;
 
 import java.util.Collections;
 import java.util.Comparator;
+import java.net.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.MalformedURLException;
 
 
 // You should call this code as follows:
@@ -42,6 +46,7 @@ public class WebSearch
 	// class can be used to accomplish this.
 
 	static final String START_NODE     = "page1.html";
+	static final String START_URL			 = "https://en.wikipedia.org/wiki/Computer_science";
 
 	// A web page is a goal node if it includes
 	// the following string.
@@ -72,7 +77,30 @@ public class WebSearch
 			}
 		}
 
-		Utilities.waitHere("Press ENTER to exit.");
+		// Utilities.waitHere("Press ENTER to exit.");
+	}
+
+	static String readURL(String url) {
+		System.out.println(url);
+		String rst = "";
+		try {
+			URL oracle = new URL(url);
+	    BufferedReader in = new BufferedReader(new InputStreamReader(oracle.openStream()));
+
+			String inputLine;
+			System.out.println(in.readLine());
+
+	    while ((inputLine = in.readLine()) != null) {
+				rst += inputLine;
+	      // System.out.println(inputLine);
+			}
+	    in.close();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return rst;
 	}
 
 	static void performSearch(String startNode, String directoryName, String searchStrategy)
@@ -92,9 +120,14 @@ public class WebSearch
 			nodesVisited++;
 
 			// Go and fetch the contents of this file.
-			String contents = Utilities.getFileContents(directoryName
-					+ File.separator
-					+ currentURL);
+			String contents;
+			if (directoryName.equalsIgnoreCase("online")) {
+				contents = readURL(START_URL);
+			} else {
+				contents = Utilities.getFileContents(directoryName
+						+ File.separator
+						+ currentURL);
+			}
 
 			if (isaGoalNode(contents))
 			{
@@ -116,9 +149,10 @@ public class WebSearch
 					+ " |OPEN| = " + OPEN.size());
 		}
 
-		System.out.println(" Visited " + nodesVisited + " nodes, starting @" +
+		System.out.println(" + Visited " + nodesVisited + " nodes, starting @" +
 				" " + directoryName + File.separator + startNode +
 				", using: " + searchStrategy + " search.");
+		System.out.println();
 	}
 
 	// This method reads the page's contents and
@@ -364,12 +398,16 @@ class SearchNode
 	public void reportSolutionPath() {
 		SearchNode curNode = parent;
 		String curName = nodeName;
+		System.out.print(" + Reverse path : ");
+		int pathLength = 0;
 		do {
-			System.out.print(curName + "\t");
+			System.out.print(curName + " ");
 			curName = curNode.getNodeName();
 			curNode = curNode.parent;
+			pathLength += 1;
 		} while (!curName.equalsIgnoreCase("page1.html"));
 		System.out.println("page1.html");
+		System.out.println(" + Path Length : " + pathLength);
 	}
 
 	public String getNodeName() {
