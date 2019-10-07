@@ -1,6 +1,6 @@
 ## Platform
 
-elementory OS + gcc
+elementory OS (linux Ubuntu18) + gcc
 
 ```
 (base) ➜  Assignment2 git:(master) ✗ uname -a
