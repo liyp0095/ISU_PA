@@ -51,3 +51,7 @@
 
 *.DS_Store
 *.zip
+
+# latex
+*.aux
+*.log
