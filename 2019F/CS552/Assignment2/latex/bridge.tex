@@ -1,10 +1,92 @@
 \documentclass{article}
+\usepackage{lmodern}
+\usepackage{algorithm}
+% \usepackage{algorithmic}
+% \usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\renewcommand{\algorithmicrequire}{\textbf{Input: }}
+\algnewcommand\And{\textbf{and }}
+% \renewcommand{\algorithmicensure}{\textbf{Output: }}
 % \date{\today}
 \title{CS552 Assignment 2}
 \author{Yuepei Li}
 
 \begin{document}
 \maketitle
+
+\section{Question 1}
+
+\section{Question 2}
+
+\subsection{Version 1}
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 1, PV}
+  \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
+  \algorithmicrequire \textbf{semaphore} mutex[2] = \{1, 1\}, mutexBridge = 1
+  \begin{algorithmic}
+    \Procedure{Cross(\textit{i})}{}
+      \State \textbf{P}(mutex[i])
+      \If{pass[i] == 0}
+        \State pass[i] += 1
+        \State \textbf{P}(mutexBridge)
+      \Else
+        \State pass[i] += 1
+      \EndIf
+      \State \textbf{V}(mutex[i])
+      \\
+      \State \textbf{Cross Bridge}
+      \\
+      \State \textbf{P}(mutex[i])
+      \State pass[i] -= 1
+      \If{pass[i] == 0}
+        \State \textbf{V}(mutexBridge)
+      \EndIf
+      \State \textbf{V}(mutex[i])
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 1, Monitor}
+  \algorithmicrequire \textbf{semaphore} sem[] = \{0, 0\} \\
+  \algorithmicrequire \textbf{condition} OKtoPass[2] \\
+  \algorithmicrequire \textbf{boolean} busy = false
+
+  \begin{algorithmic}
+    \Procedure{startcross(\textit{i})}{}
+      \If{busy \And pass[1-i] $>$ 0}
+        \State OKtoPass[i].wait
+      \EndIf
+      \State pass[i] += 1
+      \State OKtoPass[i].signal
+    \EndProcedure
+    \\
+    \Procedure{endcross(\textit{i})}{}
+      \State pass[i] -= 1
+      \If{pass[i] == 0}
+        \State OKtoPass[1-i].signal
+      \EndIf
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+
+\begin{algorithm}
+\caption{Euclid’s algorithm}\label{euclid}
+\begin{algorithmic}[1]
+\Procedure{Euclid}{$a,b$}\Comment{The g.c.d. of a and b}
+\State $r\gets a\bmod b$
+\While{$r\not=0$}\Comment{We have the answer if r is 0}
+\State $a\gets b$
+\State $b\gets r$
+\State $r\gets a\bmod b$
+\EndWhile\label{euclidendwhile}
+\State \textbf{return} $b$\Comment{The gcd is b}
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
 
 This is my \emph{first} document prepared in \LaTeX.
 \end{document}
