@@ -3,6 +3,8 @@
 
 import math
 
+accuracy = 0.0000001
+
 def cbrt(x):
     if x == 0:
         return 0
@@ -105,12 +107,41 @@ def quartics(*args):
     return x1, x2, x3, x4
 
 
+def findRealRoots(a):
+    res = []
+    types = (int, float)
+    for i in a:
+        if isinstance(i, types):
+            res.append(i)
+        elif isinstance(i, complex):
+            if abs(i.imag) < accuracy:
+                res.append(i.real)
+    return res
+
+
+def printRoots(a):
+    for i in a:
+        print(i)
+
+
 def main():
     # a, b, c, d = 110, -23, 87, 4
     # print(a, b, c, d)
-    # print(cubics(110, -23, 87, 4))
+    print(" * root of p(x)")
+    res = cubics(110, -23, 87, 4)
+    rres = findRealRoots(res)
+    printRoots(res)
+    print(" * real root of p(x)")
+    print(rres)
+    print()
     # print(cubics(1, 0, 0, 8))
-    print(quartics(43, 1.34, -7, 0, -3400))
+
+    print(" * root of q(x)")
+    res = quartics(43, 1.34, -7, 0, -3400)
+    rres = findRealRoots(res)
+    printRoots(res)
+    print(" * real root of p(x)")
+    print(rres)
     # a = [1.0, -1.7000000000000037, 2.000000000000007, -3.4000000000000004]
     # print(cubics(a[0], a[1], a[2], a[3]))
 

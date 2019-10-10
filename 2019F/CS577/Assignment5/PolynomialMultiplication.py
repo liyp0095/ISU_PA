@@ -29,6 +29,8 @@ def IDFT(ahat):
 
 
 def multiplyPolys(a, b):
+    a = list(a)
+    b = list(b)
     n = max(len(a), len(b))
     m = len(a) + len(b) - 1
     length_align = 1
@@ -45,6 +47,11 @@ def multiplyPolys(a, b):
     return [round(t.real, 2) for t in c[:m]]
 
 
+def printPoly(a):
+    for i in range(len(a)):
+        print("x^" + str(i) + "\t" + str(a[i]))
+
+
 def main():
     # a = [float(i) for i in range(4)]
     # print(DFT(a))
@@ -54,7 +61,13 @@ def main():
     # print(multiplyPolys(a, b))
     p = [-6.8, 10.8, -10.8, 7.4, -3.7, 2.4, -70.1, 1]
     q = [51200, 0, -39712, 104.2, 7392, 0.614, -170, 0, 1]
-    print(multiplyPolys(p, q))
+    res = multiplyPolys(p, q)
+    print("==== p ====")
+    printPoly(p)
+    print("==== q ====")
+    printPoly(q)
+    print("=== p*q ===")
+    printPoly(res)
 
 
 if __name__ == '__main__':

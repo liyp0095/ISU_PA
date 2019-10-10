@@ -4,7 +4,7 @@
 import numpy
 from PolynomialRoots import quartics
 from PolynomialRoots import cubics
-from PolynomialEvalution import evalPoly, evaluate
+from PolynomialEvaluation import evalPoly, evaluate
 
 accuracy = 0.0000001
 
@@ -119,6 +119,11 @@ def mullerMethod(a):
     return r_final
 
 
+def printRoots(a):
+    for i in a:
+        print(i)
+
+
 def main():
     # a = [1, 0, -1]
     # b = [1, 1]
@@ -129,9 +134,11 @@ def main():
     # p = [1,0,0,0,0,0,1]
     p = [1, -3.7, 7.4, -10.8, 10.8, -6.8]
     q = [1, -0.843121, -8.35979, 10.1887, 14.6196, -25.7634, 9.15636, -0.360995, -0.180591, 0.00787276]
-    print(mullerMethod(p))
-    print(mullerMethod(q))
-    print(evaluate(q, complex(0.258139, 0), reverse = True))
+    print("=== roots of p(x) ===")
+    printRoots(mullerMethod(p))
+    print("=== roots of q(x) ===")
+    printRoots(mullerMethod(q))
+    # print(evaluate(q, complex(0.258139, 0), reverse = True))
 
 
 if __name__ == '__main__':
