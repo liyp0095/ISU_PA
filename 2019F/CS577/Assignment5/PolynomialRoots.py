@@ -42,6 +42,13 @@ def cubics(*args):
     # print(a, b)
     # print(CapitalA)
     # print(CapitalB)
+    print("p = ", p)
+    print("q = ", q)
+    print("r = ", r)
+    print("a = ", r)
+    print("b = ", r)
+    print("CapitalA = ", CapitalA)
+    print("CapitalB = ", CapitalB)
     y1 = CapitalA + CapitalB
     y2 = complex(-1/2*(CapitalA + CapitalB), 3**(1/2)/2 * (CapitalA - CapitalB))
     y3 = complex(-1/2*(CapitalA + CapitalB), -3**(1/2)/2 * (CapitalA - CapitalB))
@@ -101,7 +108,8 @@ def quartics(*args):
 def main():
     # a, b, c, d = 110, -23, 87, 4
     # print(a, b, c, d)
-    print(cubics(110, -23, 87, 4))
+    # print(cubics(110, -23, 87, 4))
+    print(cubics(1, 1, 1, 1))
     # print(cubics(1, 0, 0, 8))
     # print(quartics(43, 1.34, -7, 0, -3400))
 
