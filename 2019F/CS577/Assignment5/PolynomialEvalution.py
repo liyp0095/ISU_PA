@@ -2,7 +2,10 @@
 #-*- coding: utf8 -*-
 
 
-def evalPoly(a, t):
+def evalPoly(a, t, reverse = False):
+    if reverse:
+        a = list(a)
+        a.reverse()
     n = len(a) - 1
     b = [0.0] * len(a)
     c = [0.0] * len(a)
@@ -13,6 +16,10 @@ def evalPoly(a, t):
         c[k] = b[k] + t*c[k+1]
     b[0] = a[0] + t*b[1]
     return b[0], c[1]
+
+
+def evaluate(a, t, reverse = False):
+    return evalPoly(a, t, reverse=reverse)[0]
 
 
 def main():
