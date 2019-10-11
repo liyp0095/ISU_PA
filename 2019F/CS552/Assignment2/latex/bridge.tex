@@ -19,13 +19,13 @@
 \begin{document}
 \maketitle
 
-\section{Question 1}
+% \section{}
 
 \section{Question 2}
 
 \subsection{Version 1}
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 1, PV}
   \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
   \algorithmicrequire \textbf{semaphore} mutex[2] = \{1, 1\}, mutexBridge = 1
@@ -52,7 +52,7 @@
   \end{algorithmic}
 \end{algorithm}
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 1, Monitor}
   \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
   \algorithmicrequire \textbf{condition} OKtoPass[2] \\
@@ -78,20 +78,20 @@
 
 \subsection{Version 2}
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 2, Simultaneous P/V}
   \algorithmicrequire \textbf{semaphore} n[2] = \{N\} \Comment{N is the capability of the bridge}
 
   \begin{algorithmic}
     \Procedure{Cross(\textit{i = 0})}{}
       \State \SP(n[i], 1, 1)
-      \State \SP(n[1-i], N, 0)
+      \State \SP(n[1-i], N, 0)\Comment{block, if car from 1 runing on bridge}
       \State CrossBridge
       \State \SV(n[i], 1, 1)
     \EndProcedure
 
     \Procedure{Cross(\textit{i = 1})}{}
-      \State \SP(n[1-i], N, 0)
+      \State \SP(n[1-i], N, 0)\Comment{block, if car waiting at 0.}
       \State \SP(n[i], 1, 1)
       \State CrossBridge
       \State \SV(n[i], 1, 1)
@@ -100,7 +100,7 @@
 \end{algorithm}
 
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 2, Monitor}
   \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
   \algorithmicrequire \textbf{condition} OKtoPass[2] \\
@@ -129,7 +129,7 @@
 
 \subsection{Version 3}
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 3, Monitor}
   \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
   \algorithmicrequire \textbf{condition} OKtoPass[2] \\
@@ -141,7 +141,7 @@
         \State OKtoPass[i].wait
       \EndIf
       \State pass[i] += 1
-      \If{!OKtoPass[1-i].queue}
+      \If{!OKtoPass[1-i].queue} \Comment{if there is no car waitting opposite.}
         \State OKtoPass[i].signal
       \EndIf
     \EndProcedure
@@ -156,7 +156,7 @@
 \end{algorithm}
 
 
-\begin{algorithm}
+\begin{algorithm}[H]
   \caption{Cross Bridge, Version 3, Serializer}
   \algorithmicrequire \textbf{queue} q[2] \\
   \algorithmicrequire \textbf{crowd} crowd[2] \\
@@ -177,22 +177,22 @@
 
 % -------------------------
 
-\begin{algorithm}
-\caption{Euclid’s algorithm}\label{euclid}
-\begin{algorithmic}[1]
-\Procedure{Euclid}{$a,b$}\Comment{The g.c.d. of a and b}
-\State $r\gets a\bmod b$
-\While{$r\not=0$}\Comment{We have the answer if r is 0}
-\State $a\gets b$
-\State $b\gets r$
-\State $r\gets a\bmod b$
-\EndWhile\label{euclidendwhile}
-\State \textbf{return} $b$\Comment{The gcd is b}
-\EndProcedure
-\end{algorithmic}
-\end{algorithm}
-
-
-
-This is my \emph{first} document prepared in \LaTeX.
+% \begin{algorithm}
+% \caption{Euclid’s algorithm}\label{euclid}
+% \begin{algorithmic}[1]
+% \Procedure{Euclid}{$a,b$}\Comment{The g.c.d. of a and b}
+% \State $r\gets a\bmod b$
+% \While{$r\not=0$}\Comment{We have the answer if r is 0}
+% \State $a\gets b$
+% \State $b\gets r$
+% \State $r\gets a\bmod b$
+% \EndWhile\label{euclidendwhile}
+% \State \textbf{return} $b$\Comment{The gcd is b}
+% \EndProcedure
+% \end{algorithmic}
+% \end{algorithm}
+%
+%
+%
+% This is my \emph{first} document prepared in \LaTeX.
 \end{document}
