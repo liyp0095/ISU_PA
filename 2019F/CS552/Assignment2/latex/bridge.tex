@@ -6,6 +6,11 @@
 \usepackage{algpseudocode}
 \renewcommand{\algorithmicrequire}{\textbf{Input: }}
 \algnewcommand\And{\textbf{and }}
+\algnewcommand\Or{\textbf{or }}
+\algnewcommand\SP{\textbf{SP}}
+\algnewcommand\SV{\textbf{SV}}
+\algnewcommand\enqueue{\textbf{enqueue}}
+\algnewcommand\joincrowd{\textbf{joincrowd}}
 % \renewcommand{\algorithmicensure}{\textbf{Output: }}
 % \date{\today}
 \title{CS552 Assignment 2}
@@ -49,13 +54,13 @@
 
 \begin{algorithm}
   \caption{Cross Bridge, Version 1, Monitor}
-  \algorithmicrequire \textbf{semaphore} sem[] = \{0, 0\} \\
+  \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
   \algorithmicrequire \textbf{condition} OKtoPass[2] \\
-  \algorithmicrequire \textbf{boolean} busy = false
+  % \algorithmicrequire \textbf{boolean} busy = false
 
   \begin{algorithmic}
     \Procedure{startcross(\textit{i})}{}
-      \If{busy \And pass[1-i] $>$ 0}
+      \If{pass[1-i] $>$ 0}
         \State OKtoPass[i].wait
       \EndIf
       \State pass[i] += 1
@@ -71,6 +76,106 @@
   \end{algorithmic}
 \end{algorithm}
 
+\subsection{Version 2}
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 2, Simultaneous P/V}
+  \algorithmicrequire \textbf{semaphore} n[2] = \{N\} \Comment{N is the capability of the bridge}
+
+  \begin{algorithmic}
+    \Procedure{Cross(\textit{i = 0})}{}
+      \State \SP(n[i], 1, 1)
+      \State \SP(n[1-i], N, 0)
+      \State CrossBridge
+      \State \SV(n[i], 1, 1)
+    \EndProcedure
+
+    \Procedure{Cross(\textit{i = 1})}{}
+      \State \SP(n[1-i], N, 0)
+      \State \SP(n[i], 1, 1)
+      \State CrossBridge
+      \State \SV(n[i], 1, 1)
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 2, Monitor}
+  \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
+  \algorithmicrequire \textbf{condition} OKtoPass[2] \\
+  % \algorithmicrequire \textbf{boolean} busy = false
+
+  \begin{algorithmic}
+    \Procedure{startcross(\textit{i})}{}
+      \If{pass[1-i] $>$ 0}
+        \State OKtoPass[i].wait
+      \EndIf
+      \If{\textit{i} == 1 \And OKtoPass[1-i].queue}
+        \State OKtoPass[i].wait
+      \EndIf
+      \State pass[i] += 1
+      \State OKtoPass[i].signal
+    \EndProcedure
+    \\
+    \Procedure{endcross(\textit{i})}{}
+      \State pass[i] -= 1
+      \If{pass[i] == 0}
+        \State OKtoPass[1-i].signal
+      \EndIf
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+\subsection{Version 3}
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 3, Monitor}
+  \algorithmicrequire \textbf{int} pass[2] = \{0, 0\} \\
+  \algorithmicrequire \textbf{condition} OKtoPass[2] \\
+  % \algorithmicrequire \textbf{boolean} busy = false
+
+  \begin{algorithmic}
+    \Procedure{startcross(\textit{i})}{}
+      \If{OKtoPass[1-i].queue \Or pass[1-i] $>$ 0}
+        \State OKtoPass[i].wait
+      \EndIf
+      \State pass[i] += 1
+      \If{!OKtoPass[1-i].queue}
+        \State OKtoPass[i].signal
+      \EndIf
+    \EndProcedure
+    \\
+    \Procedure{endcross(\textit{i})}{}
+      \State pass[i] -= 1
+      \If{pass[i] == 0}
+        \State OKtoPass[1-i].signal
+      \EndIf
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+
+\begin{algorithm}
+  \caption{Cross Bridge, Version 3, Serializer}
+  \algorithmicrequire \textbf{queue} q[2] \\
+  \algorithmicrequire \textbf{crowd} crowd[2] \\
+
+  \begin{algorithmic}
+    \Procedure{Cross(\textit{i})}{}
+      \State \enqueue(q[i]) until ((empty(crowd[i]) \And empty(crowd[1-i])) \\
+      \Comment{no one on the bridge}
+      \State \textit{           } \Or (empty(q[1-i]) \And !empty(crowd[i]))) \\
+      \Comment{flow car on same direction}
+      \State \joincrowd(crowd[i])
+        \State \textit{          }cross bridge
+      \State \textbf{end}
+    \EndProcedure
+  \end{algorithmic}
+\end{algorithm}
+
+
+% -------------------------
 
 \begin{algorithm}
 \caption{Euclid’s algorithm}\label{euclid}
@@ -86,6 +191,7 @@
 \EndProcedure
 \end{algorithmic}
 \end{algorithm}
+
 
 
 This is my \emph{first} document prepared in \LaTeX.
