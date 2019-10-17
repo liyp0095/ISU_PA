@@ -14,16 +14,23 @@ last edited: May 2018
 
 import wx
 
-
 class Action:
     def __init__():
-        self.
+        self.pos1 = [0, 0]
+        self.pos2 = [0, 0]
+
+
+class Player:
+    def __init__():
+        self.action = []
+        self.man
 
 
 class State:
     def __init__():
         self.player = {}
-        self.player["X"] = []
+        self.player["X"] = {}
+
 
 
 class Example(wx.Frame):
