@@ -14,6 +14,18 @@ last edited: May 2018
 
 import wx
 
+
+class Action:
+    def __init__():
+        self.
+
+
+class State:
+    def __init__():
+        self.player = {}
+        self.player["X"] = []
+
+
 class Example(wx.Frame):
 
     def __init__(self, *args, **kw):
@@ -23,8 +35,8 @@ class Example(wx.Frame):
 
     def InitUI(self):
 
-        wx.StaticText(self, label='x:', pos=(10,10))
-        wx.StaticText(self, label='y:', pos=(10,30))
+        # wx.StaticText(self, label='x:', pos=(10,10))
+        # wx.StaticText(self, label='y:', pos=(10,30))
 
         self.Bind(wx.EVT_PAINT, self.OnPaint)
         self.Bind(wx.EVT_MOVE, self.OnMove)
@@ -66,8 +78,8 @@ class Example(wx.Frame):
                                 max(0, (y-x)/2)+j*cell_width,
                                 cell_width, cell_width)
 
-        dc.SetPen(wx.Pen('#555'))
-        dc.SetBrush(wx.Brush('#555'))
+        dc.SetPen(wx.Pen('#050505'))
+        dc.SetBrush(wx.Brush('#050505'))
         # dc.DrawCircle(30, 30, 10)
         r = cell_width / 2.8
         for p in state:
