@@ -17,9 +17,10 @@ class Board(wx.Frame):
     def InitUI(self):
         wx.StaticText(self, label='x:', pos=(10,10))
         wx.StaticText(self, label='y:', pos=(10,30))
+        # wx.MessageBox("You Win!", "Message" ,wx.OK | wx.ICON_INFORMATION)
 
         self.Bind(wx.EVT_PAINT, self.OnPaint)
-        self.Bind(wx.EVT_MOVE, self.OnMove)
+        # self.Bind(wx.EVT_MOVE, self.OnMove)
         self.Bind(wx.EVT_SIZE, self.OnSize)
         self.Bind(wx.EVT_LEFT_DOWN, self.OnLeftDown)
 
@@ -45,33 +46,28 @@ class Board(wx.Frame):
         board = self.draughts.state.board
 
         if self.select:
-            print(self.valid)
+            # print(self.draughts.state.utility)
+            # print(self.draughts.state.moves)
             if (row, col) in self.valid:
-                # print(self.start)
-                # self.draughts.state.board[(row, col)] = board[self.start]
-                # del self.draughts.state.board[self.start]
                 self.draughts.post_user_act(self.start, (row, col))
 
                 self.Refresh()
                 self.select = False
 
-                self.draughts.ai_move()
+                if not self.draughts.ai_move():
+                    wx.MessageBox("You Win!", "Message" ,wx.OK | wx.ICON_INFORMATION)
+                    return
+                print(self.draughts.state.moves)
+                if len(self.draughts.state.moves) == 0:
+                    wx.MessageBox("You Lose!", "Message" ,wx.OK | wx.ICON_INFORMATION)
+                    return
                 self.Refresh()
+                # print(self.draughts.state.utility)
+                # print(self.draughts.state.moves)
             else:
                 self.Refresh()
                 self.select = False
             self.valid = set()
-            # elif (row, col) == self.start:
-            # else:
-            #     if (row, col) in board.keys():
-            #         self.start = (row, col)
-            #         self.Refresh()
-            #         print(1)
-            #         self.highlight(row, col)
-            #     else:
-            #         self.Refresh()
-            #         self.select = False
-            # pass
         else:
             if (row, col) not in board.keys():
                 return
@@ -90,8 +86,8 @@ class Board(wx.Frame):
         dc.SetPen(wx.Pen('#0404d4', 3, wx.SOLID))
         for m in self.draughts.state.moves:
             if m[0] == (row, col):
-                self.valid.add(m[1])
-                dc.DrawRectangle(zero_x+m[1][1]*cell_length, zero_y+m[1][0]*cell_length, cell_length, cell_length)
+                self.valid.add(m[-1])
+                dc.DrawRectangle(zero_x+m[-1][1]*cell_length, zero_y+m[-1][0]*cell_length, cell_length, cell_length)
 
 
     def draw_piece(self, row, col, player):
@@ -107,15 +103,21 @@ class Board(wx.Frame):
             dc.DrawCircle(zero_x + cell_length * (col+0.5),
                         zero_y + cell_length * (row+0.5), radius)
         if player == "OK":
+            dc.SetBrush(wx.Brush('#050505'))
             dc.DrawCircle(zero_x + cell_length * (col+0.5),
                         zero_y + cell_length * (row+0.5), radius)
+            dc.SetPen(wx.Pen('#d4f404', radius/10, wx.SOLID))
+            dc.SetBrush(wx.Brush('#f0f0f0', wx.TRANSPARENT))
+            dc.DrawCircle(zero_x + cell_length * (col+0.5),
+                        zero_y + cell_length * (row+0.5), radius/2)
         if player == "XK":
+            dc.SetBrush(wx.Brush('#d5d5d5'))
             dc.DrawCircle(zero_x + cell_length * (col+0.5),
                         zero_y + cell_length * (row+0.5), radius)
-
-
-    def OnMove(self, e):
-        pass
+            dc.SetPen(wx.Pen('#54d404', radius/10, wx.SOLID))
+            dc.SetBrush(wx.Brush('#f0f0f0', wx.TRANSPARENT))
+            dc.DrawCircle(zero_x + cell_length * (col+0.5),
+                        zero_y + cell_length * (row+0.5), radius/2)
 
 
     def OnSize(self, e):
@@ -149,20 +151,6 @@ class Board(wx.Frame):
         # dc.DrawCircle(30, 30, 10)
         for pos, player in board.items():
             self.draw_piece(pos[0], pos[1], player)
-            # if player == "O":
-            #     dc.SetBrush(wx.Brush('#050505'))
-            #     dc.DrawCircle(zero_x + cell_length * (pos[1]+0.5),
-            #                 zero_y + cell_length * (pos[0]+0.5), radius)
-            # if player == "X":
-            #     dc.SetBrush(wx.Brush('#d5d5d5'))
-            #     dc.DrawCircle(zero_x + cell_length * (pos[1]+0.5),
-            #                 zero_y + cell_length * (pos[0]+0.5), radius)
-            # if player == "OK":
-            #     dc.DrawCircle(zero_x + cell_length * (pos[1]+0.5),
-            #                 zero_y + cell_length * (pos[0]+0.5), radius)
-            # if player == "XK":
-            #     dc.DrawCircle(zero_x + cell_length * (pos[1]+0.5),
-            #                 zero_y + cell_length * (pos[0]+0.5), radius)
 
 
 
