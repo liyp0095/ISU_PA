@@ -26,3 +26,8 @@ https://github.com/pyinstaller/pyinstaller/issues/4334
 ## python argparser
 
 https://docs.python.org/2/library/argparse.html
+
+
+## online implementation by others
+
+https://draughts.github.io/
