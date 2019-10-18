@@ -33,7 +33,8 @@ class Board(wx.Frame):
 
 
     def OnLeftDown(self, e):
-        dc = wx.PaintDC(self)
+        # dc = wx.PaintDC(self)
+        dc = wx.ClientDC(self)
         dc.SetPen(wx.Pen('#04d4d4', 3, wx.SOLID))
         dc.SetBrush(wx.Brush('#f0f0f0', wx.TRANSPARENT))
 
@@ -46,8 +47,6 @@ class Board(wx.Frame):
         board = self.draughts.state.board
 
         if self.select:
-            # print(self.draughts.state.utility)
-            # print(self.draughts.state.moves)
             if (row, col) in self.valid:
                 self.draughts.post_user_act(self.start, (row, col))
 
@@ -57,13 +56,10 @@ class Board(wx.Frame):
                 if not self.draughts.ai_move():
                     wx.MessageBox("You Win!", "Message" ,wx.OK | wx.ICON_INFORMATION)
                     return
-                print(self.draughts.state.moves)
                 if len(self.draughts.state.moves) == 0:
                     wx.MessageBox("You Lose!", "Message" ,wx.OK | wx.ICON_INFORMATION)
                     return
                 self.Refresh()
-                # print(self.draughts.state.utility)
-                # print(self.draughts.state.moves)
             else:
                 self.Refresh()
                 self.select = False
@@ -79,7 +75,8 @@ class Board(wx.Frame):
     def highlight(self, row, col):
         zero_x, zero_y, board_length, cell_length, radius = \
             util.get_paint_element(self.GetSize())
-        dc = wx.PaintDC(self)
+        # dc = wx.PaintDC(self)
+        dc = wx.ClientDC(self)
         dc.SetPen(wx.Pen('#04d4d4', 3, wx.SOLID))
         dc.SetBrush(wx.Brush('#f0f0f0', wx.TRANSPARENT))
         dc.DrawRectangle(zero_x+col*cell_length, zero_y+row*cell_length, cell_length, cell_length)
@@ -91,7 +88,8 @@ class Board(wx.Frame):
 
 
     def draw_piece(self, row, col, player):
-        dc = wx.PaintDC(self)
+        # dc = wx.PaintDC(self)
+        dc = wx.ClientDC(self)
         zero_x, zero_y, board_length, cell_length, radius = \
             util.get_paint_element(self.GetSize())
         if player == "O":
@@ -151,7 +149,6 @@ class Board(wx.Frame):
         # dc.DrawCircle(30, 30, 10)
         for pos, player in board.items():
             self.draw_piece(pos[0], pos[1], player)
-
 
 
 def main():

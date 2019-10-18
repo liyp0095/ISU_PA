@@ -15,7 +15,7 @@ import wx
 class Draughts(Game):
     def __init__(self):
         self.state = self.initState()
-        print(self.result(self.state, [(0, 0), (4, 4)]))
+        # print(self.result(self.state, [(0, 0), (4, 4)]))
         pass
         # app = wx.App()
         # frame = wx.Frame(None, style=wx.MAXIMIZE_BOX | wx.RESIZE_BORDER
@@ -142,7 +142,7 @@ class Draughts(Game):
         self.update_state("X")
         if len(self.state.moves) == 0:
             return False
-        a = alphabeta_cutoff_search(self.state, self, d=6, eval_fn=self.eval_fn)
+        a = alphabeta_cutoff_search(self.state, self, d=3, eval_fn=self.eval_fn)
         self.state = self.result(self.state, a)
         self.update_state("O")
         return True
@@ -179,7 +179,7 @@ class Draughts(Game):
         value_number = (len(X) - len(O) + 5*len(XK) - 5*len(OK)) / 10
 
         value = value_number + value_distance
-        print(value)
+        # print(value)
         return value
 
 
@@ -210,7 +210,7 @@ class Draughts(Game):
 
 
     def result(self, state, move):
-        print("result")
+        # print("result")
         if move not in state.moves:
             return state
         board = state.board.copy()
@@ -223,7 +223,7 @@ class Draughts(Game):
             if abs(m[0] - move[i-1][0]) == 2:
                 del board[((m[0]+move[i-1][0])/2,(m[1]+move[i-1][1])/2)]
             del board[move[i-1]]
-        print(board)
+        # print(board)
         for i in range(8):
             if (0, i) in board and board[(0, i)] == "O":
                 board[(0, i)] = "OK"
