@@ -2,6 +2,7 @@
 #-*- coding: utf8 -*-
 
 import sys
+import time
 sys.path.append("../")
 sys.path.append("../aima_python")
 from copy import deepcopy
@@ -142,12 +143,13 @@ class Draughts(Game):
         self.update_state("X")
         if len(self.state.moves) == 0:
             return False
-        a = alphabeta_cutoff_search(self.state, self, d=3, eval_fn=self.eval_fn)
+        start_time = time.time()
+        a = alphabeta_cutoff_search(self.state, self, d=4, eval_fn=self.eval_fn)
         self.state = self.result(self.state, a)
+        print("evaluation = " + str(self.eval_fn(self.state)))
+        print("running time = " + str(time.time() - start_time))
         self.update_state("O")
         return True
-
-        # alphabeta_search(self.state, self)
 
 
     def eval_fn(self, state):

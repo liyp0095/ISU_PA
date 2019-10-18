@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import argparse
 import wx
 
 from draughts import Draughts
@@ -11,12 +12,12 @@ class Board(wx.Frame):
     def __init__(self, *args, **kw):
         super(Board, self).__init__(*args, **kw)
         self.draughts = Draughts()
-
         self.InitUI()
 
+
     def InitUI(self):
-        wx.StaticText(self, label='x:', pos=(10,10))
-        wx.StaticText(self, label='y:', pos=(10,30))
+        # wx.StaticText(self, label='x:', pos=(10,10))
+        # wx.StaticText(self, label='y:', pos=(10,30))
         # wx.MessageBox("You Win!", "Message" ,wx.OK | wx.ICON_INFORMATION)
 
         self.Bind(wx.EVT_PAINT, self.OnPaint)
@@ -35,7 +36,7 @@ class Board(wx.Frame):
     def OnLeftDown(self, e):
         # dc = wx.PaintDC(self)
         dc = wx.ClientDC(self)
-        dc.SetPen(wx.Pen('#04d4d4', 3, wx.SOLID))
+        dc.SetPen(wx.Pen('#04d4d4', 4, wx.SOLID))
         dc.SetBrush(wx.Brush('#f0f0f0', wx.TRANSPARENT))
 
         row, col = util.get_pos(e.GetPosition(), self.GetSize())
@@ -70,7 +71,7 @@ class Board(wx.Frame):
             self.start = (row, col)
             self.highlight(row, col)
             self.select = True
-        # self.Refresh()
+
 
     def highlight(self, row, col):
         zero_x, zero_y, board_length, cell_length, radius = \
@@ -152,7 +153,6 @@ class Board(wx.Frame):
 
 
 def main():
-
     app = wx.App()
     ex = Board(None)
     ex.Show()
