@@ -49,6 +49,7 @@ def h3prime(a, phi):
 
 
 def rho(phi):
+    "des: rho, original function in polar coordinates"
     return cos(phi) + (1-1/4.0*sin(phi)**2)**(1/2.0) + (1-361/400.0*sin(phi)**2)**(1/2.0)
 
 
