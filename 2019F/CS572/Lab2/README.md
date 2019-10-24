@@ -96,3 +96,6 @@ from aima_python.games import Game, GameState, alphabeta_search, alphabeta_cutof
 ```
 
 ## questions
+
+- [ ] moving pieces gif
+- [ ] time consuming (depth=6 cost several seconds for each step)
