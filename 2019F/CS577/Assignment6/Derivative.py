@@ -2,7 +2,7 @@
 # -*- coding: utf8 -*-
 
 '''
-Description: give the function derivative question 6
+Description: give the derivative function in question 6
 Auther: Yuepei Li
 Date: 2019-10-24
 '''
@@ -89,17 +89,21 @@ def k1prime(phi):
     return (s1 - s2) / s3
 
 
+def angTest(ang):
+    print("======== angTest =========")
+    print("ang = ", ang)
+    print()
+    print("p = ", rho(ang))
+    print("p' = ", rho1prime(ang))
+    print("p'' = ", rho2prime(ang))
+    print("p'' = ", rho3prime(ang))
+    print()
+    print("k = ", k(ang))
+    print("k' = ", k1prime(ang))
+
+
 def main():
-    ang = 1.425
-    # print(rho(ang))
-    # print(rho1prime(ang))
-    # print(rho2prime(ang))
-    print(rho3prime(ang))
-    print(k(ang))
-    print(k1prime(ang))
-    # print(k(3.1415))
-    # print(rho(3.1415))
-    # print(k(0.5))
+    angTest(0.5)
 
 
 if __name__ == "__main__":
