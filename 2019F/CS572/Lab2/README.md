@@ -86,6 +86,11 @@ def eval_fn(self, state):
 - Win/Lose
 ![](./images/4.png)
 
+## Relate Work
+
+https://medium.com/free-code-camp/simple-chess-ai-step-by-step-1d55a9266977
+https://draughts.github.io/
+https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a
 
 ## Reference
 
