@@ -15,5 +15,10 @@ def board():
     return render_template('board.html', title='Home')
 
 
+@app.route('/test')
+def test():
+    return render_template('test.html', title='Home')
+
+
 if __name__ == "__main__":
     app.run()
