@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\title{CS572 Assignment 5}
+\author{Yuepei Li}
+\date{2019-11-07}
+
+\begin{document}
+\maketitle
+
+\subsection*{8.24 (48 pts)}
+
+Represent the following sentences in first-order logic, using a consistent vocabulary (which you must define):
+
+\subsubsection*{Answer:}
+
+List of basic vocabulary:
+
+\begin{itemize}
+  \item \textit{Takes(x,c,s)}: student \textit{x} takes course \textit{c} in semester \textit{s};
+  \item \textit{Passes(x,c,s)}: student \textit{x} passes course \textit{c} in semester \textit{s};
+  \item \textit{Score(x,c,s)}: the score obtained by student \textit{x} in course \textit{c} in semester \textit{s};
+
+  % x > y: x is greater than y; F and G: speciﬁc French and Greek courses (one could also interpret these sentences as referring to any such course, in which case one could use a predicate Subject(c,f) meaning that the subject of course c is ﬁeld f;
+  \item \textit{Buys(x,y,z)}: \textit{x} buys \textit{y} from \textit{z};
+  \item \textit{Sells(x,y,z)}: \textit{x} sells \textit{y} to \textit{z};
+  \item \textit{Shaves(x,y)}: person \textit{x} shaves person \textit{y};
+  \item \textit{Born(x,c)}: person \textit{x} is born in country \textit{c};
+  \item \textit{Parent(x,y)}: \textit{x} is a parent of \textit{y};
+  \item \textit{Citizen(x,c,r)}: \textit{x} is a citizen of country \textit{c} for reason \textit{r};
+  \item \textit{Resident(x,c)}: \textit{x} is a resident of country \textit{c};
+  \item \textit{Fools(x,y,t)}: person \textit{x} fools person \textit{y} at time \textit{t};
+  \item \textit{Student(x), Person(x), Man(x), Barber(x), Expensive(x), Agent(x), Insured(x), Smart(x), Politician(x)}: predicates satisﬁed by members of the corresponding categories.
+\end{itemize}
+
+\begin{enumerate}
+  \item Some students took French in spring 200l.
+  \exists \textit{x Student(x)} \land \textit{Takes(x, French, Spring2001)}
+
+  \item Every student who takes French passes it.
+  \forall \textit{x, s Student(x) \land Takes(x, French, s) \to Passes(x, French, s)}
+
+  \item Only one student took Greek in spring 2001.
+  \exists \textit{Student(x) \land Takes(x, Greek, Spring2001) \land \forall y \ne x \to \lnot Takes(y, Greek, Spring2001)}
+
+  \item The best score in Greek is always higher than the best score in French
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
