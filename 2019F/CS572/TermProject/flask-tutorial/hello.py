@@ -17,7 +17,7 @@ def board():
 
 @app.route('/test')
 def test():
-    return render_template('test.html', title='Home')
+    return render_template('t1.html', title='Home')
 
 
 if __name__ == "__main__":
