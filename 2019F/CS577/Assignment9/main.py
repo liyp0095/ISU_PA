@@ -76,7 +76,7 @@ def show_steps(steps):
 
 
 def main():
-    x1, x2 = 1, 1
+    x1, x2 = 0, 0
     print("================= minima ==================")
     print("starts at (%f, %f)" % (x1, x2))
     steps_min = findExtremum(x1, x2, s = 1)
