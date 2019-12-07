@@ -24,6 +24,18 @@ java 8 + elementory OS
 sh runSearch.sh
 ```
 
+```
+.
+├── README.md
+├── WebSearch.java
+├── intranet1/
+├── intranet5/
+├── intranet7/
+├── report.pdf
+├── result_runtime.txt
+└── runSearch.sh
+```
+
 ## Runtime result
 
 *we have runtime result in result_runtime.txt*
