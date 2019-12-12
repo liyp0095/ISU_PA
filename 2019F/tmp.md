@@ -144,3 +144,11 @@ NOTE: Pressing <ESC> will place you in Normal mode or will cancel
 
   6. When typing a  :  command, press CTRL-D to see possible completions.
      Press <TAB> to use one completion.
+
+
+
+## errors
+
+Unable to create io-slave. klauncher said: Error loading ‘/usr/lib/qt/plugins/kf5/kio/file.so’
+
+https://forum.manjaro.org/t/unable-to-create-io-slave-klauncher-said-error-loading-usr-lib-qt-plugins-kf5-kio-file-so/25866
