@@ -31,22 +31,31 @@ public class Server {
 //	d. A text file.
 	
 	public static void main(String[] args) throws Exception {
-		String serverIP = "127.0.0.1";
-		String serverPrivateKeyFile = "server.key";
-		String clientPublicKeyFile = "client.key.pub";
-		String textFile = "text.txt";
+//		String serverPort = "3000";
+//		String serverPrivateKeyFile = "server.key";
+//		String clientPublicKeyFile = "client.key.pub";
+//		String textFile = "text.txt";
 		
+		if (args.length < 4) {
+			System.out.println("Not enough arguments \nUsage: java Server [server port] [server private key file] [client public key file] [text file]");
+			return;
+		}
+
+		int serverPort = Integer.valueOf(args[0]);
+		String serverPrivateKeyFile = args[1];
+		String clientPublicKeyFile = args[2];
+		String textFile = args[3];
+		
+
 		PrivateKey serverPrivateKey = loadPrivateKey(serverPrivateKeyFile, "RSA");
 		PublicKey clientPublicKey = loadPublicKey(clientPublicKeyFile, "RSA");
 		
 		byte[] plainTextInBytes = loadTextFile(textFile);
 		
-		ServerSocket serverSocket = new ServerSocket(6789);
+		ServerSocket serverSocket = new ServerSocket(serverPort);
 		
 		while (true) {
 		   Socket encryptSocket = serverSocket.accept();
-//		   BufferedReader inFromClient = new BufferedReader(
-//				   new InputStreamReader(encryptSocket.getInputStream()));
 		   DataOutputStream outToClient = new DataOutputStream(encryptSocket.getOutputStream());
 		   DataInputStream inFromClient = new DataInputStream(encryptSocket.getInputStream());
 		   
@@ -67,13 +76,14 @@ public class Server {
 			   System.err.println("verification error!");
 			   continue;
 		   }
+		   System.out.println("KeyInBytes:");
+		   printBytes(key128K);
 		   
 		   // AES encryption 
 		   SecureRandom sr = new SecureRandom();
 		   byte[] ivInBytes = new byte[16];
 		   sr.nextBytes(ivInBytes);
 		   byte[] cipherTextInBytes = new byte[(plainTextInBytes.length / 16) * 16 + 16];
-//		   System.out.println(plainTextInBytes.length);
 		   AESEncrypt(plainTextInBytes, cipherTextInBytes, key128K, ivInBytes);
 		   
 		   // send cipher text and IV to client
@@ -82,13 +92,13 @@ public class Server {
 		   outToClient.writeInt(ivInBytes.length);
 		   outToClient.write(ivInBytes);
 		   
-		   
-//		   System.out.println("Received: " + new String(key128K));
-//		   System.out.println("Received: " + valid);
-////		   System.out.println("Received: " + new String(signatureKey128K));
-////		   capitalizedSentence = clientSentence.toUpperCase() + '\n';
-////		   outToClient.writeBytes(capitalizedSentence);
 		}
+	}
+
+        private static void printBytes(byte[] bytes) {
+                for (byte b : bytes) {
+                        System.out.print(b + " ");
+                }
 	}
 	
 	private static byte[] loadTextFile(String textFile) throws IOException {

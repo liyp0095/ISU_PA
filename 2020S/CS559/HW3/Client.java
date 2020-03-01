@@ -24,26 +24,39 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class Client {
 	public static void main(String[] args) throws IOException, Exception {
-		String serverIP = "127.0.0.1";
-		String serverPort = "3000";
-		String clientPrivateKeyFile = "client.key";
-		String serverPublicKeyFile = "server.key.pub";
+//		String serverIP = "127.0.0.1";
+//		String serverPort = "3000";
+//		String clientPrivateKeyFile = "client.key";
+//		String serverPublicKeyFile = "server.key.pub";
+
+		if (args.length < 4) {
+			System.out.println("Not enough arguments \nUsage: java Client [server ip address] [server port] [client private key] [server public key]");
+			return;
+		}
+
+		String serverIP = args[0];
+	       	int serverPort = Integer.valueOf(args[1]);
+		String clientPrivateKeyFile = args[2];
+		String serverPublicKeyFile = args[3];
 		
 		PrivateKey clientPrivateKey = loadPrivateKey(clientPrivateKeyFile, "RSA");
 		PublicKey serverPublicKey = loadPublicKey(serverPublicKeyFile, "RSA");
 		
 		// build a socket and connect to server
-		Socket clientSocket = new Socket("localhost", 6789);
+		Socket clientSocket = new Socket(serverIP, serverPort);
 		DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
 		DataInputStream inFromServer = new DataInputStream(clientSocket.getInputStream());
-//		BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 		
 		// generate symmetric key K (128bit)
 		byte[] key128K = generateSymmetricKey(128);
 		byte[] RSAEncryptedKey128K = RSAEncrypt(key128K, serverPublicKey);
 		byte[] signatureKey128K = signDigitalSignature(key128K, clientPrivateKey, "SHA512withRSA");
-		System.out.println("Ciphertext of K:\n" + new String(RSAEncryptedKey128K));
-		System.out.println("\nSignature of K:\n" + new String(signatureKey128K));
+//		System.out.println("Ciphertext of K:\n" + new String(RSAEncryptedKey128K));
+//		System.out.println("\nSignature of K:\n" + new String(signatureKey128K));
+		System.out.println("Ciphertext of K:\n");
+		printBytes(RSAEncryptedKey128K);
+		System.out.println("\nSignature of K:\n");
+		printBytes(signatureKey128K);
 		
 		// send to server
 		outToServer.writeInt(RSAEncryptedKey128K.length);
@@ -64,76 +77,17 @@ public class Client {
 		// AES decryption
 		byte[] decryptedTextInBytes = new byte[ciphertextLength];
 		AESDecrypt(decryptedTextInBytes, cipherTextInBytes, key128K, ivInBytes);
-		
+
+		System.out.println("Plaintext:");
 		System.out.println(new String(decryptedTextInBytes));
 		
-		
-//		modifiedSentence = inFromServer.readLine();
-		
-//		String text = "fjelaiejfiojeflekafijaoiejflakjefoaie";
-//		int length = ((text.length() / 16) + 1) * 16;
-//		System.out.println(length);
-//		byte[] plainTextInBytes = text.getBytes();
-//		byte[] cipherTextInBytes = new byte[length];
-//		
-//		byte[] decryptedTextInBytes = new byte[length];
-//		
-//		SecureRandom sr = new SecureRandom();
-//		byte[] ivInBytes = new byte[16];
-//		sr.nextBytes(ivInBytes);
-//		byte[] keyInBytes = new byte[16];
-//		sr.nextBytes(keyInBytes);
-//		
-////		byte[] keyInBytes = new byte[] {1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4}; //16 bytes
-////		byte[] ivInBytes = new byte[]{5,6,7,8,5,6,7,8,5,6,7,8,5,6,7,8}; //16 bytes
-//		
-//		AESEncrypt(plainTextInBytes, cipherTextInBytes, keyInBytes, ivInBytes);
-//		AESDecrypt(decryptedTextInBytes, cipherTextInBytes, keyInBytes, ivInBytes);
-//		
-//		System.out.println(new String(plainTextInBytes));
-//		System.out.println(new String(cipherTextInBytes));
-//		System.out.println(new String(decryptedTextInBytes));
-		
-		
-//		//test rsa en/decryption.
-//		
-//		PrivateKey privateKey = loadPrivateKey("client.key", "RSA");
-//		PublicKey publicKey = loadPublicKey("client.key.pub", "RSA");
-//		
-//		String text = "fjelaiejfiojeflekafijaoiejflakjefoaie";
-//		byte[] bytesOriginal = text.getBytes();
-//		byte[] es = RSAEncrypt(bytesOriginal, publicKey);
-//		byte[] ds = RSADecrypt(es, privateKey);
-//		
-//		
-//		System.out.println(new String(bytesOriginal));
-//		System.out.println(new String(es));
-//		System.out.println(new String(ds));
-		
-//		// test digital signiture
-//		String test = "testflaekjglkjf";
-//		byte[] bytestest = test.getBytes("UTF-8");
-//		byte[] sign = signDigitalSignature(bytestest, privateKey, "SHA512withRSA");
-//		boolean bv = verifyDigitalSignature(bytestest, sign, publicKey, "SHA512withRSA");
-//		
-//		System.out.println(new String(bytestest));
-//		System.out.println(new String(sign));
-//		System.out.println(bv);
-		
-		
-//		String sentence;
-//		String modifiedSentence;
-//		BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in));
-//		Socket clientSocket = new Socket("localhost", 6789);
-//		DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
-//		BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-//		sentence = inFromUser.readLine();
-//		System.out.println(sentence);
-//		outToServer.writeBytes(sentence + '\n');
-//		modifiedSentence = inFromServer.readLine();
-//		System.out.println("FROM SERVER: " + modifiedSentence);
-//		clientSocket.close();
 	}
+
+	private static void printBytes(byte[] bytes) {
+		for (byte b : bytes) {
+			System.out.print(b + " ");
+		}
+	}	
 	
 	private static byte[] generateSymmetricKey(int length) {
 		SecureRandom sr = new SecureRandom();

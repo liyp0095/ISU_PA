@@ -16,8 +16,16 @@ public class AsymmetricKeyProducer {
 		
 //		String privateKeyFile = "client.key";
 //		String publicKeyFile = "client.key.pub";
-		String privateKeyFile = "server.key";
-		String publicKeyFile = "server.key.pub";
+		//String privateKeyFile = "server.key";
+		//String publicKeyFile = "server.key.pub";
+
+		if (args.length < 2) {
+			System.out.println("Not enough arguments \nUsage: java AsymmetricKeyProducer [public key file] [pricate key file]");
+			return;
+		}
+
+		String privateKeyFile = args[1];
+		String publicKeyFile = args[0];
 		String algorithm = "RSA";
 		
 		KeyPair kp = generateKeyPair(algorithm);
