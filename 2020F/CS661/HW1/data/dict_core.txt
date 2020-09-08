@@ -1,0 +1,4337 @@
+GENE-Y	psbA
+GENE-N	lncRNA-binding protein
+CHEMICAL	vitamin K 2,3-epoxide
+CHEMICAL	anthracene
+GENE-Y	Mrp3
+CHEMICAL	glutathione disulfides
+CHEMICAL	pindolol
+GENE-Y	VGlut2
+GENE-N	sulfatase
+GENE-Y	osterix
+GENE-Y	D(2) receptors
+GENE-N	Phosphodiesterase 4
+GENE-Y	RIP1
+CHEMICAL	triphenyl phosphate
+GENE-Y	miR-34c
+CHEMICAL	cyclophilin-A
+CHEMICAL	Ponatinib
+GENE-N	lipase
+GENE-Y	FSHβ
+CHEMICAL	2-deoxy-[(3)H]-d-glucose
+CHEMICAL	2-[hydroxyimino methyl]-1-methylpyridinium chloride
+GENE-Y	PTPA
+GENE-N	DRD3 promoter
+GENE-N	C299S
+GENE-N	interleukin-2 receptor
+GENE-N	serum aminotransferases
+CHEMICAL	N-acetylaspartyl-β-linked glutamate
+CHEMICAL	petroleum hydrocarbons
+GENE-Y	SOD1-specific chaperone
+CHEMICAL	symplostatin 5
+GENE-N	FabI enoyl-ACP reductase
+CHEMICAL	tazarotene
+CHEMICAL	MMP
+CHEMICAL	Tomudex
+GENE-Y	TMPKs
+GENE-N	Melastatin
+GENE-N	nitric oxide synthase
+GENE-Y	TReP-132
+GENE-Y	Sod
+CHEMICAL	[(3)H]-noradrenaline
+CHEMICAL	kynurenate
+CHEMICAL	Gal beta-1,4 GlcNAc
+GENE-Y	atrial natriuretic factor
+CHEMICAL	bacitracin A
+CHEMICAL	3-HK
+GENE-N	TTG
+GENE-Y	MeCP2
+GENE-Y	rat dopamine transporter
+GENE-N	118A/G
+GENE-Y	phosphatidylserine synthase-2
+GENE-N	mitochondrial PTP
+GENE-N	RDH
+GENE-Y	CUP
+CHEMICAL	tetrahydrocorticosterone
+GENE-Y	NTS2
+CHEMICAL	L-mimosine
+CHEMICAL	benzofuran salicylic acid
+CHEMICAL	3H-NOMAC
+GENE-Y	VASP
+GENE-N	osteoblast-specific Col1a1 promoter
+CHEMICAL	n6 polyunsaturated fatty acids
+GENE-N	serine/threonine protein kinases
+CHEMICAL	etopoxide
+CHEMICAL	11C-doxepin
+GENE-N	extracellular-signal regulated kinases 1/2
+GENE-Y	sICAM-1
+CHEMICAL	ZYJ-34c
+GENE-Y	brain natriuretic peptide
+CHEMICAL	indium-111
+CHEMICAL	DMSO
+CHEMICAL	dihaloalkanes
+CHEMICAL	dimethyloxalylglycine
+GENE-Y	SAHH
+CHEMICAL	N-methyl-8-aminotetrahydroisoquinoline
+CHEMICAL	beta-aminoisobutyrate
+GENE-Y	alpha3beta4 nicotinic cholinergic receptors
+CHEMICAL	TAE684
+CHEMICAL	S-adenosyl-L-methionine
+GENE-Y	hepatocyte growth factor activator
+CHEMICAL	progesterone
+GENE-Y	Mammalian cysteine dioxygenase
+CHEMICAL	isoflurophate
+GENE-Y	Nrf2
+CHEMICAL	ibuprophen
+GENE-Y	PIM2
+CHEMICAL	gallamine
+GENE-N	β-secretase
+CHEMICAL	Marinol
+GENE-Y	aldo-keto reductase 1B10
+GENE-N	adenosine triphosphate synthase
+GENE-N	multiple receptor tyrosine kinases
+GENE-N	actin
+CHEMICAL	di-sodium salt of 4,4'-dinitrostilbene-2,2'-disulphonic acid
+GENE-N	Chk1/2
+CHEMICAL	SR 48692
+GENE-Y	peroxisome proliferator-activated receptor alpha
+GENE-Y	D2Rs
+CHEMICAL	gamma-thio-ATP
+GENE-N	G(i/o)-coupled receptor
+CHEMICAL	Arsenic trioxide
+CHEMICAL	2,4-diaminopyrimidine-5-carboxamide
+GENE-Y	5-HT(3)
+GENE-N	AmpC ß-lactamases
+GENE-Y	LYSO
+GENE-N	alpha1-adrenoceptor
+CHEMICAL	lactacystin
+CHEMICAL	Bisphosphonates
+GENE-Y	neuropeptide tyrosine
+CHEMICAL	diphenylene iodonium
+CHEMICAL	Ba
+GENE-N	variable-number-tandem-repeat
+CHEMICAL	5-nitro-2(3-phenylpropylamino)benzoic acid
+CHEMICAL	oxalate
+CHEMICAL	MEP
+GENE-N	insulin secretory granule proteins
+CHEMICAL	flavin mononucleotide
+GENE-N	CDP-alcohol phosphotransferase
+CHEMICAL	2- and 3-methylpentane
+GENE-Y	human glyoxalase II
+GENE-N	sweet taste receptor
+CHEMICAL	caracurine V
+CHEMICAL	delavirdine
+CHEMICAL	TXB(2)
+GENE-Y	D4 dopamine receptor
+GENE-N	acetylcholine receptor
+CHEMICAL	DMAEMA
+GENE-Y	IL-2 receptor
+GENE-N	human vesicular monoamine transporter
+CHEMICAL	bafilomycin A1
+GENE-Y	PTH/PTHrP receptor 1
+CHEMICAL	U-60,257
+CHEMICAL	17-hydroxypregnenolone
+GENE-Y	PP
+GENE-Y	E3α-II
+GENE-N	CB5 and CB9 cyanogen bromide peptides
+CHEMICAL	valproyl-CoA
+CHEMICAL	meclofenamate
+GENE-Y	PIAS4
+GENE-Y	voltage-gated KCNQ2 potassium channel
+GENE-N	serine protease domain
+GENE-Y	alpha(2D)-adrenoceptors
+GENE-Y	insulin-like growth factor-I receptor
+CHEMICAL	Sodium salicylate
+GENE-Y	NR1
+CHEMICAL	bilirubin
+CHEMICAL	glucosylceramide
+CHEMICAL	DCPIB
+GENE-Y	green fluorescent protein
+CHEMICAL	L-aspartic acid
+GENE-Y	Human cathepsin B
+GENE-Y	CHK1
+CHEMICAL	PtdIns(3,5)P2
+CHEMICAL	lenalidomide
+CHEMICAL	Nec-1
+CHEMICAL	medroxyprogesterone acetate
+CHEMICAL	<sc>l</sc>-carnitine
+CHEMICAL	GTS-21
+CHEMICAL	beta-hydroxyl
+CHEMICAL	1,3,4-oxadiazol-2-ones
+GENE-N	PRRs
+CHEMICAL	3,4-dichloropropionanalide
+CHEMICAL	carbamylcholine chloride
+CHEMICAL	Prostanoids
+CHEMICAL	Antag I
+GENE-Y	RAR beta
+GENE-Y	AKR1B10
+GENE-Y	mGlu2
+GENE-Y	MafA
+GENE-Y	PXR
+CHEMICAL	cathinone
+GENE-Y	matrix metalloproteinases (MMP)-2
+CHEMICAL	flavonoid
+GENE-N	cAMP-specific PDE4
+GENE-N	Ras
+CHEMICAL	2-Hydroxychalcone
+GENE-N	mGluR2/3
+CHEMICAL	borate
+GENE-Y	cellular retinoic acid binding protein type II
+CHEMICAL	3-(4'-Methoxyphenyl)-6-nitrocoumarin
+GENE-N	adrenoceptors
+GENE-Y	leptin receptor
+CHEMICAL	indomethacin amides
+GENE-Y	PACAP
+GENE-Y	neurotensin NT1 receptors
+CHEMICAL	flecainide
+GENE-Y	alpha(2A)-adrenoceptor
+CHEMICAL	vismodegib
+GENE-Y	D2 autoreceptor
+CHEMICAL	INS37217
+GENE-N	5-hydroxytryptamine1C
+GENE-N	Type 1 and a Type 2 MetAP
+CHEMICAL	two ring aromatic
+GENE-Y	Factor VII
+CHEMICAL	PCB 136
+CHEMICAL	BMY 7378
+GENE-Y	thioredoxin
+CHEMICAL	pyrido[4,3,2-mn]acridine
+GENE-N	human fibrinogen
+GENE-Y	organic anion transporting polypeptide 1B1
+CHEMICAL	peroxide
+GENE-Y	PI3Kγ
+CHEMICAL	picrotoxin
+GENE-N	421C>A
+CHEMICAL	PD-98059
+GENE-N	P-glycoprotein
+CHEMICAL	phosphatidylserine
+CHEMICAL	hydrotalcite
+GENE-Y	interferon-α2a
+GENE-Y	poly(A) ribonuclease
+CHEMICAL	Clotrimazole
+GENE-N	T-type channels
+CHEMICAL	limonoid orthoesters
+GENE-Y	human ether-a-go-go related gene (HERG) K+ channels
+GENE-Y	ScARP
+CHEMICAL	butoxamine
+CHEMICAL	Galangin
+GENE-Y	LDL receptor
+GENE-N	IRKs
+GENE-N	serotonin and norepinephrine transporters
+CHEMICAL	1-nitropyrene
+CHEMICAL	(-)-[(125)I]-iodocyanopindolol
+GENE-Y	P450scc
+GENE-N	Col1
+GENE-Y	SMA
+CHEMICAL	LiCl
+GENE-N	histone H2A
+CHEMICAL	NO(2)
+CHEMICAL	mecamylamine
+GENE-Y	TLR-7
+GENE-N	PHDs
+CHEMICAL	TFEC
+GENE-Y	SRIF-14
+CHEMICAL	edrophonium chloride
+CHEMICAL	GSK2239633A
+CHEMICAL	ryanodine
+GENE-N	adrenoreceptors
+CHEMICAL	glucuronic acid
+CHEMICAL	lathyrane diterpene
+GENE-Y	5-HT(3) receptors
+CHEMICAL	GR46,611
+GENE-Y	ARNT
+GENE-N	NAD- or NADP-linked oxidoreductase
+CHEMICAL	Aldehyde
+CHEMICAL	3-(1H-indol-3-yl)propanehydrazide
+GENE-N	adenylcyclase
+GENE-N	soluble esterases
+CHEMICAL	2,7-dichlorodihydrofluorescin diacetate
+GENE-Y	HTR1A
+GENE-Y	MLL1
+GENE-Y	rhHDAC1
+CHEMICAL	MDL 100.151
+CHEMICAL	S-nitrosocysteine
+GENE-Y	V(2)-receptor
+GENE-Y	Smad-2
+CHEMICAL	etonogestrel
+CHEMICAL	flavones
+GENE-Y	GDNF
+CHEMICAL	meclofenamic acid
+GENE-N	protease
+CHEMICAL	Cu(I)
+GENE-N	DNA polymerases
+CHEMICAL	Amino acids
+CHEMICAL	N-acetyl methyl
+GENE-Y	insulin-like growth factor-I
+CHEMICAL	E7080
+GENE-Y	CA
+GENE-Y	adenine phosphoribosyltransferase
+GENE-N	cyclin-dependent kinases
+CHEMICAL	LEV
+GENE-N	Gq protein
+CHEMICAL	Doxorubicin
+GENE-Y	mitochondrial lysyl-tRNA synthetase
+CHEMICAL	Milrinone
+GENE-Y	Il-8
+CHEMICAL	[(3)H]tamsulosin
+CHEMICAL	Cilastatin
+CHEMICAL	cis-sec-amine
+GENE-N	AKR enzymes 1B1 and 1B10
+GENE-Y	kinin B(1) receptor
+GENE-Y	tyrosine kinase 2
+GENE-Y	SHMT-L
+GENE-Y	v-myc myelocytomatosis viral oncogene homolog
+CHEMICAL	mesaconine
+CHEMICAL	NaN3
+GENE-N	K114I
+GENE-Y	Alb
+CHEMICAL	anthracycline
+CHEMICAL	CGS 12066
+CHEMICAL	Adenine
+GENE-N	Mouse α-and β-Cardiac Myosins
+GENE-Y	Hu BChE
+GENE-Y	Kir4.1
+GENE-Y	hypoxia inducible factor-1alpha
+CHEMICAL	CdTe
+GENE-Y	nSMase3
+CHEMICAL	tHcy
+GENE-Y	Metabotropic glutamate 5 (mGlu₅) receptors
+GENE-N	alpha(2)
+GENE-Y	brain-type natriuretic peptide
+CHEMICAL	tetrahydropteroyl-L-glutamic acid
+CHEMICAL	oxoplatin
+GENE-Y	p85alphaphosphatidylinositol 3-kinase
+GENE-N	caspase-3, -8,-6/9
+CHEMICAL	DAGs
+CHEMICAL	MCT
+CHEMICAL	3-hydroxybenzylhydrazine
+CHEMICAL	5-chloro-N2-(2-isopropoxy-5-methyl-4-(piperidin-4-yl)phenyl)-N4-(2-(isopropylsulf onyl)phenyl)pyrimidine-2,4-diamine
+CHEMICAL	alkynyl
+GENE-Y	carnitine palmitoyltransferase 1
+CHEMICAL	BMS-512148
+GENE-Y	AT2 receptor
+GENE-N	protein kinases
+GENE-N	murine TSSKs
+GENE-N	Acsl
+CHEMICAL	tricine
+CHEMICAL	ellagic acid
+GENE-N	phospho-calcium-calmodulin dependent kinase II
+CHEMICAL	2α,3α-diacetyltaraxer-14-en-28-oic acid
+GENE-N	A614V
+CHEMICAL	clozapine
+CHEMICAL	(3Z)-3-quinolin-2(1H)-ylidene-1,3-dihydro-2H-indol-2-one
+GENE-N	FMO1
+CHEMICAL	R=Et
+GENE-N	botulinum toxins
+GENE-Y	H-Ras
+CHEMICAL	DHEAS
+GENE-Y	CCND3
+GENE-N	delta 14 reductase
+GENE-N	apoptosis-related proteins
+GENE-N	quinone reductases
+GENE-Y	Bcl-(XL)
+GENE-N	NAD-dependent dehydrogenases
+CHEMICAL	chlorin e6
+GENE-N	(epislon1/epsilon2) receptors
+CHEMICAL	Bosutinib
+CHEMICAL	6-OHDA
+CHEMICAL	1,3-dialkyl-8-phenyl xanthines
+CHEMICAL	triterpenoid
+CHEMICAL	lidoocaine
+GENE-N	FabF
+GENE-Y	glyceraldehyde-3-phosphate dehydrogenase
+GENE-Y	Na-K-2Cl cotransporter 1
+GENE-N	nuclear transcription factors
+CHEMICAL	L-cysteine, ethyl ester, S-(N-methylcarbamate) monohydrochloride
+GENE-Y	orexin-1
+GENE-Y	DAX-1
+CHEMICAL	[D-Ala2, D-Leu5]enkephalin
+CHEMICAL	2,4-diethyl-TX
+CHEMICAL	DADLE
+CHEMICAL	E-64d
+GENE-N	IL-1
+CHEMICAL	arylboronates
+GENE-N	c-Jun N-terminal protein kinase
+GENE-Y	PPP2R2B
+CHEMICAL	perfluorooctanoic acid
+CHEMICAL	[(14)C]Sorafenib
+CHEMICAL	methylamine
+CHEMICAL	glyburide
+GENE-Y	MRP4
+CHEMICAL	prostaglandins E1 and E2
+GENE-Y	dopamine receptor subtype D2
+CHEMICAL	racemic-omeprazole
+GENE-Y	Torpedo acetylcholinesterase
+GENE-Y	smooth muscle alpha-actin
+CHEMICAL	pioglitazone HCl
+CHEMICAL	D-phenylalanine
+CHEMICAL	Gal alpha 1 --> 4 Gal
+GENE-Y	APRT
+CHEMICAL	decynium 22
+GENE-Y	human organic anion transporter 2
+CHEMICAL	Ibuprofen
+CHEMICAL	OPC-4392
+CHEMICAL	oxazepam
+CHEMICAL	methotrexat
+GENE-Y	p85α
+CHEMICAL	JL344
+CHEMICAL	BAY 50-4798
+CHEMICAL	carboxylic
+GENE-N	tryptophyllins
+CHEMICAL	7,12-dimethylbenz(a)anthracene
+GENE-N	R175H
+GENE-Y	Dmap1
+GENE-N	CYP51
+GENE-N	GPx4
+CHEMICAL	diols
+CHEMICAL	SB-408124
+GENE-Y	Smad2
+GENE-Y	tyrosine kinase Jak2
+CHEMICAL	8pSPT
+CHEMICAL	[(3)H]inositol phosphates
+CHEMICAL	arylpropylsulfonamide
+CHEMICAL	testolactone
+GENE-Y	CPT-1
+GENE-Y	serotonin receptor 2C (5-HT(2C)) gene
+CHEMICAL	anilino
+GENE-Y	GAD65
+GENE-N	PRKA
+CHEMICAL	tryptophanyl
+GENE-N	V-ATPase
+CHEMICAL	chlorpyrifos
+GENE-N	alpha-, beta-, and gamma-subunits of ENaC
+GENE-Y	PPARgamma2
+CHEMICAL	Histamine
+GENE-Y	B cell Lymphoma-2
+CHEMICAL	Elacridar
+GENE-N	ALDH10
+GENE-Y	P2X7 receptor
+CHEMICAL	(R)(+)-N-propargyl-1-aminoindan
+GENE-Y	cystathionine gamma-lyase
+CHEMICAL	norfenfluramin
+CHEMICAL	NH(2)
+CHEMICAL	berberine
+GENE-N	CCKA and CCK(B) receptors
+CHEMICAL	Betamethasone
+GENE-Y	coagulation factor VIII
+GENE-N	Aldehyde dehydrogenase
+CHEMICAL	p-chloroamphetamine
+GENE-Y	Steroid receptor coactivator-1
+CHEMICAL	LMN
+GENE-N	alpha1D- and alpha1B-adrenergic receptors
+CHEMICAL	EMATE
+GENE-N	cAMP-response element binding protein
+CHEMICAL	pimozide
+GENE-Y	prostaglandin-H2 D-isomerase
+CHEMICAL	oleic acid
+CHEMICAL	thiazolyl blue tetrazolium bromide
+CHEMICAL	Sulfide
+GENE-N	Wheat germ agglutinin
+CHEMICAL	2',2'-difluorodeoxycytidine
+GENE-Y	c-fos
+GENE-N	fungal translation elongation factor 2
+CHEMICAL	2-aminobenzothizole
+GENE-Y	FIX
+CHEMICAL	3-hydroxy-3-methylglutaryl-CoA
+GENE-N	Insulin-like growth factor 1
+GENE-Y	P300
+CHEMICAL	Tazorac
+CHEMICAL	[( 3H]20 alpha-OHP)
+CHEMICAL	(CH(3))(2)Se
+GENE-N	integrins alphavbeta3 and alphavbeta5
+GENE-Y	alpha(2A/D)-adrenoceptor
+GENE-N	purinergic receptor
+CHEMICAL	aconine
+CHEMICAL	glycolate
+CHEMICAL	3,4-methylenedioxy-α-ethylphenethylamine
+CHEMICAL	L-Cysteine
+CHEMICAL	Methoxy
+GENE-Y	AChE-1
+CHEMICAL	1-acetylpyrene
+GENE-N	P-gp
+GENE-N	acyltransferases
+GENE-N	ser/thr kinases
+GENE-Y	agouti-related peptide
+CHEMICAL	VCR
+CHEMICAL	OEGMA
+GENE-N	Ca(2+)-activated K(+) channels
+GENE-N	GluR-AoBo
+GENE-N	humanized' CYP3A
+GENE-N	cytochrome P450 monooxygenase
+GENE-Y	CMPK
+CHEMICAL	CX 516
+GENE-N	L-type calcium channel
+GENE-N	ω-hydroxylase
+GENE-Y	ATR
+CHEMICAL	Magnetite
+GENE-N	P/Q-type voltage-dependent calcium channel
+GENE-Y	RARα
+GENE-Y	FXa
+GENE-N	Ca(2+) and K(+) channels
+CHEMICAL	UDP-6-biotinyl-Gal
+CHEMICAL	prostanoid
+CHEMICAL	+L-DOPA
+GENE-N	I1061T
+GENE-Y	DPP4
+GENE-N	type I interferons
+GENE-N	SPT
+CHEMICAL	NaOCl
+CHEMICAL	S-Adenosylmethionine
+GENE-Y	5,10-methylenetetrahydrofolate reductase
+GENE-N	nicotinic receptor
+GENE-Y	SPC2
+CHEMICAL	chromium borides
+GENE-N	catecholamine transporters
+GENE-Y	multidrug resistance-associated protein 1
+CHEMICAL	Piroxicam
+CHEMICAL	SR-121463
+CHEMICAL	kainic acid
+GENE-N	proton pump
+CHEMICAL	Organophosphate
+CHEMICAL	[10,19-3H]dihydrotachysterol3
+CHEMICAL	glut-5-en-3β-ol
+GENE-N	5-Aminolevulinic acid synthase
+CHEMICAL	phosphorodichloridic acid
+GENE-N	glycoproteins
+CHEMICAL	zotepine
+GENE-Y	IFN-alpha 2a
+GENE-Y	GRase
+GENE-Y	AKR1C3
+CHEMICAL	Aspirin
+CHEMICAL	Al
+GENE-Y	alpha(1B)
+CHEMICAL	piclamilast
+GENE-Y	Delta6-fatty acid desaturase
+GENE-Y	methionine adenosyltransferase-1a
+GENE-Y	prostaglandin endoperoxide synthase-1
+CHEMICAL	[(3)H]PEA
+GENE-N	hsp90
+GENE-N	psbZ-50
+CHEMICAL	3-acetyldeoxynivalenol
+GENE-N	p-PI3K
+GENE-N	glucose oxidase
+GENE-Y	mPPARα
+GENE-N	zinc-endopeptidase
+GENE-Y	HSD-1
+GENE-N	human concentrative nucleoside transporters
+CHEMICAL	arginine
+GENE-N	plant homeodomain
+GENE-Y	Tropomyosin Receptor Kinase A
+GENE-Y	Phosphodiesterase-5
+CHEMICAL	Ergovaline
+GENE-Y	FPR2
+GENE-Y	cyclin-dependent kinase inhibitor p21
+CHEMICAL	S-145
+CHEMICAL	flutamide
+CHEMICAL	kavalactones
+CHEMICAL	amine
+CHEMICAL	nonpiperidines
+GENE-N	Serum HDL
+GENE-N	TRα
+GENE-Y	PER2
+CHEMICAL	SB 200646A
+GENE-N	HAS
+CHEMICAL	Triamcinolone acetonide
+GENE-N	ROMK
+GENE-Y	c-SRC
+GENE-N	ω-aminoaldehyde dehydrogenases
+GENE-Y	DnaJ
+CHEMICAL	acid acetic
+GENE-Y	AGT 1
+GENE-Y	alpha(1L)-AR
+CHEMICAL	(+)- and (-)-huperzine A
+CHEMICAL	Bis(12)-hupyridone
+GENE-Y	macrophage migration inhibitory factor
+GENE-N	RF
+GENE-N	TnC, F1 and F2
+CHEMICAL	Ti(IV)
+GENE-Y	mu-selective opioid receptor
+CHEMICAL	formaldehyde
+CHEMICAL	N-(4-hydroxyphenyl)retinamide
+CHEMICAL	7. 8-Epi-PGF2
+GENE-Y	FTCD
+GENE-N	Nuclear receptors
+GENE-N	survivin
+CHEMICAL	Diaion HP20SS
+GENE-Y	ntg1
+GENE-N	Pgp
+GENE-Y	c-Myc
+GENE-Y	H4 receptor
+GENE-N	collagenous triple helix
+CHEMICAL	acyl coenzyme
+CHEMICAL	Zovirax
+GENE-Y	AS
+GENE-N	electrophile/oxidant-sensing domain
+GENE-Y	glyceraldheyde-3-phosphate dehydrogenase
+CHEMICAL	B12H
+GENE-Y	mammalian Sec synthase
+GENE-N	human beta1-, beta2-, and beta3-AR
+CHEMICAL	12(S)-HETE
+CHEMICAL	TEPA
+GENE-N	calpastatin type I
+CHEMICAL	1-(2-(2-chloro-4-(2H-1,2,3-triazol-2-yl)benzyl)-2,7-diazaspiro[3.5]nonan-7-yl)-2-(2-methylimidazo[2,1-b]thiazol-6-yl)ethanone
+CHEMICAL	[(11)C]-RTI32
+CHEMICAL	dFdG
+GENE-Y	vascular cell adhesion molecule 1
+GENE-Y	PGC-1α
+GENE-Y	NHE5
+GENE-Y	BoNT/A
+CHEMICAL	Vinblastine
+GENE-N	fructose-1, 6-bisphosphatase
+CHEMICAL	dioxin
+GENE-Y	HDAC 6
+GENE-Y	SRC1
+CHEMICAL	enprofylline
+CHEMICAL	naphtho[1,2-b]furan-4,5-dione
+CHEMICAL	Glu
+CHEMICAL	15-HETE
+GENE-N	tryptic peptidases
+GENE-N	GATA
+GENE-N	glutamine (methionine) aromatic amino acid aminotransferase
+GENE-N	G-protein q
+CHEMICAL	MPEP
+GENE-Y	murine NOS II
+GENE-Y	type I GnRH receptor
+GENE-N	bacterial thioredoxin reductase
+GENE-N	Pol D
+GENE-N	BrBK2-8
+CHEMICAL	triphosphates of 4'-thio-FAC
+GENE-N	Vax2
+CHEMICAL	γ-oryzanol
+GENE-N	nicotinic acetylcholine receptor
+GENE-Y	Delta(1)-pyrroline-5-carboxylate reductase
+GENE-N	phospho-extracellular signal-regulated kinase (Erk)1/2
+GENE-Y	NOS-2
+CHEMICAL	taraxer-14-ene
+GENE-N	KCC
+CHEMICAL	SR 49059
+GENE-N	iCP
+GENE-N	peptidylarginine deiminase
+GENE-Y	HLA-B*57:01
+CHEMICAL	Amitriptyline
+GENE-Y	tissue PA
+GENE-N	imidazoline receptors
+GENE-Y	PTH1R
+GENE-N	FabH
+GENE-N	α9α10 Nicotinic Acetylcholine Receptor
+GENE-Y	serotonin receptor 7
+CHEMICAL	[(3)H]PGE(2)
+CHEMICAL	Progestins
+GENE-Y	D4
+GENE-Y	beta 1
+GENE-Y	placenta growth factor
+CHEMICAL	alcoholic
+GENE-Y	beta-endorphin
+GENE-N	alpha 2 receptor
+CHEMICAL	methylene-tetrahydrofolate
+GENE-Y	LPA1
+CHEMICAL	sodium 4-phenylbutyrate
+CHEMICAL	N-Acetyl-L-aspartyl-L-glutamate
+GENE-Y	PRKAG3
+GENE-N	VEGFR
+CHEMICAL	luteolin
+CHEMICAL	trimedoxime
+GENE-Y	SULT1A3
+CHEMICAL	Cu(II)
+GENE-N	SAP
+GENE-N	TC
+GENE-N	human alpha-2 adrenoceptors
+GENE-Y	methylene-tetrahydrofolate (methylene-THF) reductase
+GENE-Y	VGlut1
+CHEMICAL	Ponceau 4R
+GENE-N	steroid 5----4-ene-isomerase
+CHEMICAL	Wst-1
+GENE-N	COP9 signalosome
+GENE-Y	cyclin D1
+GENE-Y	ribosomal protein S6
+GENE-N	cardiac two-pore-domain potassium (K(2P)) channels
+GENE-Y	SNA
+GENE-Y	3-methylglutaconyl-CoA hydratase
+CHEMICAL	parkinsonian toxin
+GENE-N	Cm-ADH1
+CHEMICAL	allylamines
+CHEMICAL	peroxides
+CHEMICAL	imidazopyridazines
+GENE-Y	SV2A
+CHEMICAL	petroleum hydrocarbon
+GENE-Y	Interleukin (IL)-6
+CHEMICAL	methcathinone
+GENE-N	human and rat dihyroorotate dehydrogenase
+CHEMICAL	gallium maltolate
+CHEMICAL	sulfa
+GENE-Y	ornithine transcarbamylase
+CHEMICAL	sinensetin
+GENE-Y	nuclear factor-erythroid-2-related factor 2
+GENE-N	gamma-aminobutyric acid receptor
+GENE-Y	51 kDa active site subunit of the NADH-ubiquinone oxidoreductase
+GENE-N	phosphodiesterase type 4
+GENE-N	Murine oatp1a/1b
+CHEMICAL	TCP
+GENE-Y	nad1
+CHEMICAL	(+/-)-sotalol
+CHEMICAL	MK-2206
+GENE-Y	X-inactive-specific transcript
+CHEMICAL	thiocholine
+GENE-Y	P-FADD
+CHEMICAL	3-MC
+GENE-Y	bile salt export pump
+GENE-Y	rat D4 dopamine receptor
+CHEMICAL	Zarnestra
+CHEMICAL	SeCyH
+GENE-Y	topoII
+GENE-N	acyl coenzyme A:cholesterol acyltransferase
+GENE-N	alpha(2A)- and the alpha(2C)-adrenoceptor
+CHEMICAL	isocarboxazid
+GENE-Y	TNF-RI
+GENE-Y	polyamine oxidase
+CHEMICAL	GYKI 53405
+GENE-N	transport proteins
+GENE-Y	TK
+CHEMICAL	radiolabeled EPA
+CHEMICAL	BDE-47
+CHEMICAL	Entecavir
+CHEMICAL	MEM
+CHEMICAL	20(S)-Rg3
+GENE-Y	SR-B1
+CHEMICAL	2,2',4,4',5,5'-hexachlorobiphenyl
+GENE-Y	WAVE1
+GENE-Y	ICAM-1
+GENE-N	colchicine binding site
+GENE-Y	KCNQ1
+CHEMICAL	GGPP
+GENE-Y	SLC7A6
+CHEMICAL	DiR
+GENE-N	DH-PH-PH domains
+CHEMICAL	SB203580
+GENE-N	type I interferon receptor
+CHEMICAL	Prostaglandin E2
+GENE-N	chaperone protein
+CHEMICAL	WR-2721
+GENE-Y	α7nAChR
+GENE-Y	5-HTR7
+CHEMICAL	[3H] nitrendipine
+GENE-N	human progesterone and androgen receptors
+CHEMICAL	proadifen
+GENE-Y	Bβ1
+GENE-Y	RARbeta
+CHEMICAL	[3H]DEX
+GENE-Y	human DAT
+GENE-N	EC 1.6.99.3
+CHEMICAL	valine
+CHEMICAL	Etodolac
+CHEMICAL	2-hydroxy-4-[4-(5Z)-5-[(E)-2-methyl-3-phenylprop-2-enylidene]-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]butanoylamino]benzoic acid
+GENE-N	TOP
+GENE-N	marapsin
+GENE-Y	CYP19A1
+GENE-N	PFL
+GENE-Y	TOPO IIalpha
+GENE-N	pore-forming channel core
+CHEMICAL	neuroleptics
+GENE-Y	BsmI
+GENE-N	TM7
+CHEMICAL	dichloroacetic acid
+GENE-Y	Intercellular adhesion molecule-2
+CHEMICAL	4',6'-diamidino-2-phenylindole dihydrochloride
+GENE-N	DHP receptor
+CHEMICAL	niacin
+GENE-N	chloride channel
+CHEMICAL	L-5-hydroxytryptophan
+CHEMICAL	propyl gallate
+CHEMICAL	n-3 and n-6 polyunsaturated fatty acids
+CHEMICAL	[(11)C](S,S)-2-(alpha-(2-methoxyphenoxy)-benzyl)morpholine
+CHEMICAL	alcohol
+GENE-Y	rat cloned alpha(1d)-adrenoceptor
+GENE-N	GSTM1 and DUSP22 promoter
+GENE-Y	p21(Waf)
+GENE-N	pre-initiation complex
+GENE-Y	PPAR gamma
+GENE-Y	ampC
+CHEMICAL	captopril
+GENE-Y	α4β2 nAChRs
+GENE-N	glutamate transporter
+GENE-N	Gr1
+GENE-Y	alpha1B-adrenoceptor
+CHEMICAL	Ba++
+GENE-Y	serum insulin
+CHEMICAL	4-methylhistamine
+CHEMICAL	dihydrotesterone
+CHEMICAL	n-6 PUFA
+GENE-Y	CART peptide
+CHEMICAL	(68) Ga
+GENE-N	vitamin K-dependent carboxylase
+GENE-N	S399P
+CHEMICAL	pentafluorophenyl methacrylate
+CHEMICAL	Salicylic acid
+GENE-N	prolyl-hyroxylase domain-containing enzyme
+GENE-Y	protein kinase RNA-like ER kinase
+CHEMICAL	alendronate
+GENE-N	system IMINO
+CHEMICAL	fatty acid amide
+GENE-Y	TRPML1
+CHEMICAL	N-methyl-D-asparate
+GENE-Y	LP(A)
+GENE-Y	βER
+GENE-N	human and mouse nucleoside transporters
+GENE-Y	human LTC4 synthase
+GENE-Y	Gonadotropin-releasing hormone
+GENE-N	Beta 1- and beta 2-adrenoceptor
+GENE-N	extracellular signal-related kinase (ERK) 1 and 2
+CHEMICAL	orotidine 5'-monophosphate
+CHEMICAL	sucrose
+CHEMICAL	FAUC 213
+GENE-N	thyroid stimulating hormone
+CHEMICAL	omega-3 fatty acids
+CHEMICAL	long-chain alkanol
+CHEMICAL	Minocycline
+GENE-N	serine peptidase
+CHEMICAL	dimethylarsinous acid
+GENE-Y	human recombinant interleukin-5
+GENE-Y	amyloid precursor protein
+CHEMICAL	Evn-50
+GENE-Y	ColQ-1a's
+GENE-N	dopamine receptors DR1-DR5
+CHEMICAL	alanyl
+GENE-Y	P2X(3)
+CHEMICAL	fatty acid
+GENE-N	plasminogen receptors
+GENE-Y	BMP-7
+GENE-Y	PRKAB1
+GENE-N	TRPC4/C5
+GENE-Y	Rx
+GENE-Y	murine 11βHSD1
+GENE-N	RF-amide peptides
+CHEMICAL	2α,3α-dipropionyltaraxer-14-en-28-oic acid
+CHEMICAL	Profenofos
+GENE-Y	Slc6a4
+CHEMICAL	dutasteride
+CHEMICAL	benztriazole
+CHEMICAL	NADH
+GENE-Y	ColQ-1
+CHEMICAL	Carnosine
+GENE-N	lipid phosphatase
+CHEMICAL	aluminum chloride
+CHEMICAL	aromatic
+GENE-N	human organic anion-transporting polypeptide
+GENE-N	laminin
+GENE-N	human Glu- and mini-plasminogens
+CHEMICAL	Z=Br, I, or OTs
+GENE-Y	rabbit PAT1
+GENE-Y	RNase A
+CHEMICAL	aminophenyl acid
+GENE-Y	p-p65
+GENE-N	PKA4
+CHEMICAL	apicidin
+GENE-N	TM4
+CHEMICAL	technetium tricarbonyl
+GENE-N	phospho-c-Jun N-terminal kinase
+CHEMICAL	butanol
+GENE-Y	TEK
+GENE-Y	amyloid-β
+CHEMICAL	OH-BDEs
+GENE-Y	CYP2C23
+GENE-N	aryl hydrocarbon response element
+GENE-Y	B cell Lymphoma-extra large
+GENE-Y	Glucagon
+CHEMICAL	6'-substituted (E)-2-(benzofuran-3(2H)-ylidene)-N-alkylacetamide
+CHEMICAL	RU 51,746
+GENE-N	alanine transaminase
+CHEMICAL	Canagliflozin
+GENE-Y	Nestin
+CHEMICAL	Phenylbutazone
+GENE-Y	N-WASP
+CHEMICAL	alpha-chloroenethiolate
+CHEMICAL	maltose
+GENE-Y	PTC
+GENE-Y	EC 1.13.11.27
+CHEMICAL	ureido
+CHEMICAL	Nestorone
+CHEMICAL	DCFH(2)-DA
+GENE-N	sex-determining factor
+GENE-Y	caspase-3
+CHEMICAL	procyanidins
+CHEMICAL	Fenoterol
+GENE-Y	MRP2
+GENE-Y	antiquitin
+CHEMICAL	3,4-dihydroxyl benzoate
+CHEMICAL	methadone
+CHEMICAL	Nd(3+)
+GENE-Y	Na(+)/K(+)/Cl(-) cotransporter
+CHEMICAL	bis(trifluoromethylsulfonyl)imide
+CHEMICAL	Racemic IKM-159
+GENE-Y	system x(-) (c)
+GENE-Y	FKHR
+CHEMICAL	N-(2-(4-(2-methoxyphenyl)-1-piperazinyl)-N-(2-pyridyl) cyclohexane carboxamine maleate
+GENE-N	histidine triad protein
+CHEMICAL	afatanib
+CHEMICAL	caC
+GENE-Y	alpha-2C adrenoceptors
+CHEMICAL	rotenone
+GENE-Y	Afabp
+CHEMICAL	Pb2+
+GENE-Y	hPolκ
+CHEMICAL	BIM 23014
+GENE-N	Na channel
+GENE-Y	D(3)
+GENE-Y	i1
+CHEMICAL	5-ASA
+CHEMICAL	6-nitrochrysene
+GENE-N	N-methyl-D-aspartate receptor
+GENE-Y	Oprm
+GENE-Y	Abeta42
+GENE-Y	constitutive myo-3
+GENE-N	CXCL
+GENE-N	kringle IV type-2 domain
+GENE-N	medium-chain dehydrogenase
+CHEMICAL	17-BMP
+GENE-N	muscarinic and nicotinic ACh receptors
+CHEMICAL	clofilium
+CHEMICAL	methazolamide
+CHEMICAL	aromatic and heterocyclic sulfonamides
+CHEMICAL	7-nitroindazole
+CHEMICAL	thalidomide
+CHEMICAL	CaCl(2)
+CHEMICAL	5-thio-D-glucose
+GENE-N	pAkt
+CHEMICAL	benzisothiazol
+GENE-Y	human AGT1
+CHEMICAL	Valproyl-CoA
+GENE-Y	S100 calcium binding protein beta
+GENE-N	beta 1, beta 2, and alpha 1 adrenoceptors
+GENE-N	electric eel and mouse AChE
+CHEMICAL	Sr
+GENE-N	A287P
+CHEMICAL	oleanolic acid
+GENE-Y	AP-2
+GENE-Y	PGC1
+CHEMICAL	(99m)Tc-EDDA-HYNIC-Q-Litorin
+CHEMICAL	gamma-glutamylcysteine
+CHEMICAL	[125I]GTI
+CHEMICAL	3-isopropylamino
+CHEMICAL	cromoglycate
+CHEMICAL	dFdU
+GENE-N	HRE
+CHEMICAL	pergolide
+CHEMICAL	thionate
+CHEMICAL	thiobarbituric-acid
+CHEMICAL	acenaphthene
+CHEMICAL	MEL
+CHEMICAL	DCM
+GENE-Y	FKBP12
+GENE-Y	MLL2
+GENE-Y	molybdenum cofactor sulfurase
+GENE-Y	α-secretase
+GENE-N	V608F
+GENE-Y	OCN
+GENE-Y	DGK delta
+CHEMICAL	Argininosuccinate
+GENE-Y	serotonin (5-HT) type 7 receptor
+GENE-N	5alpha-reductase
+GENE-Y	argininosuccinate synthetase
+CHEMICAL	thiosulphate
+GENE-N	ATP-Sensitive Potassium Channels
+GENE-N	mammalian kainate-selective glutamate receptor
+CHEMICAL	hydroxyflutamide
+CHEMICAL	aromatic-L-amino-acid
+CHEMICAL	19-nor-testosterone
+CHEMICAL	clobetasol
+GENE-Y	PC1
+CHEMICAL	Omega-3 Fatty acids
+GENE-Y	metallothionein 2
+GENE-Y	Kir6.2
+GENE-N	STATs
+GENE-Y	tropoelastin
+CHEMICAL	Cob(III)alamin
+GENE-Y	Angiotensin-converting enzyme
+GENE-N	N-type calcium channel
+CHEMICAL	RA
+CHEMICAL	aminoacyl
+GENE-Y	Tryptophan Hydroxylase-2
+CHEMICAL	Butorphanol
+GENE-Y	factor XI
+GENE-Y	caspase 7
+CHEMICAL	Rizatriptan
+GENE-N	dioxygenases
+GENE-Y	beta1-adrenoceptors
+CHEMICAL	oestrogen
+CHEMICAL	2,4-dibromophenol
+CHEMICAL	acylcarnitines
+CHEMICAL	(S)-HHDP
+CHEMICAL	[EMIM][N(CN)2]
+GENE-N	glibenclamide binding site
+CHEMICAL	steroid
+CHEMICAL	GTP gamma-S
+CHEMICAL	bumetanide
+GENE-Y	alpha(1A)-adrenergic receptor
+CHEMICAL	hydrochloride
+GENE-Y	OB-Rb
+CHEMICAL	beclomethasone-17-monopropionate
+CHEMICAL	guanosine 5'-triphosphate
+GENE-N	hemimethylase
+CHEMICAL	ellagitannins
+GENE-Y	RhCG
+GENE-Y	HNF-1
+CHEMICAL	fluperlapine
+CHEMICAL	capsaicin
+GENE-Y	Acetylcholine esterase
+GENE-N	Adenosine nucleosidase
+GENE-Y	human P5C synthetase
+CHEMICAL	(5Z,13E)-(15S)-9 alpha,11 alpha-epidioxy-15-hydroxyprosta-5,13-dienoate
+CHEMICAL	hydroxysteroids
+CHEMICAL	leukotrienes
+CHEMICAL	JL72
+GENE-Y	TRPM4
+CHEMICAL	Mepyramine
+CHEMICAL	mepacrine
+GENE-N	kinase domain
+GENE-Y	PYGM
+CHEMICAL	dimemorfan
+GENE-Y	cyclooxygenase-1
+GENE-Y	53BP1
+GENE-Y	PIAS3
+CHEMICAL	Asymmetric dimethylarginine
+CHEMICAL	monosodium urate
+GENE-Y	alpha-2CDel322-325 adrenoceptor
+GENE-N	Ugts
+CHEMICAL	Angiotensin
+GENE-N	ras
+CHEMICAL	PEG
+CHEMICAL	5-(4-chlorophenyl)-1-(2,4-dichloro-phenyl)-4-methyl-N-(piperidin-1-yl)-1H-pyrazole-3-carboxamide
+GENE-N	nuclear factor-kB
+CHEMICAL	Farnesyl diphosphate
+CHEMICAL	2'-benzoylpyridine thiosemicarbazones
+GENE-N	Ion channel
+GENE-Y	IGF-I receptor
+CHEMICAL	isopropyl unoprostone
+CHEMICAL	carvacrol
+GENE-Y	Prostacyclin synthase
+CHEMICAL	Zinc sulphate
+GENE-N	alpha-2 AR
+GENE-Y	DGKgamma
+CHEMICAL	Flutamide
+GENE-N	glucocorticoid response elements
+CHEMICAL	formate
+CHEMICAL	metoprolol
+GENE-Y	erythropoietins
+CHEMICAL	dioxins
+CHEMICAL	9β-(hydroxymethyl)-3-(1-adamantyl)-hexahydrocannabinol
+GENE-Y	GIP-R
+CHEMICAL	epirubicin
+GENE-N	LXRα promoter
+GENE-N	ligand activated transcription factors
+CHEMICAL	[125I]p-iodoclonidine
+GENE-N	nuclear hormone receptor
+GENE-N	alpha1D- and alpha1B-AR
+GENE-Y	SLC21A6
+GENE-N	vascular endothelial GF
+CHEMICAL	Sulfonylurea
+GENE-N	mGlu(2/3)
+GENE-N	Mglu2 Promoter
+CHEMICAL	Anandamide
+CHEMICAL	carvedilol
+GENE-Y	glucocorticoid hormone receptors
+GENE-N	P2 receptors
+GENE-N	sterol-binding site
+CHEMICAL	gamma-Aminolevulinate
+GENE-N	adenosine-phosphate phosphatase
+CHEMICAL	sodium nitroprusside
+CHEMICAL	selenophosphate
+CHEMICAL	methylchavicol
+CHEMICAL	(1) H
+GENE-N	ACS
+CHEMICAL	prostaglandin E(3)
+GENE-Y	positive transcription elongation factor b
+GENE-N	I1-imidazoline sites
+GENE-Y	Rat liver acyl-CoA synthetase 4
+CHEMICAL	2-thio-6-oxo-1,6-dihydropyrimidines
+CHEMICAL	5, 8-dideazafolate-[3H]tetraglutamate
+CHEMICAL	dienogest
+CHEMICAL	2,3,7,8-TCDD
+GENE-N	CYP4Fs
+GENE-N	soybean ferritin
+CHEMICAL	3-(4,5-dimethylthiazol-2-yl)-2,5 diphenyltetrazolium bromide
+GENE-Y	apoAII
+GENE-N	NBF2
+GENE-N	Fc domain
+CHEMICAL	(S)-3,5-dihydroxyphenylglycine
+GENE-Y	Nogo-a
+GENE-Y	matrix metalloproteinase-9
+GENE-N	inwardly rectifying potassium channels
+GENE-Y	Mcl-1
+GENE-Y	cytochrome P450 2E1
+CHEMICAL	Arsenite
+GENE-Y	vasopressin V1A
+CHEMICAL	(hetero)functional poly(ethylene glycol)s
+GENE-Y	phosphoramidated AChE
+GENE-N	L transporters
+CHEMICAL	TMA
+GENE-N	underwound domains
+CHEMICAL	2-butyl-9-methyl-8-(2H-1,2,3-triazol-2-yl)-9H-purin-6-ylamine
+CHEMICAL	CPF
+CHEMICAL	UDCA
+GENE-Y	whey acidic protein
+GENE-Y	Αβ
+GENE-Y	Shp
+CHEMICAL	Zinc
+GENE-N	alpha 2A/2C-adrenoceptors
+GENE-Y	cationic amino acid transporter-2
+CHEMICAL	glucoraphanin
+GENE-N	osteoblast-line differentiation marker
+GENE-N	mitogen-activated protein kinase
+GENE-N	melatonin receptor
+GENE-N	ASIC
+GENE-N	p-STAT5
+CHEMICAL	sodium-dicarboxylate
+GENE-N	E-NPP
+GENE-Y	sigma1
+CHEMICAL	tunicamycin
+CHEMICAL	sulfenic acid
+CHEMICAL	Myritol 318
+GENE-N	T422A/D
+GENE-N	sstr receptors
+GENE-N	Asp226Asn
+GENE-Y	Cyp3a25
+GENE-N	catecholamine transporter
+CHEMICAL	benzenesulfonamides
+GENE-Y	hypoxanthine (guanine) phosphoribosyltransferase
+GENE-Y	mVDR
+GENE-Y	UGT2B15
+CHEMICAL	6-methoxy artemicapin C
+CHEMICAL	nitrendipine
+CHEMICAL	MLG
+GENE-N	desulfurase
+GENE-Y	phosphorylated Smad-3
+GENE-N	caspases 3 and 8
+GENE-Y	TXA2 synthetase
+GENE-N	Phospholipase D
+CHEMICAL	anastrozole
+GENE-Y	urokinase receptor
+CHEMICAL	citalopram
+CHEMICAL	SA9
+CHEMICAL	2,5-disubstituted-1,3,4-oxadiazoles
+GENE-Y	dipeptidyl peptidase-4
+CHEMICAL	fructose-1,6-bisphosphate
+CHEMICAL	merimepodib
+CHEMICAL	thiamine pyrophosphate
+GENE-N	phospho-Akt
+GENE-Y	thioether S-methyltransferase
+GENE-Y	ASIC3
+CHEMICAL	S-citalopram
+GENE-Y	bone-specific alkaline phosphatase
+GENE-N	steroid receptor coactivators
+GENE-N	GCLC
+CHEMICAL	umbelliferone
+GENE-Y	adrenal steroid 21-hydroxylase
+GENE-Y	Ang1
+GENE-N	serum CTX-I
+GENE-Y	human ENaCdelta
+CHEMICAL	tetraethylenepentamine
+CHEMICAL	omeprazole
+CHEMICAL	zoniporide
+GENE-Y	TCL1
+CHEMICAL	pirenzepine
+GENE-Y	inhibitor κB-α
+CHEMICAL	Leukotriene C(4)
+CHEMICAL	1- and 2-naphthyl acetate
+GENE-N	Kv7.x
+GENE-Y	H2R
+GENE-N	oncomiR
+CHEMICAL	dUTP
+GENE-N	ndhD-2
+GENE-Y	factor VIIIa
+GENE-Y	ankyrin-G
+GENE-N	miR-199a
+CHEMICAL	LY-294002
+CHEMICAL	pipecolinate
+GENE-Y	serum amyloid A protein
+GENE-N	Histidine triad nucleotide binding proteins
+CHEMICAL	persulfide
+GENE-Y	guanine nucleotide binding protein beta polypeptide 3
+GENE-Y	thymidine kinase
+GENE-N	AP2
+CHEMICAL	BZ
+CHEMICAL	[35S]-GTPgammaS
+GENE-Y	alpha 2A-Adrenoceptor
+GENE-Y	urocortin II
+GENE-N	ATP-sensitive potassium channel
+GENE-N	cholinergic transporter
+GENE-Y	AKR1B19
+CHEMICAL	alkylamines
+CHEMICAL	Cer
+CHEMICAL	PD-123319
+GENE-Y	presenilin-1
+GENE-Y	topoisomerase I
+GENE-Y	CLND3
+CHEMICAL	calcitriol
+CHEMICAL	Na-Cl
+GENE-N	Val to Met
+GENE-Y	LIN28B
+CHEMICAL	cocaine
+CHEMICAL	MINA
+CHEMICAL	alamar blue
+GENE-Y	LIM homeobox 3
+CHEMICAL	R-(+)-[2,3-dihydro-5-methyl-3-[(morpholinyl)methyl]pyrrolo[1,2,3-de]-1,4-benzoxazinyl]-(1-naphthalenyl)methanone mesylate
+GENE-Y	ADA
+GENE-Y	peroxisome proliferator-activated receptor γ coactivator 1α
+GENE-Y	serine dehydratase
+GENE-Y	NK1
+CHEMICAL	vitamin D3
+GENE-Y	Slc44a1
+CHEMICAL	Carbon
+CHEMICAL	GW9578
+CHEMICAL	Malondialdehyde
+GENE-Y	human NDUFV1
+CHEMICAL	17 alpha-Estradiol
+CHEMICAL	SB-269970
+CHEMICAL	l-NIL
+GENE-N	copper and cisplatin influx transporter
+GENE-Y	UNG
+GENE-Y	zebrafish P2X4
+GENE-Y	hCRH
+GENE-N	transmembrane receptors
+GENE-Y	4.1
+CHEMICAL	LY341495
+GENE-Y	human SULT1A3
+CHEMICAL	[N6-(glutaryl-2)-L-lysine
+GENE-Y	farnesyl diphosphate synthase
+CHEMICAL	[(3)H]5-HT
+GENE-N	orphan G-protein-coupled receptor
+CHEMICAL	18F-FDG
+GENE-Y	histamine H(4) receptor
+CHEMICAL	9-cis retinoic acid
+GENE-Y	5-HT1D alpha
+CHEMICAL	1,1-trimethylene bis(4-hydroxyimino methyl) pyridinium dichloride
+GENE-Y	Crbp
+GENE-Y	Yersinia pestis outer protein H
+GENE-Y	sodium-proton exchanger NHE1
+CHEMICAL	benzoylaconine
+CHEMICAL	Ramipril
+GENE-Y	activated factor IX
+GENE-N	Acid-sensing ion channels
+GENE-Y	NAD(P)H:quinone oxidoreductase 1
+GENE-Y	DNA topoisomerase II
+CHEMICAL	1,25D
+GENE-N	S6 domain
+CHEMICAL	Nicotinic acid
+GENE-Y	TACE
+GENE-Y	PP20
+GENE-N	IL2 receptor
+GENE-N	Glucocorticoid receptor
+GENE-Y	A(2A)R
+CHEMICAL	SeMet
+GENE-Y	PIAS1
+CHEMICAL	Lu AF21934
+CHEMICAL	8-OH-DPAT
+GENE-N	fibroblast growth factor receptor
+CHEMICAL	Isoprenaline
+CHEMICAL	Tetracycline
+GENE-Y	TSP-1
+CHEMICAL	tanshinones
+GENE-Y	arginase-1
+CHEMICAL	glutathione disulfide
+GENE-N	oxidized HDLs
+GENE-N	B1 (B1R) and B2 (B2R) receptors
+CHEMICAL	aminoalkylindoles
+GENE-N	poly(A) polymerase
+CHEMICAL	2,4diMeOBA
+GENE-Y	AtNFS1
+GENE-Y	rhesus monkey H3R
+GENE-N	KIR
+CHEMICAL	7- and 8-dehydrocholesterol
+CHEMICAL	dimethylaminoethyl
+CHEMICAL	hydroxylated BDE-47
+GENE-Y	serotonin (5-HT) transporter
+GENE-N	CRH receptors
+CHEMICAL	oxymetazoline
+CHEMICAL	Adriamycin
+CHEMICAL	moexipril
+GENE-N	group III mGluRs
+GENE-Y	monocyte chemotactic protein-1
+CHEMICAL	POEGMEMA35-b-PMAA200
+CHEMICAL	Exelon
+CHEMICAL	estramustine sulphate
+GENE-N	Archaeal family-D DNA polymerase
+CHEMICAL	cannabinoid
+GENE-N	PLP enzyme
+GENE-Y	AIF
+GENE-N	PLM
+CHEMICAL	(±)-6-chloro-7,8-dihydroxy-3-allyl-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine hydrobromide
+CHEMICAL	diacylglycerol pyrophosphate
+GENE-Y	MMP-1
+GENE-Y	taipoxin α-chain
+CHEMICAL	adenosine diphosphate
+CHEMICAL	calcium oxalate
+GENE-Y	PAI-2
+CHEMICAL	aryloxypropanol
+GENE-Y	human erythropoietin
+CHEMICAL	p-BPB
+GENE-Y	Nicotinamide N-methyltransferase
+GENE-N	Voltage-activated Ca2+ channels
+GENE-Y	glial cell line-derived neurotrophic factor
+GENE-N	mu-class glutathione transferases M2-2 and M3-3
+CHEMICAL	l-trans-pyrrolidine-2,4-dicarboxylic acid
+CHEMICAL	KN-62
+CHEMICAL	5-Aza-dC
+GENE-N	steroid-thyroid hormone receptor
+GENE-N	Factor XIII
+GENE-Y	alpha 2-macroglobulin
+GENE-N	mitogen activated protein kinase
+GENE-N	subtilisin-like proteases
+GENE-Y	gastrin receptors
+GENE-N	phospholipases
+CHEMICAL	17 alpha-alkylated testosterone
+GENE-N	5-HT(2B/2C)
+GENE-Y	glycated haemoglobin
+CHEMICAL	norepinephrine
+CHEMICAL	DBMs
+CHEMICAL	BZA
+GENE-N	L-domain
+CHEMICAL	[3H]-MPP+
+GENE-N	phosphorylated Akt
+GENE-N	rat alpha 1A/D-ARs
+CHEMICAL	farnesyl diphosphate
+CHEMICAL	hydrated magnesium
+GENE-Y	mPPARa
+CHEMICAL	ethyl 4-methylthio-m-tolyl isopropylphosphoramidate
+GENE-N	LDH-X
+GENE-N	GABA(A)) receptor
+GENE-N	α-MHC
+GENE-Y	ER-α
+GENE-N	Pannexins
+CHEMICAL	propionyl-CoA
+GENE-Y	u-PAR
+GENE-N	Aus1
+GENE-N	Q192R
+CHEMICAL	DCA
+GENE-Y	hmKCC3
+GENE-Y	CD95
+CHEMICAL	Fe3O4
+GENE-Y	matrix metalloproteinase 3
+CHEMICAL	2-histidine-1-carboxylate
+GENE-Y	N-glycosidase F
+GENE-Y	GluR1
+CHEMICAL	2-chloroethylphosphonic acid
+GENE-N	class IA PI3K
+CHEMICAL	dimethindene
+CHEMICAL	t-BHP
+GENE-N	Cul4A
+CHEMICAL	TUDCA
+GENE-N	FXI A4 domain
+CHEMICAL	GW2331
+CHEMICAL	magnetite
+GENE-Y	NaN
+GENE-Y	PTGFR transcript variant 2
+CHEMICAL	17beta-oestradiol
+GENE-N	vasopressin V1 receptor
+GENE-Y	serotonin 5-HT2 receptor
+GENE-N	histone h3
+GENE-Y	CD3e
+CHEMICAL	Cresyl saligenin phosphate
+CHEMICAL	cis-cyclopropane
+GENE-N	cupin
+GENE-Y	NADH:ubiquinone oxidoreductase
+CHEMICAL	Si
+GENE-N	Anterior gradient 2 and 3
+CHEMICAL	L-T4
+GENE-N	clathrin
+CHEMICAL	OH-Cbl
+GENE-Y	glutamic acid decarboxylase-67
+CHEMICAL	Caf
+CHEMICAL	BRL 37344
+GENE-Y	serotonin (SERT) transporter
+CHEMICAL	chalcone
+GENE-Y	Tazarotene-induced gene 1
+CHEMICAL	sulfapyridine
+CHEMICAL	Acetyl-coenzyme A
+GENE-Y	P450 2D1
+GENE-N	cytochrome c oxidase
+GENE-Y	betaine-homocysteine methyltransferase
+CHEMICAL	arabinityl
+GENE-N	cyclooxygenase(s)
+CHEMICAL	SDMA
+GENE-Y	LTP
+CHEMICAL	Glucose 6-Phosphate
+GENE-Y	5-HT(2B)
+GENE-Y	Epithelial glycoprotein-330
+GENE-N	Erg2p
+GENE-N	leukotriene receptor
+CHEMICAL	poly(ethylene glycol)
+GENE-N	PDE6
+CHEMICAL	para-hydroxyphenylacetic acid
+CHEMICAL	mepyramine
+CHEMICAL	Ruxolitinib
+GENE-N	TRP channel
+GENE-N	JAK2/3
+GENE-N	Mucolipin
+GENE-Y	flounder renal sodium-dicarboxylate cotransporter
+CHEMICAL	Chrysoeriol
+CHEMICAL	cyclosporin A
+CHEMICAL	<i>o</i>-MitoPhB(OH)<sub>2</sub>
+CHEMICAL	(-)-phenylephrine
+CHEMICAL	acetylprocainamide
+GENE-Y	tryptophan 2,3-dioxygenase
+GENE-Y	dopamine- and cAMP-regulated phosphoprotein of 32 kDa
+GENE-Y	5-HT(1D) human
+GENE-Y	alpha 2u-globulin
+CHEMICAL	SsnB
+GENE-Y	murine NR2A
+GENE-Y	Ang I
+GENE-Y	M(3) receptor
+GENE-N	Adenylosuccinate synthetase
+GENE-Y	hCyPA
+CHEMICAL	2-NBD-Glucose
+GENE-Y	PBP 3
+GENE-N	potassium-chloride cotransporter
+CHEMICAL	carbatone
+GENE-N	5-HT2 receptors
+GENE-N	OATP
+GENE-Y	monoamine oxidase type-B
+GENE-Y	MCA IV
+CHEMICAL	3 beta-Hydroxy-5-ene-steroid
+GENE-Y	neuropathy target esterase
+CHEMICAL	naloxonazine
+CHEMICAL	Tetrahydropapaveroline
+GENE-N	nicotinic acetylcholine receptor subtype α9α10
+GENE-N	G protein
+GENE-Y	IGF receptor type I
+GENE-Y	pterin-4a-carbinolamine dehydratase
+GENE-Y	5-HTTLPR
+CHEMICAL	3β-hydroxysteroid
+GENE-N	estrogen receptor subtypes alpha and beta
+GENE-Y	tRNA([Ser]Sec)-isopentenyl transferase
+CHEMICAL	procaine
+GENE-Y	12-LOX
+GENE-Y	HSV-1 thymidine kinase
+GENE-Y	Amyloids
+GENE-Y	HSPA8
+GENE-Y	abl
+CHEMICAL	RU486
+CHEMICAL	phosphomolybdic acid
+GENE-Y	transient-receptor-potential-vanilloid-1
+CHEMICAL	azathioprine
+CHEMICAL	finasteride
+GENE-N	CCK receptor
+GENE-Y	Human Hydroxysteroid Sulfotransferase hSULT2A1
+GENE-Y	rhIGFBP-3
+CHEMICAL	dihydro-beta-erythroidine
+CHEMICAL	estrone
+GENE-N	BH3
+CHEMICAL	aspartic acid
+CHEMICAL	heterocyclic thioderivates
+GENE-Y	TEM 2
+GENE-N	vasopressin V1A/oxytocin receptor
+GENE-N	Na(+)/Cl(-)-dependent transporter
+CHEMICAL	[(3)H]AziPm
+CHEMICAL	TTX
+GENE-Y	CCR4
+CHEMICAL	25OHD3
+CHEMICAL	Adenosine monophosphate
+CHEMICAL	[3H]inositol phosphate
+CHEMICAL	acivicin
+CHEMICAL	9-cis RA
+GENE-Y	E2F-1
+CHEMICAL	Dutasteride
+CHEMICAL	2-(2-nitro-4-trifluoromethylbenzoyl)-cyclohexane-1,3-dione
+CHEMICAL	L-phenylglycine
+CHEMICAL	sodium azide
+CHEMICAL	ethyl
+GENE-N	β-galactosidases
+GENE-Y	α4β2* nicotinic acetylcholine receptor
+GENE-Y	rat brain AChE
+CHEMICAL	CB
+CHEMICAL	nimesulide
+GENE-N	Lon protease
+CHEMICAL	tetrazolium
+GENE-N	glutaminase
+CHEMICAL	tsitsikammamine A
+CHEMICAL	ketanserin
+CHEMICAL	5,7-DHT
+GENE-Y	ACC2
+CHEMICAL	Valacyclovir
+CHEMICAL	Perfluorooctane sulfonate
+GENE-Y	B(1) kinin receptors
+GENE-Y	AAAD
+CHEMICAL	α-thujone
+GENE-Y	STAT4
+CHEMICAL	lanthanum chloride
+CHEMICAL	perinaphthenone
+GENE-N	Walker A and B motifs
+CHEMICAL	Tetracyclines
+CHEMICAL	polyporic acid
+CHEMICAL	RS150D
+CHEMICAL	propyl
+CHEMICAL	GMP
+CHEMICAL	NADP(H)
+CHEMICAL	ureido-benzenesulfonamides
+GENE-Y	medium-chain acyl coenzyme A dehydrogenase
+GENE-Y	mu opioid
+CHEMICAL	borinic acid
+GENE-Y	TLE3
+GENE-Y	β(2)ARs
+GENE-Y	SLC21A9
+CHEMICAL	cynaropicrin
+GENE-N	C641S
+GENE-N	mu- and kappa-receptor
+GENE-Y	Human amylin
+GENE-Y	CCL27
+CHEMICAL	[(3)H]histamine
+GENE-Y	porcine liver FTCD
+CHEMICAL	RU24969
+CHEMICAL	letrozole
+GENE-Y	bacterial protein tyrosine phosphatase YopH
+CHEMICAL	Sulfated glucosamine
+GENE-Y	Ring1B
+CHEMICAL	alpha,beta-unsaturated aldehyde
+GENE-N	calcium binding proteins
+GENE-N	sodium (Na) channel
+GENE-Y	tumor necrosis factor-a
+GENE-N	somatotropin release inhibiting factor
+CHEMICAL	serine
+CHEMICAL	Fe(4)S(4)
+GENE-N	mTORC1
+GENE-Y	PKCalpha
+GENE-N	non-receptor cytoplasmic kinase
+CHEMICAL	ammonium chloride
+CHEMICAL	sulfur
+CHEMICAL	[R,R] isomer of formoterol
+GENE-N	5-AR
+GENE-Y	bovine serum albumin
+GENE-Y	UNG2
+GENE-Y	phosphodiesterase type 5
+CHEMICAL	(+/-)-CGP12177A
+GENE-Y	peroxiredoxin 2
+CHEMICAL	metoclopramide
+GENE-Y	alpha(2C)-adrenoceptor
+GENE-Y	IGF binding protein 5
+GENE-Y	human 5-HT6 serotonin receptor
+GENE-N	NAD(+)-binding domain
+GENE-Y	MT2 melatonin receptors
+GENE-N	phospholipid methylases
+GENE-N	Vitellogenin
+GENE-Y	beta(3)
+CHEMICAL	(R)-(-)-3'-(2-amino-1-hydroxyethyl)-4'-fluoromethane sulfonanilide hydrochloride
+GENE-Y	soluble glycoprotein 130
+GENE-N	PIM
+CHEMICAL	N-benzylpiperidine
+GENE-N	'appetite regulatory' neuropeptides
+GENE-Y	botulinum toxin type A
+CHEMICAL	L-lysine
+CHEMICAL	Tyrosine
+CHEMICAL	acrylate
+GENE-N	vesicular-tubular transport complexes
+GENE-N	D(3)/D(2)/D(1) dopamine receptor
+GENE-Y	LTL
+GENE-N	caveolins
+GENE-N	peroxisome proliferator-activated receptor γ coactivator-1
+GENE-Y	radixin
+GENE-Y	Ppp3ca
+CHEMICAL	1,4-BD
+GENE-N	sigmaRs
+CHEMICAL	[(3)H]hemicholinium-3
+CHEMICAL	AZD2171
+GENE-Y	vascular cell adhesion molecule-1
+CHEMICAL	cresol red sodium
+CHEMICAL	Thymidylate
+CHEMICAL	donepezil
+CHEMICAL	l-carnitine
+GENE-Y	ZNF198
+GENE-N	cholinergic receptor
+GENE-Y	GRP78
+GENE-Y	insulin-like growth factor receptor
+GENE-Y	Vascular endothelial growth factor
+GENE-N	human cyclic nucleotide phosphodiesterase 4
+GENE-N	bHLH-PAS domain transcription factor
+CHEMICAL	Triterpenes
+CHEMICAL	chlorido ruthenium
+GENE-N	ABCG
+GENE-N	BMP receptor kinase
+CHEMICAL	2-hydroxyvitamin K
+GENE-Y	bGlcNAc 2-epimerase
+GENE-N	mitoK(ATP) channels
+GENE-Y	acid alpha-glucosidase
+GENE-Y	HER1
+CHEMICAL	ICI 174,864
+GENE-Y	sodium iodide symporter
+GENE-N	PACAP receptor
+GENE-Y	Smoothened
+CHEMICAL	BUP
+CHEMICAL	tartrate
+GENE-Y	acylation-stimulating protein
+GENE-Y	alpha2C-adrenoceptor
+GENE-N	Ecto-NPP (nucleotide pyrophosphatase/phosphodiesterase)
+CHEMICAL	1-OH-PGE1
+CHEMICAL	phosphoamino acid
+GENE-Y	Xenopus cadherin 11
+CHEMICAL	polygonatones A-D
+GENE-Y	thyrotropin receptor
+GENE-Y	human aldose reductase-like protein
+GENE-N	glycolytic enzymes
+CHEMICAL	estrane
+CHEMICAL	JL432
+CHEMICAL	Tiagabine
+GENE-N	sodium-coupled symporter protein
+GENE-Y	D2s
+CHEMICAL	NO2
+GENE-Y	PLD1
+GENE-Y	A(2A) adenosine receptors
+GENE-N	fibroblast growth factor
+GENE-N	ATPase
+GENE-N	CT
+CHEMICAL	AdoMet
+CHEMICAL	N-Acetyl-2-carboxybenzenesulfonamide
+CHEMICAL	Si(111)
+GENE-N	GRV575M
+GENE-Y	Kir1.1a
+CHEMICAL	S,S-Hydroxybupropion
+GENE-Y	soluble form alpha of the amyloid precursor protein
+CHEMICAL	amide
+GENE-Y	HIF1α
+CHEMICAL	Cinnamaldehyde
+GENE-Y	perforin
+CHEMICAL	aldo
+CHEMICAL	delta1-pyrroline 5-carboxylate
+CHEMICAL	18C6
+CHEMICAL	silicon
+GENE-Y	OCTN1
+GENE-Y	OATP8
+GENE-Y	Tsa1
+CHEMICAL	AA-861
+CHEMICAL	Mg
+CHEMICAL	2-amino-1,3,4-thiadiazolyl-5-difluoromethanesulfonamide, and 2-dimethylamino-5-[sulfonamido-(aminomethyl)]-1,3,4-thiadiazole
+GENE-N	M and 5-HT1 receptor
+CHEMICAL	L-carnitine
+GENE-N	phospholipase C.
+GENE-Y	VEGF-D
+CHEMICAL	Sipholenol A 4β-4-chlorobenzoate
+GENE-Y	p-p53
+GENE-Y	Dihydronicotinamide riboside (NRH):quinone oxidoreductase 2
+GENE-Y	prostaglandin F(2alpha) receptor
+CHEMICAL	[4-pro-S]NADH
+GENE-N	calmodulin-dependent protein kinase II
+CHEMICAL	Meroterpenoids
+GENE-Y	HMGCoA reductase
+GENE-Y	IL-1 receptors
+GENE-N	NFATc
+CHEMICAL	[(35)S]-sulfate
+CHEMICAL	Flavones
+CHEMICAL	Alprenolol
+GENE-N	prostaglandin endoperoxide synthase
+CHEMICAL	ketamine
+GENE-N	Slc2a4 promoter
+CHEMICAL	alpha/beta GalNAc
+CHEMICAL	GBR 12935
+GENE-Y	Cannabinoid Receptor
+CHEMICAL	dehydroascorbic acid
+CHEMICAL	doxazosin
+CHEMICAL	Dimemorfan
+CHEMICAL	alpha-difluoroalkylthiolate
+GENE-N	Ca(2+)-transport ATPase
+CHEMICAL	D-AP5
+GENE-N	Ca2+/NADPH-dependent oxidase
+GENE-N	UGT2A
+GENE-Y	steroid receptor coactivator-3
+GENE-N	urease
+CHEMICAL	oxotremorine
+GENE-N	GABA receptors
+GENE-Y	PSMβ10
+GENE-Y	bumetanide-sensitive sodium potassium 2 chloride cotransporter
+GENE-N	mu 1-, mu 2- or delta -site
+CHEMICAL	amino acid
+GENE-Y	thyroperoxidase
+GENE-Y	dimethylallyl:tRNA([Ser]Sec) transferase
+GENE-Y	Slc25a11
+CHEMICAL	L-glutamine
+CHEMICAL	sphingolipid
+CHEMICAL	Anandron
+GENE-N	R75L
+GENE-Y	PKC-theta
+GENE-Y	Topo IIalpha
+CHEMICAL	radioiodine
+CHEMICAL	estriol
+CHEMICAL	MgSO4
+CHEMICAL	isopentenyl
+GENE-Y	cytochrome P450 (CYP) 2D6
+GENE-N	MDH
+CHEMICAL	2,4-dinitrochlorobenzene
+CHEMICAL	Sn(IV)
+CHEMICAL	nizatidine
+GENE-Y	COX-1 splice variant
+CHEMICAL	VX
+CHEMICAL	LDN-212854
+GENE-Y	beta amyloid
+CHEMICAL	3-Amido pyrrolopyrazine
+GENE-N	inosine monophosphate dehydrogenase
+GENE-N	extracellular loops
+CHEMICAL	Phorbol 12-myristate 13 acetate
+CHEMICAL	NM(R)Sal
+GENE-N	Src family kinases
+CHEMICAL	tricarboxylic acid
+GENE-N	Arg/Gln53
+GENE-Y	cyclo-oxygenase (COX)-2
+GENE-N	PLC
+CHEMICAL	5-MeOT
+GENE-Y	NF-M
+CHEMICAL	fluphenazine
+CHEMICAL	alpha-cyano-4-hydroxycinnamic acid
+CHEMICAL	N-formylkynurenine
+CHEMICAL	D-GalN
+GENE-Y	Angpt-1
+CHEMICAL	flunisolide
+GENE-Y	FGFR2IIIb
+CHEMICAL	L-proline
+GENE-N	adrenoceptors (alpha1
+CHEMICAL	Ca(II)
+CHEMICAL	Gua
+CHEMICAL	all-trans retinal
+GENE-Y	beta3Gal-T5
+GENE-Y	Aurora A
+GENE-N	UGT1A1, 1A3, 1A6, 1A7, 1A8, 1A9 and 1A10
+GENE-N	ISWI ATPase domain
+CHEMICAL	drospirenone
+GENE-Y	human caveolin-3
+CHEMICAL	sulfonylmorpholinopyrimidines
+CHEMICAL	LY294002
+GENE-Y	c-Fos
+GENE-N	ligand-gated ion channels
+CHEMICAL	Fatty acid
+CHEMICAL	Sumatriptan
+CHEMICAL	aminocephalosporin cefadroxil
+GENE-N	alpha(1)- and alpha(2)-adrenergic
+CHEMICAL	tetrahydrocannabinol
+CHEMICAL	amentadione-1'-methyl ether
+GENE-Y	retinol dehydrogenase 10
+GENE-N	caspases 9 and 3/7
+GENE-N	PDE-4
+GENE-Y	GH receptor
+GENE-N	R75D
+CHEMICAL	Pro
+GENE-Y	β-hCG
+GENE-Y	5-HT2BR
+CHEMICAL	cetilistat
+GENE-Y	tcuPA
+CHEMICAL	indazole
+CHEMICAL	PGI(2)
+GENE-Y	Human LIN28A
+CHEMICAL	lanthionine ketimine
+GENE-Y	DDB2
+CHEMICAL	chrysin
+GENE-Y	retinoic acid receptor β
+GENE-N	PBP1a, -2x, and -2b
+CHEMICAL	FAD
+GENE-N	Na(+) channel
+CHEMICAL	NS-389
+CHEMICAL	4,7-dimethyl-1,10-phenanthroline
+CHEMICAL	Ziprasidone
+CHEMICAL	Triton X100
+CHEMICAL	4-hydroxytamoxifen
+CHEMICAL	EMP
+CHEMICAL	benzanthracene
+CHEMICAL	δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-valine
+CHEMICAL	Iron-sulfur
+CHEMICAL	dialdehyde
+GENE-Y	P2Y12
+CHEMICAL	trimetrexate
+GENE-N	bovine carboxylase
+CHEMICAL	pyrethroid
+GENE-N	hydrolases
+GENE-Y	tau
+CHEMICAL	5-HTP
+GENE-Y	gamma-glutamyl-cysteine synthetase
+GENE-N	ALA-T
+GENE-N	connexins
+GENE-N	aaRSs
+CHEMICAL	Methazolamide
+CHEMICAL	polyethylene glycol
+CHEMICAL	estrogens
+CHEMICAL	t-BuBpT
+GENE-Y	hNET
+GENE-Y	prostaglandin I (IP) receptor
+GENE-Y	cyclooxyganase-2
+GENE-Y	Ano6
+GENE-N	maleylacetoacetate isomerases
+GENE-N	Sphingosine kinase
+CHEMICAL	ethynyl estradiol
+GENE-Y	EP1
+GENE-Y	prostaglandin D (DP) receptor
+CHEMICAL	regadenoson
+CHEMICAL	ISDN
+CHEMICAL	E-64
+CHEMICAL	poly(N-(2-hydroxypropyl)-methacrylamide)
+GENE-Y	5-HT2B
+GENE-Y	CYP19A
+CHEMICAL	nucleoside triphosphates
+CHEMICAL	ergovaline
+CHEMICAL	adenosine triphosphate
+GENE-N	GluR-AoBi
+CHEMICAL	araC
+GENE-Y	postsynaptic density-95
+GENE-Y	Pax6
+GENE-Y	G protein-coupled adenosine A2A receptor
+CHEMICAL	lintitript
+CHEMICAL	BW868C
+GENE-N	Val268Ile
+GENE-N	prolyl 4-hydroxylase
+CHEMICAL	Rauwolscine
+CHEMICAL	sertraline
+GENE-Y	elastin
+CHEMICAL	TZP-101
+GENE-N	Heat shock protein 70
+CHEMICAL	Palbinone
+GENE-N	β-lactamase
+GENE-N	TSH
+CHEMICAL	7-ethyl-10-hydroxycamptothecin
+GENE-N	nucleoside triphosphate diphosphohydrolase
+GENE-Y	PS1
+CHEMICAL	ESI-09
+CHEMICAL	caprolactam
+GENE-N	T(338)-->P
+CHEMICAL	Urea
+CHEMICAL	NAME
+GENE-N	phosphorylated JNK1/2
+GENE-Y	Miz1
+GENE-Y	Hmgcs1
+GENE-Y	OC
+GENE-Y	moesin
+GENE-N	Mcl-1 promoter
+GENE-N	adrenergic alpha 1, alpha 2, beta
+GENE-N	S358V
+GENE-Y	SLC19A2
+CHEMICAL	3-AP
+GENE-N	O-GlcNAcylated protein
+CHEMICAL	mitotane
+GENE-N	cholera toxin
+GENE-Y	noradrenaline transporter
+GENE-Y	Torpedo AcChoEase
+CHEMICAL	25-hydroxyvitamin D
+CHEMICAL	para-nonylphenol
+GENE-N	SIINFEKL
+CHEMICAL	amphotericin B
+GENE-N	sigmaR1
+GENE-N	serotonin receptors
+GENE-N	D1/D2 receptor
+CHEMICAL	tiospirone
+CHEMICAL	hydroxysafflor yellow A
+GENE-Y	islet amyloid polypeptide
+CHEMICAL	triazine
+CHEMICAL	MK0457
+GENE-N	tRK3
+GENE-N	organic anion-transporting polypeptides
+GENE-Y	adenosine A2A receptor
+CHEMICAL	(18)F-FLT
+GENE-N	alpha(2C)
+GENE-N	low-affinity monocarboxylate transporter
+CHEMICAL	Avapro
+CHEMICAL	2-amino-5,6-dihydroxy-1,2,3,4-tetrahydronaphthalene hydrobromide
+GENE-N	group I metabotropic glutamate receptors
+GENE-N	NMDAR
+GENE-Y	PH-20 hyaluronidase
+GENE-N	mAch receptor
+CHEMICAL	SR 59230A
+GENE-Y	rhHDAC6
+GENE-Y	GSTA4
+GENE-N	phospholipase C-β
+CHEMICAL	N,N-diethyl-2-(2-(4-(2[(18)F]-fluoroethoxy)phenyl)5,7dimethylpyrazolo[1,5a]pyrimidin-3-yl)acetamide
+GENE-Y	thymic stromal lymphopoietin
+GENE-Y	Chondrocalcin
+GENE-N	non-consensus XRE
+CHEMICAL	6,6-Disubstituted Hex-5-enoic acid
+GENE-N	Mitochondrial electron transfer chain complexes
+GENE-N	nicotinamide adenine dinucleotide phosphate (reduced form) (NADPH) oxidase
+GENE-Y	Waf1
+CHEMICAL	Cannabinol
+CHEMICAL	N-acetyl-L-aspartyl-L-glutamate
+GENE-Y	histamine type-2 receptor
+GENE-N	nicotinamide adenine dinucleotide phosphate (NADPH) oxidase
+CHEMICAL	mycrocistins
+GENE-Y	Kir5.1
+CHEMICAL	phenylethanolamine
+CHEMICAL	2-isopropylthioxanthone
+GENE-Y	JAK2
+GENE-N	RGS
+GENE-N	His 372Pro
+CHEMICAL	alprazolam
+GENE-N	F-actin
+GENE-Y	barttin
+GENE-Y	human dihydroorotate dehydrogenase
+CHEMICAL	[3H]sulfonylurea
+GENE-N	human cytosolic and mitochondrial glutaredoxins
+GENE-Y	MT2 melatonin receptor
+GENE-N	B(0)AT2
+CHEMICAL	telmisarta
+GENE-Y	KC
+GENE-Y	RANKL
+CHEMICAL	4-hydroxycoumarins
+GENE-Y	abcg2
+CHEMICAL	BMS-763534
+CHEMICAL	free acid
+CHEMICAL	17 alpha-ethinylestradiol
+GENE-N	NAD(+)-dependent protein N(ε)-acetyl-lysine (AcK) deacetylases
+CHEMICAL	SRL
+GENE-Y	ZFP-1
+GENE-Y	zinc finger protein 1
+CHEMICAL	dmp
+GENE-N	MAO (type A and type B)
+GENE-Y	beta-subunit of the chloride channels ClC-Kb and -Ka
+GENE-Y	complement fragment C5a
+CHEMICAL	PEO
+GENE-Y	uPA receptor
+GENE-Y	ChE
+CHEMICAL	cinalukast
+CHEMICAL	Lucidone
+CHEMICAL	C8F17I
+GENE-Y	pSer9-GSK-3β
+GENE-N	orphan G protein-coupled receptors
+GENE-N	JAK
+GENE-N	3alpha-hydroxysteroid dehydrogenases
+CHEMICAL	CTP
+CHEMICAL	baclofen
+CHEMICAL	EXP 3174
+GENE-Y	S. ruminantium LDC
+GENE-N	glutamate transporters
+CHEMICAL	Aminophylline
+GENE-N	cell cycle-related proteins
+GENE-Y	rat high affinity neurotensin receptor
+CHEMICAL	(+)- or (-)-sulpiride
+GENE-Y	Hsd17b3
+GENE-N	heat shock factor
+GENE-N	phosphatidylinositol-3 kinase
+GENE-Y	ATR1
+GENE-Y	CRHR2beta
+GENE-Y	M(2) muscarinic receptor
+GENE-Y	MRTF-B
+CHEMICAL	phenothiazines
+GENE-Y	lpd
+GENE-N	mammalian alcohol dehydrogenase
+CHEMICAL	quartz
+GENE-Y	2-methyl-branch-chain acyl-CoA dehydrogenase
+CHEMICAL	salidroside
+CHEMICAL	1,4-Naphthoquinone
+GENE-N	human constitutive (cCP) and immunoproteasome (iCP)
+CHEMICAL	4-hydroxynonenal
+CHEMICAL	gamma-linoleic acid
+CHEMICAL	MOPs
+GENE-N	forkhead/winged helix transcription factor
+CHEMICAL	2-phenyl-1,2 benzisoselenazol-3(2H)-one
+GENE-Y	TGF-βl
+GENE-Y	RCA II
+GENE-Y	riboflavin kinase
+GENE-Y	EC 5.3.99.2
+GENE-N	microtubule-associated proteins
+CHEMICAL	triterpenoids
+CHEMICAL	copper(I) Schiff base
+GENE-N	human, mouse, and rat PXR
+CHEMICAL	(5S,10R)-(+)-5-methyl-10,11-dihydro-5H-dibenzo[a,b]cyclohepten-5,10-imine
+GENE-Y	AF10
+GENE-N	ALDH6
+GENE-N	tetraloop
+GENE-Y	COP I
+GENE-Y	IL-33
+CHEMICAL	Pyridoxal
+CHEMICAL	nitrate
+GENE-Y	IFNgamma
+GENE-N	gamma-aminobutyric acid (GABA)-responsive channels
+CHEMICAL	Pro4-amide
+CHEMICAL	Mn
+CHEMICAL	2-hydroxyflutamide
+CHEMICAL	diolein
+CHEMICAL	TOCO
+CHEMICAL	phenolic glucoside
+GENE-Y	A(1) receptor
+CHEMICAL	peroxynitrite
+GENE-Y	SLPI
+GENE-Y	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+CHEMICAL	[3H]bradykinin
+GENE-N	DA receptors
+GENE-Y	cytochrome P-450 3A4
+GENE-Y	human TLR7
+CHEMICAL	(-)-tramadol
+CHEMICAL	galantamine
+CHEMICAL	PCN
+GENE-Y	β-gal
+CHEMICAL	norbinaltorphimine
+CHEMICAL	taraxerone
+CHEMICAL	[( 125I] ICYP)
+CHEMICAL	indoleamine
+CHEMICAL	GnRH II
+CHEMICAL	Suramin
+GENE-N	penicillin-binding protein 1Bs
+GENE-Y	Rad5
+CHEMICAL	estradiol 17β-d-glucuronide
+CHEMICAL	Aromatic L-amino acid
+CHEMICAL	saquinavir
+GENE-Y	EPOR
+CHEMICAL	KCl
+CHEMICAL	pyrimidine
+CHEMICAL	glyoxylic acid
+GENE-Y	RANK
+GENE-N	glutathione transferase zeta
+GENE-Y	IL1B
+GENE-N	N-methyl-d-aspartate (NMDA) receptor
+CHEMICAL	cysteine S-conjugate
+CHEMICAL	(+/-)-1-[2,3-(dihydro-7-methyl-1H-inden-4-yl)oxyl]-3-[(1-methylethyl)amino]-2-but anol
+GENE-Y	MEKK2
+CHEMICAL	theophylline
+CHEMICAL	IPA3
+GENE-Y	ERG
+CHEMICAL	DBQ
+CHEMICAL	reserpine
+CHEMICAL	isorhamnetin-3-β-d-glucoside
+GENE-N	LDL
+GENE-N	p160 coactivator
+CHEMICAL	Ebsulfur
+CHEMICAL	gamma-glutamyl-cysteine
+GENE-N	glucose transporters
+GENE-N	ATP-sensitive potassium channels
+GENE-N	cold-activated channel
+CHEMICAL	Gpp(NH)p
+GENE-N	Three-finger toxins
+CHEMICAL	astatine(III) hydroxide
+CHEMICAL	phenolic hydroxy
+GENE-N	P450 2A6
+GENE-Y	human coagulation factor VIIa
+GENE-Y	SR-BI
+CHEMICAL	ADMA
+GENE-Y	P2Y13
+CHEMICAL	MK801
+GENE-Y	Ghr
+GENE-N	N632I
+CHEMICAL	aripiprazole
+GENE-N	p38 mitogen-activated protein kinase
+GENE-N	mitochondrial complexes I and II
+CHEMICAL	WAY100,635
+GENE-Y	CD105
+GENE-Y	FHIT
+GENE-Y	hhex
+CHEMICAL	Paroxetine
+GENE-Y	p72 high affinity receptors
+CHEMICAL	BAC
+GENE-N	PMTs
+CHEMICAL	avermectins
+CHEMICAL	cyclosporine
+CHEMICAL	rhein
+CHEMICAL	isoliquiritigenin
+CHEMICAL	tetranorditerpenoid
+CHEMICAL	vitamin K2
+GENE-Y	alpha-2B
+CHEMICAL	2-methoxyestradiol
+CHEMICAL	9(11),12-diene
+GENE-N	DTG motif
+GENE-N	AMP:pyrophosphate phospho-d-ribosyltransferase
+CHEMICAL	NFD
+GENE-N	flavin reductases
+CHEMICAL	dazoxiben
+GENE-N	Gly324Asp
+CHEMICAL	maprounic acid
+GENE-Y	cytokine-inducible SH2-containing protein (CIS)-1
+GENE-N	B449E
+CHEMICAL	Retinoic acid
+CHEMICAL	myricetin
+CHEMICAL	rosuvastatin
+GENE-N	Hh
+GENE-N	islet
+GENE-N	Arg105Trp
+CHEMICAL	isoprenyl
+CHEMICAL	prilocaine
+CHEMICAL	N-oxide
+GENE-N	aminotransferase
+CHEMICAL	20-hydroxy-LTB(4)
+CHEMICAL	pyrroloiminoquinone
+CHEMICAL	4'-hydroxymethyl
+CHEMICAL	Evans blue
+CHEMICAL	Hg(2+)
+CHEMICAL	[3H]nitrendipine
+CHEMICAL	arcaine
+GENE-Y	phospho-protein kinase A Catalyticβ subunit
+GENE-Y	G-CSFs
+CHEMICAL	IMQ
+GENE-Y	inducible isoform of NOS
+CHEMICAL	2-chloroadenosine
+CHEMICAL	His2
+CHEMICAL	1,5-diarylpyrrole-3-alkoxyethyl ethers
+CHEMICAL	Mg2+
+CHEMICAL	meglitinide
+GENE-N	I78 inhibitor family
+CHEMICAL	vinorelbine
+GENE-Y	rCYP3A4
+CHEMICAL	agmatine
+CHEMICAL	R-lorazepam
+CHEMICAL	Glycine
+GENE-N	V492E
+CHEMICAL	CDDP
+GENE-N	Galpha(i)
+CHEMICAL	ignosterol
+GENE-Y	Nedd4-2
+CHEMICAL	TMAO
+CHEMICAL	erdosteine
+GENE-Y	CA I
+CHEMICAL	eicosanoid
+GENE-N	cAMP-specific PDE
+GENE-N	D835Y
+GENE-N	R75H
+GENE-Y	G protein-coupled protein (GPR) 30
+CHEMICAL	[BF4](-)
+GENE-Y	Brain-derived neurotrophic factor
+GENE-N	G2464G
+GENE-N	Group II receptors
+CHEMICAL	sodium arsenite
+GENE-N	phospho-AKT
+GENE-Y	human multidrug resistance-associated protein 3
+GENE-Y	scavenger receptor class B type I
+GENE-Y	mitochondrial branched-chain amino acid aminotransferase
+CHEMICAL	atropine
+CHEMICAL	butaprost
+CHEMICAL	WO2012081692
+CHEMICAL	RNH-6270
+GENE-Y	Pyk2
+GENE-N	R385S
+GENE-Y	mdr1a
+GENE-Y	sodium-glucose cotransporter 2
+GENE-Y	GluR2
+GENE-Y	PBP2b
+CHEMICAL	hydroxamate
+GENE-N	actomyosin
+GENE-N	receptor tyrosine kinase
+GENE-N	nonproton ligand sensing domain
+CHEMICAL	lactone
+GENE-N	G-protein-coupled receptors
+CHEMICAL	prostaglandins
+GENE-Y	γ-glutamylcysteine ligase
+CHEMICAL	elzasonan
+GENE-N	N-terminal phospho-SQ/TQ domain
+CHEMICAL	1,1'-azobis(N,N-dimethylformamide
+GENE-N	epidermal growth factor-like module
+CHEMICAL	NECA
+GENE-Y	Cx26
+GENE-Y	D2DRs
+GENE-Y	EP2
+GENE-Y	plasma atrial natriuretic factor
+GENE-Y	Smad4
+GENE-Y	BK channel
+GENE-N	collagen IV
+CHEMICAL	indolyl carbohydrazides
+CHEMICAL	zinc ethylene bis-dithiocarbamate
+CHEMICAL	omeprazole sulfone
+CHEMICAL	E-4031
+GENE-Y	H1-receptors
+CHEMICAL	Androgens
+GENE-N	CII-nociceptors
+GENE-N	human glutamate dehydrogenase
+GENE-Y	beta 2-adrenergic receptors
+GENE-Y	beta-2 Adrenoceptor
+GENE-Y	ASL
+GENE-Y	RAR-beta
+GENE-Y	beta-2 adrenoceptors
+GENE-Y	Vasopressin
+CHEMICAL	(2S)-2-[4-(3-azidophenyl)-2-oxopyrrolidin-1-yl]butanamide
+CHEMICAL	Aluminium
+GENE-Y	mutant huntingtin
+CHEMICAL	benzimidazole
+CHEMICAL	N-acetyl-d-manosamine
+GENE-N	Arabidopsis glutamate receptor
+CHEMICAL	5-bromo-6-[2-imidazolin-2-yl-amino]-quinoxaline
+CHEMICAL	Mollugin
+CHEMICAL	RSV
+CHEMICAL	Tomatidine
+CHEMICAL	omega6 and omega3 fatty acids
+CHEMICAL	Br(-)
+CHEMICAL	sulfinpyrazone
+CHEMICAL	moclobemide
+GENE-Y	activating transcription factor 6
+CHEMICAL	p-bromobenzyl acetylmaprounate
+CHEMICAL	phosphatidylinositol 3-OH
+CHEMICAL	sulphasalazine
+CHEMICAL	melarsoprol
+CHEMICAL	L-p-tyrosine
+GENE-Y	Transforming growth factor-beta
+CHEMICAL	dibucaine
+GENE-N	ABCG5/8
+GENE-N	arginase I and II
+CHEMICAL	acridines
+GENE-N	gastrin receptor
+CHEMICAL	(99m)Tc
+CHEMICAL	5,10-methylenetetrahydrofolate
+GENE-Y	δ-ALA-D
+CHEMICAL	biotin methyl ester
+GENE-N	NOS
+GENE-Y	dopamine-beta-hydroxylase
+GENE-N	dopamine D(2) and D(3) receptors
+GENE-Y	NADH/NADPH oxidase subunit p22(phox)
+GENE-N	mammalian GDH
+CHEMICAL	18O
+CHEMICAL	2-N,N-dimethylamino-1,3,4-thiadiazole-5-methanesulfonamide
+GENE-N	Ap(4)A hydrolases
+CHEMICAL	pravastatin
+GENE-N	dopaminergic D1, D2
+CHEMICAL	Thiobutabarbitone
+GENE-N	IFN-omega
+GENE-N	TSSK1, 2, 4, and 6
+GENE-Y	Bhmt
+CHEMICAL	10-hydroxy-NBP
+CHEMICAL	vitamin E
+CHEMICAL	adenosyl cobalamin
+GENE-N	voltage-sensitive calcium channels
+GENE-Y	Bcl-2
+GENE-Y	megalin
+CHEMICAL	Polyhydroxy pregnane glycoside
+GENE-Y	Glutathione peroxidase 1
+GENE-N	nuclear receptor
+CHEMICAL	methylendiphosphonate
+CHEMICAL	neostigmine
+GENE-Y	OCT3
+CHEMICAL	OSI-4164
+CHEMICAL	N-Acetylglucosamine
+CHEMICAL	phosphocreatine
+CHEMICAL	4-Hydroxy tamoxifen
+CHEMICAL	1-Hexadecyl-3-trifluoroethylglycero-sn-2-phosphomethanol
+CHEMICAL	Rh123
+CHEMICAL	+/- cyanopindolol
+GENE-N	SMAD
+CHEMICAL	1,3,4-oxadiazole
+CHEMICAL	Glivec
+CHEMICAL	riluzole
+CHEMICAL	JTS653
+CHEMICAL	pyrazolo[1,5-a]pyrimidine
+CHEMICAL	bis(l-histidinato)cadmium dihydrate
+GENE-Y	opioid receptor-like (ORL1) receptor
+GENE-Y	4a-hydroxy-tetrahydrobiopterin dehydratase
+GENE-Y	V(1B)
+GENE-N	OPH
+CHEMICAL	griseofulvin
+GENE-Y	GSTA1
+GENE-N	Ambler class D
+CHEMICAL	GABA
+CHEMICAL	Retinol
+GENE-N	AMADHs
+GENE-Y	CLCN1
+GENE-Y	HSD17B2
+GENE-Y	dopamine (D(2)) receptors
+GENE-Y	AChE
+CHEMICAL	19,20-anhydrosipholenol A 4β-4-chlorobenzoate
+GENE-Y	nkx2.1
+CHEMICAL	flavonolignans
+CHEMICAL	benzo[a]anthracene
+GENE-Y	beta(1)-adrenergic receptors
+GENE-N	CYP2A
+CHEMICAL	PB
+GENE-N	carboxylesterases
+GENE-Y	Neuraminidase 1
+GENE-Y	Prostate Specific Membrane Antigen
+CHEMICAL	Prednisolone
+GENE-Y	α-MSH
+GENE-N	CYP3A4, 1A2, 2J2 and 2D6
+CHEMICAL	thymine
+CHEMICAL	GYKI53655
+CHEMICAL	WIN 44,441
+CHEMICAL	[17 alpha-3H]estradiol-17 beta
+GENE-N	alpha(2AC)
+GENE-Y	esr1
+CHEMICAL	carnitines
+GENE-N	retinoid response elements
+GENE-N	collage type 1
+GENE-N	c.7A>T
+GENE-Y	CYP4A-1
+GENE-Y	AKR1A1
+GENE-N	adenosine A2
+CHEMICAL	paraphenylendiamine
+GENE-Y	eIF2α
+GENE-Y	nuclear factor-kappa Bp65
+GENE-Y	proliferating cell nuclear antigen
+CHEMICAL	(68) Ga(3+)
+GENE-N	KIT,
+GENE-N	aldo-keto reductase
+CHEMICAL	l-ribose
+CHEMICAL	H(2)Se
+CHEMICAL	α-santalol
+GENE-Y	VIP
+GENE-N	beta-ADHs
+GENE-N	H(394)-->Y
+GENE-Y	Six3
+GENE-N	TAU5
+GENE-Y	vinculin
+CHEMICAL	Pristimerin
+CHEMICAL	lead acetate
+GENE-N	D74N
+GENE-Y	TNF
+CHEMICAL	phosphatidylinositol 3-phosphate
+CHEMICAL	CYN
+CHEMICAL	benzo[e]pyrene
+CHEMICAL	Carbidopa
+CHEMICAL	PGE(1)
+GENE-Y	p400
+GENE-N	C-2 site
+GENE-Y	adenosine deaminase
+CHEMICAL	xenon
+GENE-Y	human LysRS
+GENE-Y	ET-1
+CHEMICAL	PGs
+CHEMICAL	RFamide-related peptide-3
+GENE-Y	transient receptor potential mucolipin 1
+CHEMICAL	diazatricyclodecane
+CHEMICAL	ST-1059
+CHEMICAL	Retinoids
+GENE-Y	leucine-rich repeat kinase 2
+GENE-N	hamster brain MT3
+CHEMICAL	lisuride
+GENE-Y	Igf2
+GENE-Y	human DNA topoisomerase IIα
+GENE-Y	interleukin 11 receptor alpha
+GENE-Y	human STAT5b
+CHEMICAL	phorbol ester
+GENE-N	cyclic nucleotide phosphodiesterase 4
+GENE-Y	PCCA
+CHEMICAL	3-indolyl carbohydrazide
+GENE-N	ndhB-1255
+GENE-N	linker domain
+CHEMICAL	carbenoxolone
+GENE-Y	K-Ras
+GENE-Y	early growth response factor 2
+CHEMICAL	R,S-1-chloro-3-(2-methyl-5-nitro-1H-imidazol-1-yl)propan-2-ol
+GENE-N	renal complex II
+CHEMICAL	quercetin glycosides
+CHEMICAL	tolylfluanid
+CHEMICAL	DMN
+GENE-N	5-hydroxytryptamine2
+CHEMICAL	(NH4)(2)SO4
+GENE-N	betagamma-subunits of G(i/o) protein
+GENE-Y	MOR-1
+CHEMICAL	5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside
+GENE-Y	placental protein 20
+CHEMICAL	(RS)-3,5-dihydroxyphenylglycine
+GENE-N	GTA
+GENE-Y	11β-hydroxysteroid dehydrogenase type 1
+GENE-Y	Mineralocorticoid receptor
+CHEMICAL	sulfhydryl reagents
+CHEMICAL	sulfonylureas
+GENE-Y	human beta1-AR
+CHEMICAL	inositolphosphates
+GENE-N	monoamine oxidases
+GENE-Y	LH beta
+CHEMICAL	PGE2
+GENE-Y	Kir6.1
+GENE-Y	CEBPβ
+CHEMICAL	Phenelzine
+CHEMICAL	NBP
+GENE-Y	Rh C-glycoprotein
+GENE-Y	histone H2AZ
+CHEMICAL	rhodamine-123
+GENE-N	GATA motif
+CHEMICAL	carbon disulfide
+GENE-Y	HK1
+GENE-N	hormone binding domain
+CHEMICAL	tariquidar
+CHEMICAL	dexrazoxane
+GENE-N	PDGF
+GENE-N	RDHs
+GENE-Y	cyclin B
+GENE-Y	glucocorticoid receptor
+GENE-Y	rat liver methylmalonate semialdehyde dehydrogenase
+CHEMICAL	Pb
+CHEMICAL	histidine
+GENE-N	bradykinin B2 receptor
+GENE-Y	CRABP II
+GENE-N	Asn2.65(101)Ala
+CHEMICAL	α-amino
+CHEMICAL	6-cyano-2,3-dihydroxy-7- nitroquinoxaline
+CHEMICAL	3-alkylated 6-(1-methyl-1-propenyl)-2H-pyran-2-ones
+CHEMICAL	misoprostol
+GENE-N	neurokinins
+GENE-Y	β-adrenergic receptor kinase 1
+CHEMICAL	adenosyl
+GENE-N	alpha(2)AR
+CHEMICAL	pyruvate
+GENE-N	cell-cycle and DNA damage responsive elements
+GENE-N	C3 region
+CHEMICAL	2,4-diamino-6-piperidinopyrimidine-3-oxyde
+GENE-Y	caveolin-1
+GENE-N	G-protein coupled receptor
+CHEMICAL	lorcaserin
+GENE-N	PLC-beta2
+CHEMICAL	ZIP
+GENE-N	Human paraoxonase
+GENE-Y	histamine-3 receptor
+CHEMICAL	furanoquinone
+GENE-Y	alpha 1A-adrenoceptors
+GENE-Y	phosphodiesterase 10A
+CHEMICAL	trifluoroethanol
+CHEMICAL	SKF 10047
+GENE-N	human norepinephrine and dopamine transporters
+GENE-N	sponge collagen
+CHEMICAL	ginsenoside
+GENE-N	histone H1
+GENE-N	R75Q
+GENE-Y	human synovial cell cyclooxygenase-2
+CHEMICAL	1-(2-hydroxy-iminomethyl-1-pyridinium)-1-(4-carboxy-aminopyridi nium)-dimethyl ether hydrochloride
+CHEMICAL	17 beta-(N-tert-butylcarbamoyl)-4-aza-5 alpha-androstan-1-en-3-one
+GENE-N	HAND-SANT-SLIDE (HSS) domain
+CHEMICAL	oligoamine
+GENE-N	human recombinant P450
+CHEMICAL	propionaldehyde
+CHEMICAL	Dexamethasone
+GENE-Y	constitutively active androgen receptor
+CHEMICAL	l-propranolol
+CHEMICAL	D-proline
+GENE-Y	RELA
+GENE-Y	Lyn
+CHEMICAL	alpha-methyl-dopahydrazine
+CHEMICAL	nafazatrom
+GENE-N	ADRB
+GENE-N	activation function-2 (AF2) domain
+GENE-N	Follicle-stimulating hormone
+GENE-N	PH domains
+CHEMICAL	FLIP-IDAM
+GENE-Y	neuronal synaptic vesicle protein SV2A
+CHEMICAL	RFRP-3
+CHEMICAL	Bay K 8644a
+CHEMICAL	gossypol
+GENE-N	trace amine receptors
+CHEMICAL	[3H]PGD2
+GENE-N	AT1-receptor
+GENE-Y	carnitine palmitoyltransferase-1a
+CHEMICAL	HPMA
+CHEMICAL	triptan
+GENE-Y	phosphorylated-kit
+GENE-Y	human system x(-) (c)
+GENE-N	selenophosphate synthetase
+GENE-N	organic cation transporter
+GENE-N	serine palmitoyltransferase
+GENE-N	retinoic acid receptors
+CHEMICAL	ADX47273
+GENE-N	Polycomb repressive complex 1
+CHEMICAL	l-threonine
+GENE-N	mouse prostanoid receptor
+GENE-N	Ubc5
+GENE-Y	BSP
+CHEMICAL	Ptx
+GENE-Y	SLC5A5
+CHEMICAL	chiral alcohol
+GENE-N	G protein α
+GENE-Y	P2Y(12)
+GENE-Y	PAT1
+GENE-Y	MTR
+CHEMICAL	(R)-5-hydroxyomeprazole
+CHEMICAL	befloxatone
+GENE-N	PRC1
+GENE-N	FAD domain
+GENE-Y	DAT
+GENE-Y	carbonic anhydrase IX
+GENE-Y	TGF-β
+GENE-N	meNET
+CHEMICAL	SCH23390
+CHEMICAL	ITO
+CHEMICAL	11beta-hydroxysteroid
+CHEMICAL	BRL15572
+GENE-N	Hsp70
+CHEMICAL	Ap(4)A
+CHEMICAL	bromocriptine
+GENE-Y	BGT1
+GENE-Y	prostaglandin H2/thromboxane A2 receptor
+GENE-N	aryl alcohol dehydrogenase
+GENE-Y	angiotensin II type AT1 receptor
+GENE-N	ACC
+CHEMICAL	chikusetsusaponin LM2
+CHEMICAL	monophosphate
+GENE-N	forkhead transcription factor 1
+GENE-N	AKR
+GENE-Y	microtubule-associated protein light chain-3 (LC3) II protein
+CHEMICAL	EGCG
+GENE-N	EAAT5
+CHEMICAL	Griseofulvin
+CHEMICAL	5-methyltetrahydrofolate
+GENE-N	PBPs
+GENE-Y	NTF3
+CHEMICAL	dilevalol
+GENE-Y	prostaglandin synthase-1
+CHEMICAL	alkynyl polyvinyl alcohol
+CHEMICAL	Cajaninstilbene acid
+GENE-Y	p53's
+GENE-Y	histamine H4 receptor
+GENE-Y	caspase-1
+CHEMICAL	loxapine
+GENE-Y	SCN10A
+GENE-Y	Niemann-Pick C1 Like 1 protein
+GENE-Y	catechol O-methyltransferase
+CHEMICAL	triamcinolone acetonide
+GENE-N	human medium-chain dehydrogenases
+GENE-Y	KCNJ8
+CHEMICAL	biflavonoids
+CHEMICAL	sulfidopeptide leuktrienes
+GENE-Y	dopamine D1 receptor
+CHEMICAL	oxyfluorfen
+GENE-Y	human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase
+CHEMICAL	7-amino-5-thio-thiazolo[4,5-d]pyrimidine
+CHEMICAL	Pt
+CHEMICAL	l-thiaproline
+CHEMICAL	Iron oxide
+CHEMICAL	ACV
+CHEMICAL	prostaglandin 1
+CHEMICAL	adenosines
+CHEMICAL	carbapenem
+CHEMICAL	glyceraldehyde-3-phosphate
+GENE-Y	human P450 2D6
+CHEMICAL	retinaldehyde
+GENE-Y	Nod2
+CHEMICAL	(99m)Tc(CO)(3)
+CHEMICAL	(1R)-normetanephrine
+CHEMICAL	Crestor
+GENE-Y	C-type (CNP) natriuretic peptides
+CHEMICAL	Hydroxysafflor yellow A
+GENE-N	dopamine D(2) and 5-HT(1A) receptors
+GENE-Y	CGL
+GENE-Y	c-Jun
+GENE-Y	dopamine β-hydroxylase
+GENE-N	Y249D
+CHEMICAL	macrolide
+CHEMICAL	progestagens
+GENE-N	alpha-adrenergic receptors
+GENE-N	protein tyrosine phosphatases
+GENE-N	1-14 Ca(2+)/CaM interaction motif
+GENE-Y	Col1a1
+CHEMICAL	L- and D-methionine
+GENE-N	protamine
+GENE-Y	5-HT1a
+GENE-N	activated mitogen-activated kinases
+GENE-Y	Uhrf2
+GENE-N	Proteasome
+CHEMICAL	bile acids
+GENE-Y	IGF-I
+GENE-N	AglycoT-Fc1004
+GENE-N	cytochrome P450s
+CHEMICAL	1,4-dihydropyridine
+GENE-N	cerebellar NMDA receptors
+GENE-Y	5-HT(1F)
+CHEMICAL	BSPSA
+CHEMICAL	PEG-PPLG
+GENE-Y	Na(+)/I(-) symporter
+CHEMICAL	pyrrolo-isoxazole
+CHEMICAL	4 alpha-chloro-1-ene-DHT
+CHEMICAL	Foscan
+GENE-Y	5-HTT
+GENE-Y	UGT2A3
+CHEMICAL	NAD(+ )
+CHEMICAL	7,8-benzoquinoline
+GENE-Y	Cdc42
+CHEMICAL	galactose beta-1,4 N-acetylglucosamine
+GENE-N	beta -adrenoceptors
+GENE-N	heat shock protein (HSP)70
+GENE-Y	insulin degrading enzyme
+GENE-N	KV
+GENE-N	IL-2R
+CHEMICAL	pyrimidine nucleotides
+CHEMICAL	2-(4-hydroxyphenyl)propionic acid
+GENE-Y	dopamine D(1)
+GENE-N	5α-reductase
+GENE-Y	Nsdhl
+CHEMICAL	Ang II
+GENE-N	PP-1
+GENE-N	efflux transporters
+GENE-Y	Glucagon-like peptide-1 receptor
+CHEMICAL	nialamide
+CHEMICAL	stearoyl-L-carnitine
+GENE-N	phencyclidine/sigma receptor
+CHEMICAL	fenofibrates
+CHEMICAL	SC-58125
+GENE-Y	CACT
+GENE-N	Protein kinase A
+CHEMICAL	benzoylmesaconine
+GENE-Y	Endothelin-1
+CHEMICAL	17 alpha-methyl-5 alpha-dihydrotestosterone
+CHEMICAL	felodipine
+CHEMICAL	tetrahydrobiopterin
+CHEMICAL	7-keto- and 7-hydroxy-oxysterols
+GENE-Y	leukocyte function-associated antigen (LFA)-1
+GENE-Y	Oatp1a4
+CHEMICAL	sulfonylurea
+CHEMICAL	[3H]dofetilide
+CHEMICAL	cGMP
+CHEMICAL	betamethasone
+CHEMICAL	carbonyls
+GENE-N	Asn386 to valine
+CHEMICAL	tetracyclic
+CHEMICAL	[BMIM](+)
+GENE-Y	interleukin-1 beta
+CHEMICAL	3-O-methyldopa
+CHEMICAL	HSYA
+CHEMICAL	ethanolamine
+GENE-Y	alpha 1 (III) chains
+GENE-N	P450 hydroxylases
+CHEMICAL	Tramadol
+CHEMICAL	ondansetron
+CHEMICAL	1-deamino-1-carba-2-tyrosine(O-methyl)-oxytocin
+CHEMICAL	ethoxyresorufin
+GENE-N	RALDH 1 and 2
+CHEMICAL	D-myo-inositol 1,4,5-trisphosphate
+CHEMICAL	5-hydroxyindoleacetic acid
+CHEMICAL	(+)-cocaine
+CHEMICAL	27-hydroxycholestrol
+GENE-N	Casein Kinase 2
+CHEMICAL	d-[(3)H]aspartate
+CHEMICAL	polycyclic aromatic hydrocarbon
+GENE-N	CARs
+CHEMICAL	thiazolidinedione
+CHEMICAL	medrogestone
+CHEMICAL	3β,5α-dihydroxycholest-7-en-6-one
+GENE-Y	multidrug resistance-associated protein 2
+CHEMICAL	monoselenophosphate
+CHEMICAL	hydroxy-carboxylic acid
+GENE-N	Acetyl-coenzyme A carboxylase
+GENE-N	phospho-JNK
+CHEMICAL	Diarylheptanoids
+GENE-N	IGF-IR
+GENE-Y	TRPC6
+GENE-N	GABA transporter
+GENE-Y	Protein tyrosine phosphatase 1B
+GENE-N	lysylendopeptidase C
+CHEMICAL	8-oxo-pinoresinol
+GENE-Y	Oat1
+GENE-Y	Mel1b
+GENE-N	vacuolar H(+)-ATPase
+CHEMICAL	sulfa drugs
+CHEMICAL	thioether
+GENE-N	family B GPCR
+CHEMICAL	AR-C69931 MX
+CHEMICAL	Mg(II)
+CHEMICAL	PGE(3.)
+GENE-N	ATF
+GENE-Y	hSMVT
+GENE-N	AMPK-alpha
+CHEMICAL	2-oxozoniporide
+GENE-Y	KCNN4
+GENE-N	CD1
+CHEMICAL	N-(2-hydroxypropyl)methacrylamide
+CHEMICAL	Eicosapentaenoic acid
+CHEMICAL	SDZ 220,581
+GENE-Y	cysteine dioxygenase
+CHEMICAL	PD098059
+GENE-Y	mouse butyrylcholinesterase
+CHEMICAL	Amsacrine
+CHEMICAL	celecoxib
+CHEMICAL	probucol
+CHEMICAL	10-ethyl-2-(diethylamino)pyrimido[1,2-a]benzimidazol-4(10H)-one
+GENE-Y	RCA IV
+CHEMICAL	(+)-butaclamol
+GENE-N	receptor TK
+CHEMICAL	penicillins
+GENE-Y	type B monoamine oxidase
+CHEMICAL	DCG-IV
+GENE-Y	IL8
+CHEMICAL	trazodone
+CHEMICAL	Vanadate
+CHEMICAL	Tryptophan
+GENE-Y	alpha3beta2 nAChR
+GENE-Y	eRoldh
+GENE-Y	CHRNA5
+GENE-Y	cardiotrophin-1
+GENE-Y	Anabaena sp. CH1 N-acetyl-d-glucosamine 2-epimerase
+GENE-Y	P-glycoprotein,
+GENE-N	Asn2.65(101) to Ala
+CHEMICAL	debrisoquine
+CHEMICAL	trithiocarbonate
+GENE-N	alpha 1A- and alpha 1D-adrenoceptor
+GENE-N	PDE4A, -B or -C
+CHEMICAL	BaP
+GENE-N	Nrf2 promoter
+GENE-Y	c-jun
+GENE-Y	Oct-4
+GENE-Y	GPR109A
+GENE-N	HIF-1
+GENE-Y	MT2 receptor
+GENE-Y	dio1
+GENE-Y	NHE4
+CHEMICAL	tetraisopropyl pyrophosphoramide
+CHEMICAL	(3S,5S)-3-hydroxy-5-methoxy-1,7-bis(4-hydroxyphenyl)-6E-heptene
+CHEMICAL	beta-amidino penicillanic acid
+CHEMICAL	N-BNI
+GENE-Y	suppressor of cytokine signaling-3
+GENE-Y	Galpha(i1)
+GENE-Y	inhibitor of kappaB (IkappaB)alpha
+GENE-Y	pseudocatalase
+CHEMICAL	carbon dioxide
+CHEMICAL	Corticosteroid
+GENE-N	ColIV
+GENE-Y	PSS1
+GENE-Y	GABA-T
+CHEMICAL	[Ru(CO)3Cl2]2
+CHEMICAL	methylcarbamate
+CHEMICAL	miltefosine
+CHEMICAL	Boc
+CHEMICAL	2-aminoanthracene
+GENE-N	ABC transporters
+GENE-Y	Stat3
+CHEMICAL	methyl rosmarinate
+CHEMICAL	uridine 5'-diphospho-6-biotin-epsilon-amidocaproylhydrazino-alpha-D-galactose
+GENE-Y	methylene tetrahydrofolate reductase
+GENE-Y	biotinidase
+CHEMICAL	[(3)H](-)-CP 55,940
+GENE-Y	tyrosinase
+GENE-N	αGST
+CHEMICAL	O-methylserine
+CHEMICAL	Hydrogen
+GENE-N	kinin receptors
+GENE-Y	IDO
+GENE-N	vitamin K epoxide reductase
+GENE-Y	CMT4B2
+GENE-Y	A1-AR
+CHEMICAL	3-amino-1-propanesulfonic acid
+CHEMICAL	BAPTA
+GENE-N	adrenergic receptor
+GENE-N	prostaglandin synthases
+GENE-Y	Krox20
+GENE-Y	soluble APP
+GENE-Y	5-lipoxygenase
+CHEMICAL	RAI
+CHEMICAL	thiopurine
+GENE-N	serum response element
+GENE-N	ECII
+CHEMICAL	Agenerase
+GENE-N	high-density lipoproteins
+CHEMICAL	melperone
+GENE-Y	GABA(A) receptor gamma2
+CHEMICAL	statins
+GENE-Y	HSPG2
+CHEMICAL	alanine-glyoxylate
+GENE-Y	10-Formyltetrahydrofolate dehydrogenase
+CHEMICAL	FSA
+GENE-Y	paxillin
+GENE-N	plasma protease
+CHEMICAL	zolmitriptan
+GENE-Y	CYP3A43
+CHEMICAL	2,3-dihydroxy-2,3-dihydrofluoranthene
+GENE-N	K185Q
+GENE-Y	Aurora B
+CHEMICAL	(+/-)[(125)Iodo]cyanopindolol
+CHEMICAL	Hydroxysteroid
+GENE-N	zinc transporters
+CHEMICAL	AAPH
+CHEMICAL	methohexital
+GENE-N	MAT
+CHEMICAL	aminoglycosides
+GENE-N	human multidrug resistance protein
+GENE-Y	ClpB
+GENE-N	CYPs
+CHEMICAL	azoxymethane
+CHEMICAL	n-propyl
+CHEMICAL	N-terminal amino acid
+CHEMICAL	hydroxyamidine
+GENE-Y	MMP2
+GENE-Y	rat brain glutamate decarboxylase
+CHEMICAL	TAGs
+GENE-N	topoisomerase I and II
+GENE-N	alpha-2 adrenoceptors
+GENE-Y	aspartoacylase
+CHEMICAL	Carbetocin
+GENE-N	Hypoxia inducible factor-1α
+GENE-Y	GluR-D
+GENE-Y	Ca(v)1.4
+GENE-Y	apo E
+GENE-Y	CIP2A
+GENE-Y	TGF-beta receptors I
+CHEMICAL	boronic acid
+GENE-N	ZZ domain
+CHEMICAL	tetrahydrofolate
+CHEMICAL	Olmesartan medoxomil
+CHEMICAL	Bimatoprost acid
+CHEMICAL	salicylate
+CHEMICAL	Sp-tabun thiocholine
+GENE-Y	Mt1
+CHEMICAL	S-Au
+GENE-N	Janus kinases
+CHEMICAL	beta -casomorphin
+CHEMICAL	2,4-dinitrophenyl
+CHEMICAL	1S,2R-ephedrine
+GENE-N	histone deacetylases (HDACs) class I-III
+CHEMICAL	tolazoline
+GENE-Y	platelet P2Y12 receptor
+CHEMICAL	(S)-2-([11C]methoxy)-4-[3-methyl-1-(2-piperidine-1-yl-phenyl)-butyl-carbamoyl]-be nzoic acid
+GENE-Y	angiopoietin-1
+GENE-Y	eIFNAR1
+CHEMICAL	biliverdin
+CHEMICAL	triprolidine
+GENE-Y	PSS2
+CHEMICAL	NSD-1015
+CHEMICAL	gardiquimod
+GENE-Y	factor IIa
+CHEMICAL	Rifampicin
+GENE-Y	GARFT
+CHEMICAL	GMPc
+CHEMICAL	acteoside
+GENE-N	rhSOD
+CHEMICAL	Pseudoephedrine
+GENE-Y	afadin
+CHEMICAL	menthol
+CHEMICAL	silica gel
+CHEMICAL	Styrene
+CHEMICAL	aryl amides
+CHEMICAL	O6-(R)-roscovitine
+CHEMICAL	NEM
+CHEMICAL	benzaldehyde
+CHEMICAL	Tetracaine
+GENE-N	Human GPCRs
+GENE-N	poly (ADP-ribose) polymerase
+CHEMICAL	oligomycin
+GENE-Y	CD44
+GENE-Y	L-2-hydroxyglutarate dehydrogenase
+GENE-Y	S100B
+GENE-Y	CA II
+CHEMICAL	calcium +
+GENE-N	G469E
+GENE-Y	Smad7
+CHEMICAL	HHDP
+CHEMICAL	seleno-DL-methionine
+GENE-N	RAR beta-gamma
+GENE-Y	connective tissue growth factor
+GENE-Y	mitogen-activated protein/extracellular signal-regulated kinase kinase 1
+GENE-Y	SF-1
+CHEMICAL	iodo
+GENE-Y	D-beta-AIB-pyruvate aminotransferase
+GENE-Y	OVA
+GENE-N	a29809g
+GENE-Y	MMP9
+GENE-Y	endothelial nitric oxide synthase
+GENE-N	retinoid-X receptor
+GENE-Y	ERK-1
+GENE-Y	dopamine beta-hydroxylase
+CHEMICAL	bunazosin
+GENE-N	Trk receptor
+CHEMICAL	PFAA
+CHEMICAL	nicotinamide adenine dinucleotide phosphate
+GENE-Y	c-IAP2
+GENE-N	rat brain CYP2D
+GENE-Y	histaminergic H(1) receptor
+CHEMICAL	ethinyl-estradiol
+CHEMICAL	l-buthionine-(S,R)-sulfoximine
+GENE-Y	MTMR13
+GENE-N	beta 1- and beta 2-adrenoceptors
+CHEMICAL	(13) C
+CHEMICAL	Na+
+GENE-Y	B isoform of PR
+GENE-N	human nucleoside transporters
+GENE-N	PAS
+CHEMICAL	saccharopine
+CHEMICAL	D-myo-inositol 1-phosphate
+GENE-Y	Oat2
+CHEMICAL	[3H]NE
+GENE-Y	ET-3
+GENE-Y	Cat3
+GENE-N	Caspase
+GENE-Y	GLT-1
+CHEMICAL	pyrethroids
+GENE-Y	orexin 1 receptor
+GENE-Y	prostaglandin EP3 receptor
+CHEMICAL	6BH(4)
+GENE-Y	PC
+CHEMICAL	(H2 O)n
+GENE-Y	human recombinant activated protein C
+GENE-Y	Mammalian target of rapamycin
+GENE-Y	Hsd11b1
+GENE-Y	glucagon receptor
+GENE-Y	TK1
+CHEMICAL	adenosine 5'-monophosphate
+GENE-Y	AQP1
+CHEMICAL	Blue Sepharose
+GENE-N	Ca(2+) channel
+GENE-N	IgG Fc domain
+CHEMICAL	PF470867
+CHEMICAL	(+)-amphetamine
+CHEMICAL	MK-0431
+GENE-Y	topoisomerase II alpha
+GENE-N	LIPOPROTEIN
+GENE-Y	carboxypeptidase E
+GENE-Y	Glra1
+GENE-Y	nicotinic acid receptor
+GENE-N	nitric oxide synthetase
+GENE-Y	TNF-a
+CHEMICAL	CoPP
+GENE-N	platelet glycoprotein IIb-IIIa
+GENE-Y	Transient Receptor Potential Ankyrin-1
+GENE-N	smooth muscle channel
+GENE-Y	Proline-rich tyrosine kinase 2
+GENE-N	Nuclear factor kappa B
+GENE-N	gonadotrophins
+GENE-Y	PLD2
+CHEMICAL	Thiamine
+GENE-Y	ADH2 1-1
+GENE-Y	interleukin-3
+GENE-Y	Tfrc
+GENE-N	cytochrome C oxidase
+CHEMICAL	LY 367385
+CHEMICAL	N-substituted 2-hydroxyiminoacetamido alkylamines
+CHEMICAL	resolvin D1
+CHEMICAL	Bevantolol
+GENE-Y	α6β2 nicotinic acetylcholine receptors
+CHEMICAL	norfluoxetine
+CHEMICAL	Azelaic acid
+GENE-N	glycoprotein IIb-IIIa
+CHEMICAL	mivacurium
+CHEMICAL	17 beta-estradiol
+GENE-Y	multidrug resistance protein MDR1
+CHEMICAL	O2(-)
+CHEMICAL	isoflavones
+CHEMICAL	[Ni(L(R,R))](3) [C(6)H(3)(COO)(3)](2)
+CHEMICAL	5-Methylurapidil
+GENE-Y	follicle-stimulating hormone receptor
+GENE-N	bile acid transporters
+GENE-N	penicillin-binding protein 3
+CHEMICAL	Norfenfluramine
+CHEMICAL	cimilactone C
+CHEMICAL	aryl chloride
+CHEMICAL	(E)-nerolidol
+GENE-Y	α1(I)-collagen
+GENE-Y	Trit1
+GENE-Y	SCF receptor
+CHEMICAL	HAL
+CHEMICAL	ortho-quinone
+CHEMICAL	LGD1069
+GENE-Y	human proton-coupled amino acid transporter 1
+GENE-N	Fc receptor
+GENE-Y	follistatin 315
+GENE-Y	alpha-galactosidase A
+GENE-N	chloride channel transcripts
+CHEMICAL	aldose
+CHEMICAL	Sirolimus
+GENE-Y	isolectin B4
+GENE-Y	glucagon-related peptides
+GENE-Y	QR1
+GENE-Y	mPGES
+CHEMICAL	apigenin
+CHEMICAL	N-acetylhexosamines
+CHEMICAL	R(+)-7-hydroxy-2-(N,N-di-n-propylamino)tetraline
+CHEMICAL	leucinol
+CHEMICAL	H(I)
+GENE-N	human multidrug resistance proteins
+CHEMICAL	5-aminolevulinic acid
+CHEMICAL	Etd(+)
+CHEMICAL	Calicheamicin
+CHEMICAL	ergone
+CHEMICAL	N-formyl-Met-Leu-Phe-Ile-Ile-Lys-fluorescein isothiocyanate
+GENE-Y	calumenin
+CHEMICAL	haloalkene-derived cysteine S-conjugates
+CHEMICAL	R- and S-lorazepam
+GENE-N	ECL3
+GENE-N	NMDARs
+CHEMICAL	N6-(R-phenylisopropyl)adenosine
+GENE-Y	Rantes
+GENE-N	adipokines
+GENE-Y	FXN
+GENE-Y	poly(ADP-ribose) polymerase 1
+GENE-N	immunophilin
+CHEMICAL	S-adenosylmethionine
+CHEMICAL	3-oxo-taraxer-14-ene
+GENE-Y	Klf4
+GENE-N	luteinising hormone
+CHEMICAL	emodinol
+CHEMICAL	[(14)C]dapagliflozin
+CHEMICAL	phenformin
+CHEMICAL	PTU
+CHEMICAL	Diacylglycerol
+GENE-N	DA receptor
+GENE-Y	human DHFR
+GENE-N	KLF6 N-terminus
+GENE-N	aldehyde dehydrogenases
+GENE-N	N-acetylated glucosamine-rich domain
+GENE-Y	Tie2
+CHEMICAL	epoxide
+CHEMICAL	borate ester
+GENE-N	interferon- α and γ
+GENE-Y	mouse gp130
+CHEMICAL	l-ethylphenidate
+GENE-Y	hERG
+GENE-Y	Adiponectin
+GENE-Y	TrkB
+GENE-Y	Fra-1
+GENE-Y	Raf-1
+GENE-Y	muscarinic M2 acetylcholine receptors
+GENE-Y	FHA
+GENE-Y	Beta-amyloid
+GENE-Y	Fabp4
+CHEMICAL	ethylenediamines
+GENE-Y	P-STAT3
+GENE-N	vascular endothelial growth factor receptors 2 and 3
+GENE-Y	Prdm16
+GENE-Y	PPAR-α
+CHEMICAL	HATU
+GENE-N	nuclear factor kappa B
+CHEMICAL	NAD(P)(+)
+CHEMICAL	Dehydroepiandrosterone Sulfate
+CHEMICAL	scopolin
+GENE-N	Receptor and non-receptor tyrosine kinases
+CHEMICAL	pyrophoshate
+GENE-Y	factor VII
+GENE-Y	low density lipoprotein (LDL) receptor
+GENE-N	OATs
+CHEMICAL	pterin-4a-carbinolamine
+GENE-N	AC
+GENE-Y	hBChE
+CHEMICAL	Bicalutamide
+CHEMICAL	streptozotocin
+GENE-Y	parathormone
+GENE-N	Tyr581Ser
+GENE-Y	interleukin-lbeta
+GENE-Y	Dipeptidyl Peptidase 4
+GENE-N	B-cell receptor
+GENE-Y	SNAI1
+CHEMICAL	Oxytocin
+GENE-N	membrane-bound polyphenoloxidase
+GENE-Y	D1 receptor
+CHEMICAL	Cortisol
+GENE-Y	RoDH-4
+CHEMICAL	Oxysterol
+GENE-N	NADH-quinone oxidoreductase
+GENE-N	acidic serine- and aspartate-rich motif
+GENE-N	dehydratase
+GENE-Y	progesterone receptor
+GENE-Y	CCK-B
+GENE-N	HO-1-antioxidant response element
+GENE-N	I1-midazoline binding sites
+GENE-Y	NOD2
+GENE-Y	prostacyclin receptors
+GENE-N	C146A
+CHEMICAL	Isosorbide Dinitrate
+GENE-N	Penicillin-binding proteins 4, 5, and 6
+GENE-N	CD16
+CHEMICAL	HCOO
+GENE-Y	interleukin 4
+GENE-N	Type III collagen
+GENE-Y	FAD synthetase
+CHEMICAL	(PhSe)(2)
+GENE-Y	human carbonyl reductase 1
+CHEMICAL	[Li](+)
+CHEMICAL	SC-58635
+GENE-N	sulfonylurea receptors
+GENE-N	alpha1-AR
+CHEMICAL	diacylglycerol
+GENE-N	mGlu2 promoter
+CHEMICAL	vicinal diols
+GENE-Y	annexin 1
+GENE-N	collagen
+GENE-Y	tumor necrosis factor
+CHEMICAL	MPP
+GENE-Y	CPT 1
+GENE-N	NBF1
+GENE-Y	endothelin-A receptor
+CHEMICAL	Safinamide
+CHEMICAL	7b-HC
+CHEMICAL	2-(1H-7-azabenzotriazol-1-yl)-1,1,3,3-tetramethyl hexafluorophosphate methanaminium uronium
+CHEMICAL	styelsamines B and D
+GENE-Y	TGF-beta3
+CHEMICAL	cytarabine
+CHEMICAL	Punicalin
+CHEMICAL	aleuritolic acid acetate
+GENE-N	KAT I
+GENE-Y	methylenetetrahydrofolate dehydrogenase 1
+GENE-N	mGluR
+GENE-Y	Serotonin Transporter
+CHEMICAL	cis-thioxanthenes
+CHEMICAL	mifepristone
+CHEMICAL	4-(thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile
+GENE-Y	CD40L
+CHEMICAL	polyethyleneglycol
+CHEMICAL	beta-cyano-L-alanine
+CHEMICAL	pinacolyl
+CHEMICAL	Sulfate
+CHEMICAL	mesalazine
+GENE-Y	CCK-8
+GENE-Y	Aquaporin-1
+GENE-Y	3-Phosphoglycerate dehydrogenase
+GENE-Y	hemoglobin A1c
+GENE-Y	UCP-1
+GENE-Y	KCNE1
+CHEMICAL	4,5-dicaffeoylquinic acid
+CHEMICAL	roxithromycin
+CHEMICAL	24R,25(OH)2 D3
+CHEMICAL	AH-13205
+GENE-Y	Human progesterone receptor
+GENE-N	adhesion receptor
+GENE-N	Serotonin and norepinephrine transporter
+GENE-Y	receptor activator of nuclear factor kappa-B
+GENE-Y	synapsin I
+CHEMICAL	Cadmium
+CHEMICAL	(-)-dimethindene
+CHEMICAL	CinA
+GENE-Y	M2 receptor
+CHEMICAL	L-dihydroorotate
+GENE-N	SP1
+GENE-N	rRAP
+CHEMICAL	testosterone
+GENE-N	BZD pocke
+GENE-Y	beta 3-adrenoceptors
+GENE-Y	CTNNA3
+CHEMICAL	2AMP
+CHEMICAL	carboxamide
+GENE-Y	activated protein C
+CHEMICAL	hydrocodone
+CHEMICAL	cis- and trans-chlorprothixene
+GENE-N	GAF A and GAF B
+GENE-N	cytochrome
+CHEMICAL	PGI2
+CHEMICAL	BMS961
+GENE-N	cox
+CHEMICAL	Sitagliptin
+GENE-N	asialo-agalacto IgG1
+CHEMICAL	Acid ethanol
+CHEMICAL	RTI-55
+CHEMICAL	buthionine sulfoximine
+CHEMICAL	dicarboxylate
+GENE-N	platelet derived growth factor receptor
+GENE-N	human CYP3A
+GENE-N	P-elapitoxin-As1a
+CHEMICAL	(R)-enantiomer of ketorolac
+CHEMICAL	cloxacillin
+CHEMICAL	salubrinal
+CHEMICAL	125I
+GENE-Y	parvalbumin
+GENE-Y	HM74a
+GENE-N	norepinephrine (NET) and dopamine (DAT) transporters
+CHEMICAL	Cr
+CHEMICAL	anthocyanidins
+GENE-Y	MSH2
+CHEMICAL	ibrutinib
+CHEMICAL	fluocinonide
+GENE-N	MAO
+CHEMICAL	Curcumin
+GENE-Y	Anks1b
+GENE-N	vascular oxidases
+CHEMICAL	chikusetsusaponin L9bc
+CHEMICAL	valyl
+GENE-Y	rhTA(1)
+GENE-Y	Per1
+CHEMICAL	Danazol
+CHEMICAL	poly(ethylene glycol) monomethyl ether
+CHEMICAL	N-methly-d-aspartate
+CHEMICAL	sterols
+GENE-N	PBP1a and -2x
+CHEMICAL	β-nicotinamide adenine dinucleotide
+GENE-N	Phosphoacetylcholinesterase
+CHEMICAL	BMA
+CHEMICAL	cysteinyl-leukotrienes C(4)/D(4)/E(4)
+GENE-Y	activator protein-1
+CHEMICAL	GTPγS
+GENE-Y	ANT1
+CHEMICAL	Apixaban
+GENE-N	Y337A
+GENE-Y	Estrogen receptor beta
+GENE-Y	5-HT(2)
+GENE-Y	human liver prolidase
+GENE-N	HR
+CHEMICAL	phosphoramidates
+GENE-Y	protein disulfide isomerase family A member 3
+CHEMICAL	[+]-fluprostenol
+CHEMICAL	Monocarbonyl Curcumin
+GENE-N	G-protein
+GENE-N	G2464A
+CHEMICAL	nilotinib
+GENE-N	5' nuclease
+CHEMICAL	SNAP 5089
+GENE-Y	Glra3
+CHEMICAL	besifloxacin
+GENE-Y	BCl2
+GENE-Y	D(1) receptor
+GENE-N	Cys-Ser-Tyr-Cys
+GENE-N	mu 1-, mu 2- and delta -opioid receptors
+GENE-Y	tpk-1
+GENE-N	arginine transporters
+GENE-Y	Fibroblast growth factor (FGF)-10
+CHEMICAL	<i>o</i>-MitoPhOH
+GENE-Y	TOP I
+GENE-Y	transcriptional intermediary factor 2
+CHEMICAL	2-(4-ethoxyphenyl)-4-methyl 1-(4-sulfamoylphenyl)-1H-pyrrole
+GENE-N	Arginine decarboxylase
+GENE-N	AMPARs
+CHEMICAL	l-selenocysteine
+GENE-N	CLDN
+CHEMICAL	chloroform
+GENE-N	sulfotransferase 1A1 and 2A1
+CHEMICAL	PD166326
+CHEMICAL	halogenated propofol
+CHEMICAL	9-(5-O-α-D-galactopyranosyl)-D-arabinityl-1,3,7-trihydropurine-2,6,8-trione
+CHEMICAL	flufenamic acid
+GENE-Y	shark rectal gland Na(+)/K(+)/Cl(-) cotransporter
+CHEMICAL	Gly
+CHEMICAL	polyaromatic hydrocarbons
+GENE-Y	transient receptor potential (TRP) A1
+CHEMICAL	benzodiazepine
+GENE-Y	p55
+GENE-N	adenovirus/herpes simplex virus-thymidine kinase
+GENE-Y	Rel
+CHEMICAL	doxycycline
+GENE-Y	alpha2B-adrenoceptor
+CHEMICAL	+/-8-OH-DPAT
+CHEMICAL	[(3)H]LTB(4)
+CHEMICAL	TAC
+CHEMICAL	Glyoxylate
+GENE-Y	p27(Kip)
+CHEMICAL	SGI-1776
+CHEMICAL	PMTLGYXNIRGL
+CHEMICAL	triton
+GENE-Y	type I gonadotropin-releasing hormone (GnRH) receptor
+GENE-N	cHRE
+GENE-Y	Tyramine 1 subgroup of receptors
+CHEMICAL	sulphated steroids
+GENE-N	5HT2
+GENE-Y	Heme Oxygenase-1
+GENE-N	SOX
+CHEMICAL	MMC
+GENE-N	ASARM
+CHEMICAL	Hoechst 33342
+CHEMICAL	acteosides
+CHEMICAL	cyclic guanosine-3',5'-monophosphate
+CHEMICAL	tegaserod
+GENE-Y	Human nuclear uracil-DNA glycosylase
+CHEMICAL	Ribostamycin
+GENE-Y	CavT.2
+GENE-N	R482T
+CHEMICAL	8'-OH-DHE
+CHEMICAL	pyrene
+CHEMICAL	piperazine
+GENE-Y	Relish
+GENE-N	K259Q
+GENE-N	penicillin-binding proteins 1 to 6
+CHEMICAL	pyridox(am)ine 5'-phosphate
+CHEMICAL	adenosyl-Cbl
+GENE-N	vesicular glutamate transporters 1 and 2
+GENE-N	asc-1
+GENE-Y	FDH
+CHEMICAL	penicillin G
+CHEMICAL	L-citrulline
+CHEMICAL	tiotropium
+CHEMICAL	monoamines
+CHEMICAL	halogenated aromatic hydrocarbons
+GENE-Y	Bone Morphogenetic Protein-7
+GENE-Y	estrogen receptor-beta
+GENE-N	follicle-stimulating hormone
+GENE-N	Transient Receptor Potential (TRP) channels
+CHEMICAL	hexose-6-phosphate
+CHEMICAL	NAC
+GENE-N	EC 3.2.2.7
+GENE-Y	hCCS
+CHEMICAL	Sodium arsenite
+GENE-Y	PUMA-G
+GENE-Y	proinsulin
+CHEMICAL	dithiothreitol
+GENE-N	Na/H antiport
+GENE-Y	somatostatin-14
+GENE-Y	ASM
+CHEMICAL	[C10C10mim]Cl
+CHEMICAL	14C-N-ethylmaleimide-S-cysteine
+CHEMICAL	OH-PCB
+CHEMICAL	Ser
+GENE-N	alpha1/2-adrenoceptor
+CHEMICAL	loteprednol etabonate
+CHEMICAL	nor-binaltorphimine
+GENE-N	V575M
+GENE-Y	inositol polyphosphate multikinase
+GENE-N	ACS1, -4, or -5
+GENE-Y	Barttin
+CHEMICAL	3-(benzylthio)-5-(1H-indol-3-yl)-1,2,4-triazol-4-amines
+GENE-Y	ACC1
+GENE-Y	Hepatocyte growth factor
+GENE-Y	retinal dehydrogenase 2
+GENE-N	bacterial transglutaminase
+CHEMICAL	5-fluorocytosine
+GENE-N	Ca2+ channels
+GENE-N	BDSBLs
+CHEMICAL	Peginesatide
+CHEMICAL	[(125)I]RTI-55
+GENE-Y	thiazide-sensitive Na-Cl co-transporter
+CHEMICAL	modafinil
+CHEMICAL	tannin
+GENE-Y	ALK
+CHEMICAL	SO2
+GENE-Y	3-phosphoglycerate dehydrogenase
+GENE-N	CYP2B1/2
+GENE-N	TRPV1-4
+GENE-Y	heme-oxygenase 1
+GENE-N	DQA1
+CHEMICAL	non-N-methyl-D-aspartate
+GENE-N	CAG
+GENE-N	GluR-A/B
+CHEMICAL	coumarins
+CHEMICAL	triphenylphosphonium-substituted arylboronic acid
+GENE-Y	human heart NaV1.5
+CHEMICAL	ammonium sulfate
+GENE-N	carbonic anhydrases
+CHEMICAL	epoxy
+GENE-Y	human NAD+-dependent deacetylase SIRT5
+CHEMICAL	ferric NO
+CHEMICAL	fluoropolymers
+CHEMICAL	fructose
+CHEMICAL	5alpha-dihydrotestosterone
+GENE-Y	alpha 2MR
+CHEMICAL	A967079
+GENE-Y	HIV-1 protease
+GENE-Y	CYP4F2
+GENE-Y	dopamine hD(2L) receptors
+GENE-N	SR
+GENE-N	RYGRK
+GENE-Y	mitochondrial SOD
+GENE-N	GlyRs
+GENE-N	aspartate transaminase
+GENE-N	propofol binding sites
+GENE-N	mouse Slc2a4 gene promoter
+CHEMICAL	GR 82334
+CHEMICAL	friedelin
+GENE-Y	PI3 kinase-δ
+CHEMICAL	Bile Acid
+GENE-N	phosphotyrosine phosphatase
+GENE-N	alanine aminotransferase
+CHEMICAL	[(35)S]guanosine-5'-O-(3-thio)triphosphate
+GENE-Y	human transferrin
+GENE-Y	mouse CRTH2 receptor
+CHEMICAL	5-fluorouracil
+CHEMICAL	sulfhydryl
+CHEMICAL	24-methylenecicloartan-3β-ol
+CHEMICAL	glassy carbon
+GENE-Y	thromboxane A2 synthetase
+GENE-N	G(i/o)-coupled receptors
+CHEMICAL	4,5 dihydroxy benzene 1,3 disulfonic acid di sodium salt
+CHEMICAL	mannose alpha-1,3
+GENE-N	Smad
+CHEMICAL	nitroblue tetrazolium
+GENE-N	P450s 2A13 and 1B1
+GENE-Y	PDGFβ receptor
+GENE-N	Plant homeodomain (PHD)-type zinc fingers
+GENE-N	tensin
+GENE-N	nicotinic-receptor
+GENE-Y	Mac-1 receptors
+CHEMICAL	Cu
+CHEMICAL	d-block
+CHEMICAL	N-acyl
+GENE-Y	Mtmr13
+CHEMICAL	dipyridamole
+GENE-N	δ subunit helix bundle
+CHEMICAL	antihistamine
+CHEMICAL	coenzyme A
+GENE-Y	aquaporin-1
+CHEMICAL	THDC
+CHEMICAL	methylcobalamin
+GENE-Y	TRalpha
+GENE-Y	Caspase-1
+CHEMICAL	MK-0966
+GENE-Y	PSMβ9
+CHEMICAL	4(R),15-epoxy-1β-hydroxyatractylenolide II
+GENE-Y	granuphilin
+CHEMICAL	CDP-ethanolamine
+GENE-Y	angiotensin (A) II
+CHEMICAL	formestane
+GENE-N	ACS1 and 5
+GENE-Y	Mdr1a
+GENE-N	POD
+GENE-N	mu and kappa opioid receptors
+CHEMICAL	20 alpha-OHP
+CHEMICAL	N (1), N (12)-diacetylspermine
+GENE-Y	human hepatic cytochrome P450 3A4
+CHEMICAL	Dobutamine
+GENE-Y	Sepiapterin reductase
+GENE-N	ARR2
+CHEMICAL	atrazine
+GENE-N	LysRSs
+CHEMICAL	imidazolium
+CHEMICAL	Ethanol
+CHEMICAL	beta CCs
+CHEMICAL	Dimethylarginine
+GENE-Y	Sequestosome 1
+GENE-Y	CAMK2G
+GENE-Y	VHL
+CHEMICAL	[(18)F]deethyl
+GENE-N	vascular endothelial growth factor receptors 1, 2, and 3
+GENE-N	N-terminal PHD fingers
+CHEMICAL	glycerophosphoserine
+GENE-Y	sigma 1 receptors
+CHEMICAL	ginsenoside Rg1
+GENE-Y	Snail homolog 1
+CHEMICAL	amidephrine
+CHEMICAL	(11)C-doxepin
+GENE-Y	Src homology region 2 domain-containing tyrosine phosphatase-1
+GENE-Y	FKBP52
+CHEMICAL	deoxycorticosterone pivalate
+CHEMICAL	fexofenadine
+GENE-Y	homeodomain interacting protein kinase 2
+GENE-Y	ISD11
+CHEMICAL	PAA
+CHEMICAL	Prostacyclin
+GENE-Y	MYC
+GENE-N	metalloproteinase
+GENE-N	bovine trypsin
+GENE-N	Erk-1/-2
+CHEMICAL	[(14)C]sorafenib
+GENE-Y	A2m
+CHEMICAL	H(3)PO(4)
+GENE-N	transglutaminase
+GENE-N	IGF binding protein protease
+CHEMICAL	Taxane
+CHEMICAL	glucose-6-phosphate
+GENE-N	AT4 receptors
+CHEMICAL	NH4Cl
+GENE-Y	H2
+GENE-Y	dopamine- and cyclic AMP-regulated 32-kDa phosphoprotein
+CHEMICAL	ClF2(+)
+CHEMICAL	arylpiperazines
+GENE-N	MAP-1
+CHEMICAL	benoxathian
+GENE-Y	ACT1
+GENE-Y	COX2
+CHEMICAL	resiquimod
+CHEMICAL	AVT
+GENE-Y	carnitine palmitoyltransferase-1
+CHEMICAL	octylphenol
+GENE-Y	PtdSer synthase 2
+CHEMICAL	NAD+
+CHEMICAL	HN2
+GENE-Y	PS flippase ATP8A1
+GENE-Y	nucleotide binding and oligomerization domain-like receptor family pyrin domain-containing 3
+GENE-N	mitochondrial isozyme V
+CHEMICAL	benzylidene anabaseine
+GENE-N	integrin receptors
+GENE-N	GPDH
+GENE-N	caspase-3/7
+GENE-Y	leucine carboxyl methyl transferase 1
+GENE-N	Calcium/Calmodulin-Dependent Protein Kinase II
+CHEMICAL	bicuculline
+GENE-Y	CHOP
+GENE-Y	interferon-alpha2
+GENE-N	linamarase
+CHEMICAL	danazol
+GENE-Y	gastric inhibitory polypeptide
+GENE-N	5-alpha reductase (5-AR) enzymes types 1 and 2
+GENE-Y	cyclin-dependent kinase-5
+GENE-Y	apo AII
+CHEMICAL	gamma-glutamyl-cysteinyl-Gly
+GENE-N	cyclin-dependent kinase
+GENE-N	Mammalian glutamate dehydrogenase
+CHEMICAL	AIDA
+GENE-N	dynein
+CHEMICAL	ferric heme
+GENE-N	human superoxide dismutase
+CHEMICAL	Dipeptyl
+CHEMICAL	alpha-hydroxy ketones
+GENE-Y	synaptophysin
+CHEMICAL	SOM230
+GENE-N	mGlu2/3
+CHEMICAL	Silicon
+GENE-N	tetraloops
+GENE-Y	Eag
+CHEMICAL	7-chloroquinolines
+GENE-Y	transporter Flr1p
+GENE-N	human, rat, and mouse GPR35
+GENE-Y	A(2B) receptors
+GENE-Y	aspartate aminotransferase
+GENE-N	GSTs
+CHEMICAL	eticlopride
+GENE-Y	rat ACS1
+GENE-N	NomPClike
+CHEMICAL	poly(lactide-co-glycolide)
+GENE-N	alpha-adrenoceptors
+GENE-Y	SLC7A7
+GENE-Y	Human CYP24A1
+GENE-Y	glycogen synthase kinase-3β
+CHEMICAL	vinclozolin
+CHEMICAL	biopterin
+CHEMICAL	memantine
+CHEMICAL	baicalein
+CHEMICAL	Carvacrol
+GENE-Y	AGT 2
+GENE-N	human cyclophilins
+CHEMICAL	Sulfonamide
+CHEMICAL	5-hydroxyindolacetic acid
+CHEMICAL	DEB
+CHEMICAL	Carnitine
+CHEMICAL	UDPGA
+CHEMICAL	Vitamin C
+GENE-Y	metalloproteinase 13
+CHEMICAL	Iressa
+CHEMICAL	GHB
+GENE-N	Smad2/3 phosphorylation
+CHEMICAL	oligodeoxynucleotides
+CHEMICAL	3β-hydroxysterol
+GENE-Y	histamine H1 receptor
+GENE-Y	cytochrome P450 side chain cleavage enzyme
+CHEMICAL	norelgestromin
+GENE-Y	A1
+GENE-N	alcohol dehydrogenases
+CHEMICAL	bis-aryl ureas
+CHEMICAL	6-Hydroxy-benzofuran-5-carboxylic acid
+CHEMICAL	clemastine
+CHEMICAL	ORO
+GENE-Y	α1(II)-collagen
+GENE-Y	P2Y1
+GENE-Y	Ontak
+GENE-N	hydrolyases
+CHEMICAL	hydroxyl
+CHEMICAL	biotinylated trimethylpsoralen
+GENE-N	Peroxisome proliferator-activated receptors alpha and gamma
+GENE-Y	CXCL10
+CHEMICAL	normeperidine
+CHEMICAL	sodium deoxycholate
+GENE-Y	aldosterone receptor
+CHEMICAL	benzo-b-acronycine
+GENE-Y	ADH1B1
+CHEMICAL	ergotamine
+GENE-N	MMP-2/9
+CHEMICAL	4-phenylpiperidines
+GENE-N	soybean LOX
+CHEMICAL	ρ-hydroxybenzoic acid
+CHEMICAL	SAH
+CHEMICAL	WR-1065
+CHEMICAL	o-cresol
+GENE-Y	ICAM2
+GENE-Y	cyclin A
+GENE-Y	rhIGF-I
+GENE-Y	ABCC1
+CHEMICAL	OSI-1211
+CHEMICAL	BRL44408
+GENE-N	phospho-extracellular signal-regulated kinase
+GENE-Y	glucose transporter 4
+CHEMICAL	mertansine
+CHEMICAL	1-(5-isoquinolinylsulfonyl)-methylpiperazine
+GENE-Y	Tnf
+GENE-N	Glutamic acid decarboxylase
+CHEMICAL	3-Methylcholanthrene
+GENE-N	Efflux transporters
+GENE-Y	rhesus monkey TAAR1
+GENE-N	gastric mucin
+GENE-Y	M2 subunit of ribonucleotide reductase
+GENE-N	2H1C class of non-heme iron enzymes
+CHEMICAL	leuprolide
+CHEMICAL	hydralazine
+GENE-N	CBRs
+GENE-Y	Ndufb7
+GENE-Y	serum growth hormone
+CHEMICAL	VU0357017
+GENE-N	adenine nucleotide translocator
+CHEMICAL	eseroline
+GENE-Y	SMVT
+CHEMICAL	omapatrilat
+GENE-N	mouse muscle AChR
+CHEMICAL	homoisoflavonoids
+CHEMICAL	leukotriene
+CHEMICAL	Ce6
+GENE-Y	S1P lyase
+GENE-Y	SUR1. 6
+CHEMICAL	haloperidol
+CHEMICAL	YM022
+GENE-Y	citrate synthase
+CHEMICAL	formalin
+CHEMICAL	YM-087
+GENE-N	α-catenin
+GENE-Y	hydroxymethylglutaryl coenzyme A
+GENE-Y	human serum albumin
+CHEMICAL	mPEG
+CHEMICAL	bicalutamide
+GENE-N	HIV protease
+CHEMICAL	alpha-tocopheryl succinate
+CHEMICAL	p-coumaric acid
+GENE-N	androgen response region
+GENE-Y	microtubule-associated tau protein
+CHEMICAL	<i>p</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup>
+CHEMICAL	8, 3beta, 17beta-dihydroxy-androst-5-ene-16-one
+GENE-N	IGFIIR promoter
+GENE-N	PTB-binding site
+GENE-Y	p-Bad
+GENE-Y	human microsomal epoxide hydrolase
+GENE-N	anorectic neuropeptide
+GENE-Y	alpha1 glycine
+GENE-N	androgen and glucocorticoid receptors
+CHEMICAL	7,3'-di-O-methylquercetin-4'-O-β-d-glucopyranosyl-3-O-[(6'''''→5'''')-O-1'''''-(sinap-4-yl)-β-d-glucopyranosyl-6‴-(3-hydroxy-3-methylglutaroyl)]-α-d-glucopyranoside
+GENE-Y	Drosophila Sir2
+CHEMICAL	JL71
+GENE-Y	intestinal bile acid-binding protein
+CHEMICAL	broxaterol
+GENE-Y	echinoderm microtubule-associated protein-like 4
+GENE-N	serum Amyloid A
+GENE-Y	FARP2
+CHEMICAL	Docetaxel
+GENE-N	leucine zipper gene promoter
+CHEMICAL	benzofurans
+GENE-N	myristoylated-Akt
+CHEMICAL	triamterene
+CHEMICAL	CTAB
+CHEMICAL	4-tert-Octylphenol
+CHEMICAL	methanesulfonanilides
+CHEMICAL	zacopride
+CHEMICAL	cysteinyl leukotrienes
+GENE-N	sirtuin
+CHEMICAL	Methylcobalamin
+CHEMICAL	cefazolin
+CHEMICAL	8-O-trans-cinnamoyl shanzhiside methylester
+CHEMICAL	[alpha-(32)P]GTP
+GENE-N	human lung alcohol and aldehyde dehydrogenases
+CHEMICAL	OMe
+GENE-Y	murine double minute 2
+CHEMICAL	[(3)H]LY395153
+CHEMICAL	SP600125
+CHEMICAL	1,3-didecyl-2-methylimidazolium chloride
+CHEMICAL	propargylamine
+CHEMICAL	O2
+GENE-Y	connexin43
+GENE-N	Lethocerus troponin C
+CHEMICAL	warfarin
+GENE-Y	histamine H4 receptors
+GENE-Y	Rabbit aldo-keto reductase (AKR) 1B19
+CHEMICAL	βCD
+GENE-N	gamma-secretase
+CHEMICAL	G
+GENE-Y	p21WAF1
+CHEMICAL	D-galactosamine
+CHEMICAL	palmitoyl-carnitine
+CHEMICAL	111In-DTPA
+CHEMICAL	triphenylphosphonium
+CHEMICAL	ABT-107
+GENE-Y	BID
+CHEMICAL	vitamin D
+GENE-Y	PGR
+CHEMICAL	Arsenic
+CHEMICAL	Retinal
+GENE-Y	PAI-1
+CHEMICAL	[125I](-)pindolol
+GENE-Y	nucleolin
+CHEMICAL	antiestrogen
+CHEMICAL	pentylenetrtrazole
+CHEMICAL	GalNAc
+GENE-N	calcium-activated potassium (SK) channels
+CHEMICAL	uranium
+GENE-Y	incretins
+GENE-Y	histamine H2-receptor
+CHEMICAL	atorvastatin acid
+GENE-Y	Interleukin-10
+CHEMICAL	CP-93,129
+GENE-N	Y289L
+CHEMICAL	mCPP
+GENE-N	constitutive orphan receptor
+CHEMICAL	prostaglandin-H2
+CHEMICAL	docosahexaenoate
+CHEMICAL	poly (L-lactide)
+GENE-Y	HNF-4α
+CHEMICAL	doxepin
+GENE-Y	Cyp19
+CHEMICAL	7-oxysterols
+GENE-N	Ambler class A and C β-lactamases
+CHEMICAL	20alpha-hydroxysteroids
+GENE-N	focal adhesion complex
+GENE-Y	lipoamide dehydrogenase
+GENE-N	5HTTLPR
+CHEMICAL	(-)-Pentazocine
+GENE-Y	Tp53
+GENE-Y	TOP2A
+GENE-Y	LRP5
+CHEMICAL	Gal alpha(1) --> 4 Gal beta 1 --> 4 Glu beta 1 --> 1 Cer
+GENE-N	Pannexin
+CHEMICAL	Eunicellin
+GENE-Y	FOXA1
+CHEMICAL	acenaphthylene
+GENE-Y	Yersinia protein tyrosine phosphatase
+GENE-N	Bak
+CHEMICAL	DAD
+CHEMICAL	Orgalutran
+CHEMICAL	Tazarotene
+CHEMICAL	MK886
+CHEMICAL	1,25(OH)(2)D(3)
+CHEMICAL	PD-0325901
+GENE-Y	G6Pase
+GENE-Y	ET-1 receptors
+GENE-N	sGCβ
+GENE-Y	LysRS
+GENE-Y	human equilibrative nucleoside transporter-1
+GENE-Y	alpha 1 A-adrenoceptor
+GENE-Y	human hematopoietic prostaglandin (PG) D synthase
+CHEMICAL	amino acid alcohols
+GENE-N	asialoglycoprotein receptor
+GENE-N	somatostatinergic receptor
+GENE-Y	OATP1B3
+GENE-N	alpha1H channel
+GENE-Y	human epidermal growth factor 2
+GENE-Y	human 5-HT(1A) receptors
+CHEMICAL	2-ethynylnaphthalene
+GENE-Y	ZO-1
+GENE-Y	beta-thromboglobulin
+GENE-Y	soluble IL-6 receptor
+CHEMICAL	PPh(4)
+GENE-Y	iPON1
+GENE-Y	GSTM4-4
+CHEMICAL	Bile acids
+GENE-Y	glucose transporter isoform 4
+CHEMICAL	cyproterone acetate
+GENE-N	T. brucei CTP synthetase
+CHEMICAL	CA-asp
+CHEMICAL	CORM-2
+CHEMICAL	CTOP
+CHEMICAL	exemestane
+GENE-N	Mitochondrial creatine kinase
+GENE-N	glutamic acid decardoxylase
+GENE-N	aglycosylated Fc domains
+GENE-N	topoisomerase (TOP) 1 and 2
+CHEMICAL	Ornithine
+CHEMICAL	phosphoryl
+GENE-Y	interleukin 6
+CHEMICAL	(2S)-5-hydroxy-7,3'-dimethoxyflavanone-4'-O-β-d-apiofuranosyl-(1→5)-O-β-d-apiofuranosyl-(1→2)-O-β-d-glucopyranoside
+CHEMICAL	galactose
+CHEMICAL	C(6)
+GENE-Y	human cytochrome P450 4F2
+GENE-N	Ile646Lys
+CHEMICAL	coniferaldehyde
+CHEMICAL	clomipramine
+GENE-N	alpha-tubulin
+CHEMICAL	Eudragit
+GENE-Y	antithrombin III
+CHEMICAL	scopoletin
+GENE-Y	GPx1
+CHEMICAL	methiothepin
+GENE-Y	NKX3.1
+CHEMICAL	(-)-[(3)H]-CGP12177
+GENE-Y	rat GSTA3-3
+GENE-Y	peroxisome-proliferator-activated receptor delta
+CHEMICAL	carnosic acid
+GENE-Y	human GH
+GENE-Y	TGF-β1
+CHEMICAL	OPs
+GENE-Y	gp130
+GENE-Y	protein kinase Cε
+CHEMICAL	sulfobromophthalein
+CHEMICAL	dodecyl
+GENE-N	E673K
+CHEMICAL	lysyl
+GENE-N	human alpha4 or beta2 neuronal nicotinic acetylcholine receptor
+CHEMICAL	histidyl
+CHEMICAL	PD 0332991
+GENE-N	glutamic acid decarboxylas
+CHEMICAL	PI(3,4,5)P3
+CHEMICAL	thromboxane A2
+GENE-N	human P-gp
+GENE-Y	Transient receptor potential cation channel, subfamily V, member 6
+CHEMICAL	Cre
+GENE-Y	RAIG3
+CHEMICAL	butyl paraben
+CHEMICAL	sodium borate
+GENE-N	SCB/MCB cell-cycle binding site
+CHEMICAL	trichlormethiazide
+GENE-N	calmodulin kinase
+GENE-N	MEK1/2
+CHEMICAL	fananserin
+GENE-Y	IsK
+CHEMICAL	Desipramine HCl
+CHEMICAL	isovaleryl-CoA
+CHEMICAL	SB 227122
+GENE-Y	plasminogen activator inhibitor-1
+GENE-N	rat hepatic P450s
+GENE-Y	NDUFS5
+CHEMICAL	vitamin-B(12)
+GENE-Y	Endothelial protein C receptor
+GENE-Y	FXI
+GENE-Y	human pregnane X receptor
+CHEMICAL	Flavone
+CHEMICAL	endoperoxides
+CHEMICAL	cocaethylene
+CHEMICAL	[(3)H]glucosamine
+CHEMICAL	Pregnenolone
+GENE-Y	RXRalpha
+CHEMICAL	PPG
+CHEMICAL	anatase (101)
+CHEMICAL	Pravastatin
+CHEMICAL	(99m)Tc(CO)3-Pz(4)-βAlaNleCycMSH(hex)
+GENE-N	Hormone Receptor
+GENE-N	K259R
+CHEMICAL	etravirine
+GENE-N	R75V
+CHEMICAL	d-TC
+GENE-Y	alpha1D-AR
+CHEMICAL	SB224289
+GENE-N	adipocytokine
+GENE-N	3beta-HSD
+GENE-Y	SLC22A8
+GENE-N	ryanodine receptor
+CHEMICAL	diazatricylic
+CHEMICAL	Uranium
+GENE-Y	CRBP I
+CHEMICAL	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+CHEMICAL	2,3-benzodiazepines
+GENE-Y	rat cannabinoid CB(1) receptor
+GENE-Y	Neurotensin Receptor 2
+GENE-Y	interleukin-10
+CHEMICAL	triterpenic acids
+GENE-Y	elongation-factor 2
+GENE-N	ZZ
+CHEMICAL	steroidal cyclopentanone
+GENE-Y	human EAA1
+CHEMICAL	Amdinocillin
+CHEMICAL	adrenergic amines
+CHEMICAL	myristate
+GENE-N	soluble guanylyl cyclase
+GENE-N	smooth muscle channels
+GENE-N	Ran GTPase
+GENE-Y	Topo II
+CHEMICAL	phenothiazine
+GENE-Y	sstr(5)
+GENE-Y	CKS2
+GENE-N	Alb2
+GENE-Y	apelin
+GENE-N	SV 40 large T-antigen
+GENE-Y	Bfl-1
+CHEMICAL	Sulfamates
+CHEMICAL	diamines
+GENE-N	Hypoxia-response element
+GENE-Y	Dihydrolipoamide acyltransferase
+GENE-N	prohormone convertase 1/3
+CHEMICAL	desferrioxamine
+GENE-Y	mGluR(1)
+CHEMICAL	diethylphtalate
+CHEMICAL	n-3 and n-6 PUFA
+CHEMICAL	RU-486
+GENE-N	A-241G
+GENE-N	globulin-γ
+GENE-N	organic anion transporter
+GENE-Y	NF-kappaB-inducing kinase
+GENE-N	DNA damage kinase
+GENE-Y	carbamoylphosphate synthase II
+GENE-Y	neuronal nitric oxide synthase
+GENE-N	P450 AA monooxygenases
+CHEMICAL	ursolic acid
+CHEMICAL	[3H]ucb 30889
+GENE-Y	ATP8A1
+GENE-Y	darbepoetin alpha
+GENE-Y	bradykinin-like peptide
+GENE-Y	monoglyceride lipase
+GENE-Y	GATA-3
+GENE-N	cool receptor
+GENE-Y	acid sphingomyelinase
+GENE-Y	mGluR2
+CHEMICAL	SHA 68
+CHEMICAL	topotecan
+GENE-Y	RF-amide-related peptide (RFRP)-3
+CHEMICAL	SB334867
+GENE-Y	EC 2.1.1.67
+CHEMICAL	DON
+CHEMICAL	Tamsulosin
+CHEMICAL	allysine
+CHEMICAL	Na(I)
+GENE-Y	neutrophil elastase
+CHEMICAL	4-[1-(2-fluoropyridin-3-yl)-5-methyl-1H-1,2, 3-triazol-4-yl]-N-isopropyl-N-methyl-3,6-dihydropyridine-1(2H)-carboxamide
+GENE-N	5HT receptor
+GENE-Y	Axl
+CHEMICAL	AMROH
+CHEMICAL	methylenetetrahydrofolate
+CHEMICAL	mitomycin C
+GENE-N	CD36
+CHEMICAL	azelaic acid
+CHEMICAL	dihyroorotate
+CHEMICAL	6-hydroxy
+CHEMICAL	phosphatidylinositol
+GENE-N	CA I and II
+GENE-N	L-type Ca2+ channel
+GENE-Y	syntaxin-1a
+GENE-N	delta 5-3 beta-HSD
+GENE-Y	p38α
+CHEMICAL	hyperforin
+GENE-N	Activins
+GENE-N	Reduced flavodoxin
+CHEMICAL	zinterol
+CHEMICAL	ganciclovir
+GENE-Y	phosphodiesterase-5
+GENE-Y	FR-alpha
+CHEMICAL	dexfenfluramine
+CHEMICAL	steroid hormones
+CHEMICAL	essential fatty acid
+GENE-Y	p-STAT1
+GENE-N	group II mGlu receptor
+CHEMICAL	ambrisentan
+GENE-Y	mdm2
+GENE-Y	heat shock 70 kDa protein 8
+CHEMICAL	tranexamic acid
+CHEMICAL	dFdC
+CHEMICAL	raltitrexed
+GENE-Y	human marapsin
+CHEMICAL	(S)-3,5-DHPG
+GENE-Y	P. falciparum bifunctional DHFR-thymidylate synthase
+CHEMICAL	isethionate
+GENE-N	CAT1-3
+GENE-Y	sstr(3)
+GENE-Y	THBS1
+GENE-Y	deiodinase 2
+GENE-Y	Ugcg
+GENE-Y	isoleucyl tRNA synthetase
+GENE-N	Serotonin, dopamine and norepinephrine transporter
+GENE-N	IKr
+GENE-Y	insulin-like growth factor type II receptor
+CHEMICAL	2-methyl-1, 4-naphthoquinone
+GENE-N	NF-kappaB
+CHEMICAL	Quinidine
+GENE-N	glutaredoxins
+CHEMICAL	2-[4-(4-Chlorophenyl)piperazin-1-ylmethyl]pyrazolo[1,5-a]pyridine
+GENE-Y	Kir2.3
+CHEMICAL	lactic acid
+CHEMICAL	AICAR
+CHEMICAL	Cembranoid
+GENE-N	α9α10 nAChR
+GENE-Y	interleukin 1β
+CHEMICAL	indole-6-carboxylic acid
+CHEMICAL	S-ketorolac
+GENE-N	adenylate cyclase
+GENE-Y	"type-3" cannabinoid receptor
+GENE-N	hsp70
+GENE-Y	T2-TrpRS
+CHEMICAL	(123)I
+GENE-N	human CYP2D
+GENE-N	serotonin 1(B/D)
+CHEMICAL	Δ(9)-tetrahydrocannabinol
+CHEMICAL	dihydoxyphenylglycol
+CHEMICAL	lithium aluminium hydride
+CHEMICAL	Alexa532-noradrenaline
+CHEMICAL	matrine
+CHEMICAL	13cisRA
+GENE-N	serum transaminases
+GENE-N	myosin light chain kinae
+CHEMICAL	Nomega-nitro-L-arginine methyl ester
+GENE-Y	CXCL9
+GENE-Y	GTB
+CHEMICAL	N (1)-acetylspermidine
+GENE-Y	glucocorticoid interacting protein 1
+GENE-Y	somatostatin subtype receptor 3
+GENE-N	human recombinant m1-m5 receptor
+CHEMICAL	Ridogrel
+GENE-N	poly(ADP-ribose) polymerase
+CHEMICAL	Abamectin
+GENE-N	ALDH9
+GENE-N	I-kappaB kinase
+CHEMICAL	O
+GENE-Y	CDK4
+GENE-N	G(i)
+GENE-Y	interferon regulatory factor 5
+GENE-Y	transient receptor potential vanilloid receptor-1
+CHEMICAL	Inosine monophosphate
+GENE-N	Raldh3
+GENE-Y	ER alpha
+CHEMICAL	5-carboxylcytosine
+CHEMICAL	acamprosate
+GENE-Y	melanin-concentrating hormone
+CHEMICAL	mephedrone
+CHEMICAL	Naltrexone
+GENE-N	type-II (CII) small nociceptors
+GENE-N	TGG
+CHEMICAL	polycyclic aromatic hydrocarbons
+GENE-Y	HM74
+CHEMICAL	thymidylate
+GENE-Y	GRs
+GENE-N	pdFI
+GENE-Y	ISL1
+CHEMICAL	XR9576
+CHEMICAL	BrdU
+GENE-N	beta-adrenoceptor
+GENE-Y	activator protein (AP)-1
+GENE-N	platelet-derived GF
+GENE-N	rat dopamine, serotonin and alpha(1) receptors
+GENE-N	phenyalanine 646 to serine
+GENE-N	metalloproteases
+CHEMICAL	O-phosphoserine
+GENE-N	muscarinic cholinergic receptor
+CHEMICAL	benzhydryl
+GENE-Y	nucleotide-binding oligomerization domain 2
+GENE-Y	5-LOX
+GENE-Y	aggrecan
+GENE-N	Pleurotus florida lectin
+CHEMICAL	8-oxo-dGTP
+CHEMICAL	Cypermethrin
+CHEMICAL	Fexofenadine
+CHEMICAL	Yutopar
+GENE-N	class II alanyl-tRNA synthetase
+CHEMICAL	racemic sarin
+GENE-Y	beta-2-adrenergic receptor
+CHEMICAL	moxifloxacin
+GENE-Y	carnitine acyltransferase
+CHEMICAL	N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline
+GENE-N	ADP-receptor
+CHEMICAL	mequitazine
+CHEMICAL	Gilenya((R))
+CHEMICAL	malondialdehyde
+CHEMICAL	angiotensin-II
+GENE-Y	D3DR
+GENE-N	human vitamin C transporter
+GENE-Y	CA-IX
+GENE-Y	H-protein
+GENE-Y	MIZ1
+GENE-N	D253
+CHEMICAL	boron
+GENE-N	Abl kinase domain
+CHEMICAL	PKC412
+GENE-N	G-proteins
+GENE-N	serine racemase
+GENE-Y	mu receptor
+GENE-N	sodium-proton exchangers
+CHEMICAL	L-Dopa
+CHEMICAL	5-hydroxy indole acetic acid
+CHEMICAL	5-Carboxamido-tryptamine
+GENE-N	Sodium channel
+CHEMICAL	nortriptyline
+GENE-Y	EphrinA5
+GENE-N	human CBR
+CHEMICAL	4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone
+GENE-Y	phospho-Chk1
+GENE-N	GPX
+CHEMICAL	[3H]S-citalopram
+CHEMICAL	cyproheptadine
+CHEMICAL	WY14,643
+GENE-Y	Cox-1
+GENE-Y	interleukin
+CHEMICAL	unsaturated fatty acids
+GENE-N	extracellular-signal-regulated kinases
+GENE-Y	NF-E2-related Factor 2
+GENE-Y	ABCC9
+GENE-Y	TPK
+GENE-Y	HRG1
+CHEMICAL	R=Me
+GENE-N	Ser284Thr
+CHEMICAL	hydroperoxide
+GENE-Y	ADH1C1
+GENE-Y	serine/threonine kinase SGK1
+GENE-N	IP6K
+GENE-N	Opioid receptor
+GENE-Y	monoamine oxidase A
+CHEMICAL	benzo-fused spirocyclic oxazepine
+CHEMICAL	SPD
+CHEMICAL	ZEN
+CHEMICAL	3alpha-hydroxysteroid
+CHEMICAL	DVS
+CHEMICAL	aflatoxin B1-8,9-epoxide
+GENE-N	sodium, potassium, and calcium channels
+GENE-Y	α 5 nicotinic acetylcholine receptor
+GENE-Y	estrogen receptor (ER)-α
+GENE-Y	Chcr2
+CHEMICAL	carbacyclin
+GENE-Y	GSTpi
+CHEMICAL	3,4-dichloropropionanilide
+GENE-Y	thromboxane A2 receptor
+GENE-N	-800 T/C
+CHEMICAL	LY2784544
+CHEMICAL	Pemetrexed
+GENE-N	rs9344 A/A
+CHEMICAL	5,8-dideazafolate-[3H]tetraglutamate
+CHEMICAL	Amino acid
+CHEMICAL	aminoalkylindole
+GENE-N	XRE
+GENE-N	cyclic nucleotide phosphodiesterase 3
+GENE-Y	arginine vasopressin
+GENE-N	A630P
+CHEMICAL	Cilostazol
+GENE-N	PPARalpha1 and alpha2
+GENE-N	adenosine-5'-triphosphate (ATP)-gated cation channels
+CHEMICAL	imidazole
+CHEMICAL	1-butyl-3-methylimidazolium
+GENE-N	guanylate cyclases
+CHEMICAL	sufonamide
+CHEMICAL	nitromifene
+CHEMICAL	chromium
+GENE-N	intracellular protein deacetylases
+GENE-N	Thr116Met
+GENE-N	LTRs
+CHEMICAL	Puerarin
+CHEMICAL	11-cis-retinol
+GENE-Y	RXRalpha retinoid receptor
+GENE-N	motilin or cholecystokinin (CCK(1)) receptor
+GENE-Y	Trx1
+CHEMICAL	D-(-)-2-amino-5-phosphonopentanoic acid
+GENE-N	GABAA
+CHEMICAL	dimethylaminoethyl methacrylate
+CHEMICAL	[(125)I]Flip-IDAM
+CHEMICAL	Allopregnanolone
+CHEMICAL	5-methyl-2'-deoxycytidine
+GENE-Y	ASIC2
+GENE-Y	ucOC
+GENE-Y	neu
+CHEMICAL	MCM-41
+GENE-N	MDR
+GENE-N	NF-kappa
+CHEMICAL	palmitic acid
+GENE-N	DR3
+GENE-N	Vitellogenins
+CHEMICAL	(-)deprenyl
+GENE-Y	BNP
+CHEMICAL	isoflavone
+GENE-Y	GHRH receptor
+GENE-N	carboxylesterase
+GENE-N	IκB
+GENE-Y	alpha2A-AR
+GENE-N	Na(+)-dependent transporters
+CHEMICAL	3-, ω-1-, and ω-carbons
+GENE-N	Extracellular loop II
+CHEMICAL	2-(1-piperazinyl)
+CHEMICAL	asiaticoside
+CHEMICAL	Upamostat
+GENE-Y	B(1) receptors
+GENE-N	cytokines
+CHEMICAL	pyrazofurin
+GENE-N	organic cation transporters
+GENE-Y	human cardiac K(+) channels HERG
+CHEMICAL	Sodium
+CHEMICAL	Fluparoxan
+GENE-Y	Histamine H1
+CHEMICAL	methylenedioxypyrovalerone
+CHEMICAL	dichloromethane
+GENE-N	SIRT1/2/3
+CHEMICAL	bistriflate
+GENE-Y	rhHDAC8
+CHEMICAL	Epothilones
+CHEMICAL	cis-4-cyano-4-[3-cyclopentyloxy-4-methoxyphenyl]-cyclohexanecarboxylic acid
+GENE-N	C-C chemokine receptors 1 and 5
+CHEMICAL	125I-labelled pindolol
+GENE-N	globulin
+GENE-Y	ODC
+GENE-Y	omega-conotoxin GVIA
+GENE-Y	metallothionein 2a
+CHEMICAL	DNDS
+CHEMICAL	ETP-45299
+CHEMICAL	Cysteinyl-leukotrienes
+GENE-Y	vasopressin V1a receptor
+CHEMICAL	phosphoenol pyruvate
+GENE-Y	sodium-bicarbonate transporter NBC1
+CHEMICAL	lysergic acid diethylamide
+GENE-Y	murine mu opioid receptor
+GENE-Y	Prss27
+GENE-N	thiamine pyrophosphokinase
+CHEMICAL	12-oxo-ETE
+CHEMICAL	parabens
+CHEMICAL	Sterol
+GENE-Y	H1 receptors
+GENE-Y	MUC5AC
+GENE-N	beta2- and beta3-receptors
+CHEMICAL	Nafazatrom
+CHEMICAL	homochlorcyclizine
+CHEMICAL	TRIM
+GENE-Y	(IL)-6
+CHEMICAL	Pimozide
+GENE-N	α/β-hydrolase
+GENE-N	D75Y
+GENE-N	AT1-receptors
+CHEMICAL	phosphoric acid
+GENE-Y	ALDH2
+CHEMICAL	phoenixin
+GENE-N	mitochondrial ATP synthase
+GENE-Y	human NADH: ubiquinone oxidoreductase NDUFS5 (15 kDa) subunit
+CHEMICAL	4-N-methylcarboxamidomethylcoumarin
+CHEMICAL	porphyrin
+CHEMICAL	59Fe
+CHEMICAL	iodide
+CHEMICAL	polyphenolic
+GENE-N	A4 glyceraldehyde 3-phosphate dehydrogenase
+GENE-Y	D1 receptors
+GENE-N	sulfur transferase
+GENE-N	nuclear factor-kappaB
+GENE-Y	voltage-dependent anion channel 2
+GENE-Y	Wee1
+CHEMICAL	Lapatinib ditosylate
+CHEMICAL	8-OH-dG
+GENE-Y	hxCT
+CHEMICAL	Phosphoglycerate
+CHEMICAL	noncyclic
+CHEMICAL	Aryl Chloride
+GENE-N	akt
+GENE-Y	EC 1.5.1.2
+CHEMICAL	muscimol
+GENE-Y	E-cadherin
+CHEMICAL	fatty acyl
+GENE-Y	PPARdelta
+CHEMICAL	KB-R7943
+GENE-Y	phospho-GSK-3-β
+GENE-N	lectin-like domain
+CHEMICAL	AG1024
+GENE-Y	HSD17beta5
+GENE-N	PI 3-kinase
+GENE-N	glycerol channel
+GENE-N	nematode AdoMetDC
+CHEMICAL	5-amino-4-oxopentanoate
+GENE-Y	CCL20
+CHEMICAL	4-amino
+CHEMICAL	CFSE
+GENE-N	FcγRs
+CHEMICAL	obtusifoliol
+CHEMICAL	TREN
+CHEMICAL	7-ethyl-10-hydroxycamptothecin glucuronide
+GENE-N	EPcA homology domain of Epl1
+GENE-N	T(445)-->A
+CHEMICAL	disodium cromoglycate
+CHEMICAL	sodium dichloroacetate
+GENE-Y	PH-20
+GENE-Y	CG11181
+CHEMICAL	catechol hydroxyl
+GENE-Y	Fgfr2
+CHEMICAL	ferric iron
+GENE-Y	CNP
+CHEMICAL	manganese
+CHEMICAL	digitonin
+GENE-Y	SCN5A
+CHEMICAL	4-hydroxychlorpropham
+CHEMICAL	Gd-DTPA-BMA
+GENE-Y	human cytosolic sulfotransferase hSULT2A1
+CHEMICAL	ampicillin
+CHEMICAL	MGCD0103
+GENE-N	murine, bovine, and porcine RLBP1
+CHEMICAL	Alverine citrate
+CHEMICAL	tosylate
+GENE-N	SRC1-3
+GENE-N	mapk
+GENE-N	nitric oxide (NO) synthase
+GENE-Y	vaspin
+CHEMICAL	DMF
+CHEMICAL	hmC
+GENE-Y	fatty acid amide hydrolase
+CHEMICAL	secoxyloganin
+GENE-N	n-formyl-met-leu-phe
+GENE-Y	carbonic anhydrase-II
+GENE-Y	REV-ERBα
+CHEMICAL	dichlorphenamide
+GENE-N	alpha1-adrenoceptors
+GENE-Y	platelet-derived growth factor receptor beta
+CHEMICAL	semicarbazide
+GENE-N	caspases-9 and -3
+GENE-Y	alpha 2MR-associated protein
+CHEMICAL	alanine dipeptide
+CHEMICAL	TXB3
+GENE-Y	clusterin
+CHEMICAL	m-HPAA
+CHEMICAL	6-OH-BDE-47
+CHEMICAL	leupeptin
+CHEMICAL	belactosin A
+GENE-Y	CYP11B2
+GENE-Y	adenosyl-homocysteinase
+GENE-Y	Ptgs2
+GENE-N	phosphorylated acetylcholinesterases
+GENE-Y	OPA3
+GENE-N	muscarinic autoreceptor
+CHEMICAL	alkaline salts
+GENE-N	propionyl-CoA carboxylase
+GENE-N	calcitonin gene-related peptide
+CHEMICAL	5-methylcytosine
+GENE-N	Ac/ac
+GENE-Y	Cip1
+CHEMICAL	4-methylumbelliferone
+CHEMICAL	dicyclic
+GENE-Y	rat brain MAO-B
+GENE-N	VT1
+CHEMICAL	phosphocholine
+GENE-N	apo
+CHEMICAL	Nocapyrone H
+CHEMICAL	Benzo[α]pyrene
+GENE-Y	hH(3)
+GENE-N	dopamine receptor (D1 and D2)
+CHEMICAL	Pregnane
+GENE-Y	P jiroveci DHPS
+GENE-N	dILPs
+GENE-Y	Ddx25
+GENE-Y	NTR-2
+GENE-Y	GnRH I
+GENE-N	Cannabinoid receptor 1
+CHEMICAL	olopatadine hydrochloride
+CHEMICAL	1,4,7-triazacyclononane-1-[methyl(2-carboxyethyl)phosphinic acid]-4,7-bis[methyl(2-hydroxymethyl)phosphinic acid]
+CHEMICAL	Cystine
+CHEMICAL	Pyridine-2-aldoxime methiodide
+CHEMICAL	idraparinux
+GENE-Y	5-HT1D
+CHEMICAL	alkynyl PVA
+GENE-N	glycosyltransferase
+CHEMICAL	diterpenoids
+GENE-N	lipoproteins
+GENE-Y	beta4Gal-T4
+GENE-Y	BDNF
+GENE-Y	bovine serum acetylcholinesterase
+CHEMICAL	urethane
+CHEMICAL	thymidine triphosphate
+CHEMICAL	[3H]-oleate
+GENE-N	janus kinase
+GENE-Y	ER-β
+GENE-Y	cholinesterase
+GENE-Y	CD70
+GENE-Y	zif268
+GENE-N	B449Q
+GENE-N	electron transport proteins
+CHEMICAL	nitroglycerin
+GENE-N	C-type lectin
+CHEMICAL	albuterol
+CHEMICAL	N-deethyl
+CHEMICAL	nitrogen monoxide
+GENE-Y	ARLP
+GENE-Y	Tyk2
+GENE-Y	GLUT1
+CHEMICAL	Ro 40-5967
+GENE-Y	CD25
+GENE-Y	LH receptor
+CHEMICAL	Naphazoline
+CHEMICAL	kainate
+GENE-N	von Hippel Lindau tumor suppressor protein
+GENE-Y	alpha(2C)-adrenoceptors
+GENE-N	lactic dehydrogenase
+CHEMICAL	ivermectin
+CHEMICAL	STI 571
+CHEMICAL	N-desmethylimatinib
+GENE-N	cynomolgus monkey OATPs
+GENE-Y	KA2
+CHEMICAL	Na(+)
+GENE-N	arginine-rich N-terminus
+GENE-Y	15-hydroxy prostaglandin dehydrogenase
+GENE-Y	fasting C-peptide
+CHEMICAL	fluoroindole
+GENE-Y	beta(1)AR
+GENE-N	NADH-->UQ oxidoreductase
+GENE-Y	COL2A1
+GENE-Y	proopiomelanocortin
+GENE-Y	Cysteine dioxygenase
+GENE-Y	human alpha-2A
+CHEMICAL	miglustat
+GENE-N	serine proteases
+CHEMICAL	m-tyramine
+GENE-N	PGE synthase
+GENE-Y	SIRT5
+GENE-Y	ClC-2
+CHEMICAL	Ca(2)
+GENE-Y	SLC7A2
+GENE-Y	chemokine receptor type 4
+CHEMICAL	amprenavir
+CHEMICAL	GES
+CHEMICAL	inositol polyphosphates
+GENE-N	sphingomyelinase
+GENE-N	ODC antizyme
+GENE-Y	TP
+CHEMICAL	van Gieson's stain
+CHEMICAL	methyl (meth)acrylate
+GENE-Y	Phosphoinositide 3-kinase gamma
+GENE-Y	GAPDH
+GENE-N	alpha 1-AR
+CHEMICAL	labetalol
+GENE-N	IGFs
+CHEMICAL	omega-3 eicosapentaenoic acid
+CHEMICAL	UDP glucose
+GENE-N	serotonergic receptors
+GENE-Y	Cp
+GENE-N	phospholipase C-γ
+GENE-Y	Human 2-methyl-branched-chain acyl-CoA dehydrogenase
+CHEMICAL	Abacavir
+CHEMICAL	rubidium
+GENE-Y	Aβ40
+CHEMICAL	alpha-ergocryptine
+GENE-N	BoNT
+GENE-Y	ACTH-R
+CHEMICAL	acetaldehyde acetal
+GENE-Y	beta 1-adrenoceptors
+GENE-Y	Adenosine deaminase
+GENE-N	pre-beta high-density lipoprotein
+CHEMICAL	dihydropteridine
+GENE-N	Rad9
+CHEMICAL	irinotecan
+CHEMICAL	alpha-TOS
+GENE-Y	glucosylceramide synthase
+GENE-N	octanoylated ghrelin
+GENE-Y	yeast protein Drs2
+CHEMICAL	ICRF-187
+CHEMICAL	[3H]citalopram
+GENE-Y	ADP receptor P2Y(12)
+CHEMICAL	(2S,3R,4R,5S,6R)-2-(3-(4-Ethoxybenzyl)-4-chlorophenyl)-6-hydroxymethyl-tetrahydro -2H-pyran-3,4,5-triol
+CHEMICAL	l-citrulline
+CHEMICAL	N-acetylgalactosamine
+GENE-N	sulfurase
+GENE-N	CB(1) receptors
+CHEMICAL	S- and R-citalopram
+CHEMICAL	tertiary amine
+CHEMICAL	S,S-hydroxybupropion
+GENE-N	Gstz1
+GENE-N	poly(A) tail)
+GENE-Y	P2Y(2)
+GENE-Y	norepinephrine re-uptake transporter
+CHEMICAL	ethylenediamine diacetic acid
+CHEMICAL	unoprostone
+CHEMICAL	sodium glucose
+GENE-N	acidic metal binding domain
+GENE-N	Nuclear factor of activated T-cells
+GENE-N	acyl-CoA synthetase
+CHEMICAL	colchicine

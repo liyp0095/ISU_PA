@@ -1,0 +1,3180 @@
+0.9689869405	frontal cortex
+0.9670033414	adenylyl cyclase
+0.9664551930	glutathione peroxidase
+0.9661205540	rheumatoid arthritis
+0.9655445591	parkinson's disease
+0.9648180989	mass spectrometry
+0.9636066419	monoclonal antibody
+0.9631771109	cytochrome p450
+0.9625715622	adipose tissue
+0.9625010857	escherichia coli
+0.9621019426	reverse transcriptase
+0.9610775100	lipid peroxidation
+0.9603081033	endoplasmic reticulum
+0.9600359456	skeletal muscle
+0.9599889447	bovine serum albumin
+0.9598626394	reactive oxygen species
+0.9596861526	bone marrow
+0.9586878323	nadph oxidase
+0.9586570765	cyclic amp
+0.9583387441	nucleus accumbens
+0.9582340925	signal transduction
+0.9579650118	alzheimer's disease
+0.9573212688	flow cytometry
+0.9573095428	heart failure
+0.9568245192	western blot
+0.9557032095	arachidonic acid
+0.9556733332	nitric oxide
+0.9556088581	alkaline phosphatase
+0.9555547141	vitamin b6
+0.9553006799	guinea pigs
+0.9544324884	amino acids
+0.9526457285	blood pressure
+0.9520194197	body mass index
+0.9510049906	fatty acids
+0.9496905096	matrix metalloproteinase
+0.9487101193	choroid plexus
+0.9480361949	reverse transcription polymerase chain reaction
+0.9480019347	cyclin d1
+0.9478794636	steady state
+0.9478111359	superoxide dismutase
+0.9468691292	tyrosine kinase
+0.9466751336	liquid chromatography
+0.9460614514	oxidative stress
+0.9457995539	luciferase reporter
+0.9452627224	amino acid
+0.9452516593	carbonic anhydrase
+0.9452498168	qt interval
+0.9451789467	hydrogen bond
+0.9446625175	fatty acid
+0.9444281940	high performance liquid chromatography
+0.9440066261	western blotting
+0.9436146129	neuropathic pain
+0.9433858553	diabetes mellitus
+0.9433324630	saccharomyces cerevisiae
+0.9431516461	chronic obstructive pulmonary disease
+0.9431268602	hepatocellular carcinoma
+0.9429225156	dna damage
+0.9427712141	prostate cancer
+0.9423221299	glomerular filtration rate
+0.9418671044	guinea pig
+0.9405676546	folic acid
+0.9397339187	retinoic acid
+0.9395369748	clinical trials
+0.9392881374	ethylene glycol
+0.9391996484	cell line
+0.9390963318	prefrontal cortex
+0.9386951867	tricyclic antidepressants
+0.9386535849	attention deficit hyperactivity disorder
+0.9380897205	transforming growth factor
+0.9376889615	half life
+0.9373700977	peripheral blood mononuclear
+0.9373637505	rt pcr
+0.9371080032	poorly understood
+0.9369109161	site directed mutagenesis
+0.9369105421	heart rate
+0.9367209999	tandem mass spectrometry
+0.9366535631	histone h3
+0.9364380878	organic anion transporting
+0.9364196219	glutamic acid
+0.9363500857	naturally occurring
+0.9346843774	insulin resistance
+0.9344629190	cerebrospinal fluid
+0.9342125347	prostaglandin e2
+0.9337226155	smooth muscle
+0.9336965190	vascular endothelial growth factor
+0.9334528737	nicotinic acetylcholine receptor
+0.9333366178	major depressive disorder
+0.9330438020	aryl hydrocarbon receptor
+0.9329620117	hydrogen peroxide
+0.9329162167	double blind
+0.9325681218	small interfering rna
+0.9323689450	platelet derived growth factor
+0.9322443867	myocardial infarction
+0.9321085171	breast cancer
+0.9316054173	nicotinic acetylcholine receptors
+0.9309503176	monoclonal antibodies
+0.9303859882	plasminogen activator
+0.9298369863	tumor necrosis factor
+0.9296395950	pertussis toxin
+0.9294260598	low density lipoprotein
+0.9284362491	open reading frame
+0.9280888133	thymidylate synthase
+0.9278475053	vitamin b12
+0.9271327976	mast cell
+0.9268172228	gap junction
+0.9268097421	factor ix
+0.9267985679	histone deacetylase
+0.9266766301	acetic acid
+0.9265869639	allergic rhinitis
+0.9263041205	patch clamp
+0.9249953027	cell cycle arrest
+0.9249882905	mesenchymal stem cells
+0.9247959840	metabotropic glutamate
+0.9237788810	bronchoalveolar lavage
+0.9237403663	long term
+0.9237010769	ascorbic acid
+0.9226464878	wild type
+0.9225764832	protein tyrosine phosphatase
+0.9225098096	essential oil
+0.9224132964	broad spectrum
+0.9220360046	ovarian cancer
+0.9214330322	weight loss
+0.9210497043	polymerase chain reaction
+0.9205947857	hypoxia inducible factor
+0.9198955747	positron emission tomography
+0.9197963772	monoamine oxidase
+0.9197563815	sinapic acid
+0.9196734028	infarct size
+0.9196005156	brugada syndrome
+0.9193496820	dipeptidyl peptidase
+0.9190766347	lactate dehydrogenase
+0.9189802376	pivotal role
+0.9186835193	hydrogen bonds
+0.9181967953	systolic blood pressure
+0.9177224780	chinese hamster ovary
+0.9167447200	enzyme linked immunosorbent assay
+0.9166681137	hmg coa reductase
+0.9164702892	dose dependently
+0.9164326141	united states
+0.9163166027	cell lines
+0.9149669683	proximal tubule
+0.9140912748	nf κb
+0.9140734403	cell death
+0.9137818243	synaptic plasticity
+0.9133931696	acyl coa
+0.9123513498	leydig cell
+0.9122548344	colorectal cancer
+0.9111048758	tyrosine kinases
+0.9104970172	transcription factors
+0.9104314450	spinal cord
+0.9098589287	angiotensin ii
+0.9098270914	body weight
+0.9098112985	nitric oxide synthase
+0.9088995399	tyrosine hydroxylase
+0.9088034482	extracellular matrix
+0.9083601822	drinking water
+0.9083136391	cell cycle
+0.9082237167	human umbilical vein endothelial cells
+0.9081392295	hpa axis
+0.9081082250	voltage gated
+0.9080459146	spontaneously hypertensive
+0.9070736172	high throughput screening
+0.9068038089	aspartate aminotransferase
+0.9065716784	gm csf
+0.9064613556	adverse events
+0.9062846160	short term
+0.9062500082	multidrug resistance
+0.9057603640	transcription factor
+0.9057542894	electrophoretic mobility
+0.9055403703	serine threonine
+0.9054852777	ribonucleotide reductase
+0.9045216626	carboxylic acid
+0.9042506871	tnf α
+0.9039883441	renal failure
+0.9039620303	hydroxysteroid dehydrogenase
+0.9033241181	mm hg
+0.9013819232	anti inflammatory
+0.9001772863	placebo controlled
+0.8999135562	insulin sensitivity
+0.8997895500	dissociation constant
+0.8993304300	fibroblast growth factor
+0.8987966298	mitogen activated protein kinase
+0.8985128730	nonsteroidal anti inflammatory drugs
+0.8983750712	high density lipoprotein
+0.8967807702	paw edema
+0.8957284178	left ventricular
+0.8954428115	bile acids
+0.8954091656	small molecule
+0.8952745510	healthy volunteers
+0.8950110306	histamine h1 receptor
+0.8944509588	myocardial ischemia
+0.8944507444	xenopus oocytes
+0.8939579766	platelet aggregation
+0.8936275417	atypical antipsychotic
+0.8933267913	delayed rectifier
+0.8932991899	inducible nitric oxide synthase
+0.8931925576	cell viability
+0.8928280492	cyclin dependent kinase
+0.8927734771	microg kg
+0.8926280605	hypothalamic pituitary adrenal
+0.8924861661	extracellular signal regulated kinase
+0.8922565464	insulin secretion
+0.8918578244	epidermal growth factor receptor
+0.8917620152	sprague dawley
+0.8911414171	heat shock protein
+0.8907286026	nicotinic acid
+0.8902595391	western blot analysis
+0.8902576534	alanine aminotransferase
+0.8891166438	dna polymerase
+0.8884838234	dominant negative
+0.8878059820	structure activity relationship
+0.8874381644	discriminative stimulus
+0.8868591488	binding site
+0.8865732871	kcnq2 q3
+0.8865074413	nf kappab
+0.8859782774	glutathione s transferase
+0.8858333405	nuclear factor κb
+0.8856978549	nasal mucosa
+0.8853128667	pro inflammatory
+0.8850913224	ng ml
+0.8850557683	iib iiia
+0.8850028270	human embryonic kidney
+0.8847468570	synaptic transmission
+0.8846726504	ibritumomab tiuxetan
+0.8842984391	structure activity relationships
+0.8841046386	airway smooth muscle
+0.8840600615	amp activated protein kinase
+0.8839266684	angiotensin converting enzyme
+0.8837914297	animal models
+0.8836942772	local anesthetics
+0.8829541351	tgf β
+0.8827704889	estrogen receptor
+0.8826484265	voltage clamp
+0.8822529457	eicosapentaenoic acid
+0.8818933327	mg kg
+0.8816832486	signaling pathways
+0.8813124126	adenosine triphosphate
+0.8812259351	mixed micelles
+0.8806354726	positive inotropic effect
+0.8805262205	food intake
+0.8801557153	  ±  
+0.8800135778	tnf alpha
+0.8798007213	mast cells
+0.8797939825	ang ii
+0.8793541628	trna synthetase
+0.8784282967	st segment elevation
+0.8783062286	working memory
+0.8780433125	cerebral cortex
+0.8777235350	sh sy5y
+0.8772562054	cyclo oxygenase
+0.8770360085	male wistar rats
+0.8763510830	  μg ml
+0.8756001191	arterial pressure
+0.8747523148	3beta adiol
+0.8733994811	sodium channel
+0.8725588269	binding sites
+0.8724916125	knockout mice
+0.8717882825	cell proliferation
+0.8716240185	electron microscopy
+0.8710593485	special issue entitled
+0.8706069277	active metabolite
+0.8690282566	cerebral ischemia
+0.8687799746	density lipoprotein cholesterol
+0.8687606913	myeloid leukemia
+0.8678995263	dna methylation
+0.8678122411	organic anion
+0.8675909319	active site
+0.8674462285	gsh px
+0.8674337454	tumor growth
+0.8672844447	blood vessels
+0.8663357470	immune responses
+0.8663104113	alpha 2a adrenoceptor
+0.8658476816	peroxisome proliferator activated receptor
+0.8653408477	proinflammatory cytokines
+0.8653351243	hif 1α
+0.8648288661	cross linking
+0.8646134135	serine protease
+0.8645587504	pi3k akt
+0.8638931123	small molecules
+0.8629795393	high fat diet
+0.8622586247	pc12 cells
+0.8622306738	micromol kg
+0.8619262613	natriuretic peptide
+0.8618109160	dependently inhibited
+0.8617333513	microg ml
+0.8614155823	hs crp
+0.8608090522	dentate gyrus
+0.8607049112	il 1β
+0.8606016823	phase iii
+0.8605975286	tumor suppressor
+0.8604073068	hmg coa
+0.8603595200	aldo keto
+0.8588059388	breast cancer resistance protein
+0.8577916660	kappa opioid
+0.8575017548	tumor necrosis factor alpha
+0.8573317571	bile acid
+0.8567961529	adrenergic receptors
+0.8566293127	tgf β1
+0.8565397647	serine racemase
+0.8563219858	p450 2a13
+0.8561139881	cigarette smoke
+0.8558149648	cell cycle progression
+0.8556633202	epidermal growth factor
+0.8553362504	β catenin
+0.8551917581	blood brain barrier
+0.8541094647	fxi pka4
+0.8534854276	signaling pathway
+0.8534159533	statistically significant
+0.8523924725	molecular modeling
+0.8518116990	peroxisome proliferator
+0.8514648304	glycemic control
+0.8511550425	dna fragmentation
+0.8511074207	epithelial cells
+0.8505320967	coronary artery
+0.8504260863	nmda receptor
+0.8484327391	transient receptor potential
+0.8480862875	molecular weight
+0.8477061901	fold higher
+0.8471987092	biologically active
+0.8465783494	nf kb
+0.8464574258	drug metabolizing enzymes
+0.8462215915	oxidative damage
+0.8461961596	ifn gamma
+0.8454998983	reporter gene
+0.8453270137	p38 mapk
+0.8449422059	clinical trial
+0.8440588193	inflammatory diseases
+0.8438799593	radioligand binding
+0.8435874466	necrosis factor alpha
+0.8434619289	transmembrane domain
+0.8431178290	type 2 diabetes mellitus
+0.8426790096	mda mb 231
+0.8420694779	diastolic blood pressure
+0.8420387107	hepg2 cells
+0.8417931654	nuclear factor
+0.8413387329	growth factors
+0.8395844079	growth factor
+0.8395605109	kg bw
+0.8390947222	adrenergic receptor
+0.8383169736	catalytic efficiency
+0.8377243017	thyroid hormone
+0.8376659466	androgen receptor
+0.8375656479	high affinity
+0.8371642399	consecutive days
+0.8370625619	cognitive deficits
+0.8365553034	glucose tolerance test
+0.8364719449	opioid receptor
+0.8353951841	mitogen activated protein
+0.8348597424	pancreatic cancer
+0.8348524586	genome wide
+0.8338968403	cardiovascular disease
+0.8324750896	previously reported
+0.8323904964	cell adhesion
+0.8306663770	combination therapy
+0.8304357976	allosteric modulator
+0.8299679719	molecular mass
+0.8297967106	glp 1r
+0.8288070692	adverse effects
+0.8285941891	organic cation
+0.8284989925	nuclear translocation
+0.8276920842	low density lipoprotein cholesterol
+0.8275796215	element binding protein
+0.8271607425	brain derived neurotrophic factor
+0.8262745767	ampa receptor
+0.8261148349	real time polymerase chain reaction
+0.8259769432	reading frame
+0.8259681386	drug interaction
+0.8259149718	long acting
+0.8256539200	bone mineral
+0.8255831742	ko mice
+0.8253094166	null mice
+0.8248488505	il 6
+0.8234691547	anticancer activity
+0.8233018617	mechanisms underlying
+0.8224745047	progesterone receptor
+0.8221022423	type iii
+0.8219600062	receptor subtypes
+0.8218411729	adp ribose
+0.8211729017	positron emission
+0.8208490072	weight gain
+0.8207398221	ifn α2a
+0.8203478322	canonical wnt
+0.8202563475	real time pcr
+0.8201783514	pgc 1α
+0.8199644005	blood flow
+0.8186754389	colon cancer
+0.8185687431	insulin like growth factor
+0.8183591268	male sprague dawley rats
+0.8176023418	cell growth
+0.8164309539	endothelial cells
+0.8163668314	raas blockade
+0.8151989538	gene transcription
+0.8151449336	receptor antagonist
+0.8151233062	db db
+0.8151185136	rate constants
+0.8147460685	insulin granules
+0.8142638837	hif 1alpha
+0.8140307052	ca3 region
+0.8137630318	adrenoceptor subtype
+0.8134935638	cell migration
+0.8134794071	serotonin transporter
+0.8133601175	blood glucose
+0.8125574073	gene expression
+0.8123483783	family members
+0.8122894410	mg bid
+0.8114403711	glucose tolerance
+0.8114189207	phase ii
+0.8112877192	releasing hormone
+0.8107031298	topoisomerase ii
+0.8104641183	cytotoxic effects
+0.8103088073	bcl 2
+0.8101243370	antiproliferative effects
+0.8097331892	binding pocket
+0.8094922922	neurodegenerative diseases
+0.8092633374	adhesion molecule
+0.8089996507	clinically relevant
+0.8088046094	binding affinities
+0.8087746314	mineralocorticoid receptor
+0.8084857828	tissue factor
+0.8081233388	angiotensin converting
+0.8079809008	at1 receptor
+0.8079323389	nerve agents
+0.8077150669	glucocorticoid receptor
+0.8070666823	alpha 1b
+0.8062909304	β d glucuronide
+0.8062403873	cardiovascular risk
+0.8058241143	clinical practice
+0.8052901163	leydig cells
+0.8049503762	norepinephrine transporter
+0.8048693003	thyroid cancer
+0.8048240647	3t3 l1
+0.8047035208	stem cell
+0.8046439013	dna synthesis
+0.8044381028	evidence suggests
+0.8041180050	cytokine production
+0.8038650998	intravenous administration
+0.8038426196	freshly isolated
+0.8035088880	er stress
+0.8034372163	cancer cell lines
+0.8024726399	opioid receptors
+0.8021988146	abstract truncated at 250 words
+0.8012589543	antitumor activity
+0.8010015199	wistar rats
+0.8002217992	a549 cells
+0.8001938016	drug drug interactions
+0.8000606624	protein phosphatase
+0.8000047087	adrenoceptor antagonist
+0.7999043233	fusion protein
+0.7991875706	nude mice
+0.7991232025	  mg kg
+0.7988337530	fully understood
+0.7986201443	beta blockers
+0.7985480250	neuroprotective effects
+0.7979235499	alpha 1a adrenoceptor
+0.7964234075	response element
+0.7963720756	heat shock
+0.7962990878	toxic effects
+0.7962005510	endothelial cell
+0.7958876088	liver injury
+0.7951906767	combined treatment
+0.7941818719	binding mode
+0.7938034660	ischemia reperfusion
+0.7934608049	rat hepatocytes
+0.7934525323	cell types
+0.7933656940	mice lacking
+0.7931510428	blood samples
+0.7924568370	crystal structure
+0.7921872795	adrenoceptor antagonists
+0.7918806221	double strand
+0.7918734440	male rats
+0.7911999361	glucagon like peptide
+0.7889513064	findings suggest
+0.7882769649	channel blockers
+0.7875411194	total cholesterol
+0.7872163740	anticancer agents
+0.7871431084	insulin sensitizing
+0.7868767872	peroxisome proliferator activated receptor gamma
+0.7866853940	brain regions
+0.7865365237	clinical significance
+0.7864135375	hek293 cells
+0.7861431071	mu opioid
+0.7857078616	long chain
+0.7850636189	testosterone to estradiol
+0.7849918741	reperfusion injury
+0.7849386861	nuclear receptor
+0.7847587436	pregnane x receptor
+0.7840486761	half maximal
+0.7836401643	anti proliferative
+0.7834254530	long lasting
+0.7834235598	nmda receptors
+0.7833643473	healthy subjects
+0.7833402813	hydroxyl group
+0.7831704172	chinese hamster
+0.7815493102	inhibitory potency
+0.7813791616	extracellular signal regulated
+0.7812977322	high throughput
+0.7812577982	tgf beta
+0.7810663642	dependent manner
+0.7809993526	rat aorta
+0.7808497983	sprague dawley rats
+0.7808068739	case control study
+0.7804693925	db db mice
+0.7804390437	action potential
+0.7793309541	human embryonic kidney 293
+0.7790761861	mglu receptor
+0.7785881990	vascular smooth muscle
+0.7779296539	growth hormone
+0.7774157718	aromatase inhibitor
+0.7773926104	adrenoceptor agonist
+0.7771883879	bone loss
+0.7764170031	significantly attenuated
+0.7761878529	safety profile
+0.7761504041	cell culture
+0.7758695881	female rats
+0.7750655203	previous studies
+0.7746887805	caspase 3
+0.7746402290	acinar cells
+0.7743656930	animal model
+0.7742148292	partial agonist
+0.7737676739	mk 801
+0.7734092786	oral administration
+0.7732490723	phasic da
+0.7730079822	control subjects
+0.7728368274	largely unknown
+0.7724893934	anti diabetic
+0.7723844186	patients undergoing
+0.7723552246	cross linked
+0.7719207811	clinical development
+0.7717759270	low affinity
+0.7717108078	promoter region
+0.7716125937	pro apoptotic
+0.7715736739	food and drug administration
+0.7708139510	platelet activation
+0.7704464852	newly synthesized
+0.7703368921	  mg
+0.7702969566	fp receptor
+0.7692705016	underlying mechanisms
+0.7692452500	signal transducer
+0.7691029158	cell surface
+0.7689130093	vascular endothelial
+0.7686725526	chromaffin cells
+0.7679022765	observations suggest
+0.7678256646	gene encoding
+0.7677675851	potassium channels
+0.7674543635	qt syndrome
+0.7673967366	methionine synthase
+0.7672813143	type 2 diabetes
+0.7666442542	beneficial effects
+0.7665416263	lc ms
+0.7659662054	protective effects
+0.7657440201	subtype selective
+0.7654561270	adrenoceptor density
+0.7654150067	mtt assay
+0.7653479965	human liver microsomes
+0.7650422641	colon cancer cells
+0.7649925792	endothelial dysfunction
+0.7649538952	light chain
+0.7648117676	excision repair
+0.7647638885	ic50 values
+0.7647365222	beta adrenergic
+0.7641054458	remains unknown
+0.7636785825	cell membrane
+0.7635323528	lncap cells
+0.7635258456	quality of life
+0.7632174030	mouse model
+0.7630143368	higher doses
+0.7623936518	apoptotic cell death
+0.7622457458	ifn alpha
+0.7619098447	systemic administration
+0.7618974106	pharmacological profile
+0.7615352593	high performance liquid
+0.7613823344	diabetic rats
+0.7610280973	induces apoptosis
+0.7604708035	heart disease
+0.7599535574	mammalian target of rapamycin
+0.7598543254	tissue distribution
+0.7596274815	stem cells
+0.7594895205	lps stimulated
+0.7594795618	confidence interval
+0.7586016041	free fatty acids
+0.7584581663	mda mb
+0.7580153044	silica nanoparticles
+0.7574724803	derived neurotrophic factor
+0.7574032998	h3 receptor
+0.7572968313	transgenic mice
+0.7569533539	inflammatory response
+0.7568585766	actin rings
+0.7562782782	rank order
+0.7562226579	calcium channel
+0.7561487420	anticancer drugs
+0.7558182216	high risk
+0.7556538224	ace inhibitor
+0.7550269561	disease progression
+0.7545449100	endothelium dependent
+0.7542282160	substrate specificity
+0.7537619350	structure based
+0.7536988176	protein kinase
+0.7534610101	cardiac hypertrophy
+0.7534596249	cox 2
+0.7533449444	orally active
+0.7533117580	drug metabolism
+0.7531984103	hippocampal neurons
+0.7528813695	low molecular weight
+0.7528716494	mmp 9
+0.7524878861	inverse agonists
+0.7516414153	beta adrenoceptor
+0.7503959007	data suggest
+0.7500194706	constitutively active
+0.7499876717	type ii
+0.7499324768	renal interstitial
+0.7498990965	hela cells
+0.7498012360	ns 398
+0.7495907517	glp 1
+0.7494381996	tumor necrosis factor α
+0.7488336258	adiponectin levels
+0.7483277151	progenitor cells
+0.7483042001	drug interactions
+0.7480883120	single dose
+0.7475928518	x ray
+0.7474394631	response rate
+0.7471297024	cancer risk
+0.7468882361	plasma membrane
+0.7464489315	closely related
+0.7452498466	drug resistance
+0.7451375620	immune response
+0.7450891184	drug design
+0.7442608873	carcinoma cells
+0.7432386631	amino acid residues
+0.7431771693	clinical relevance
+0.7419844921	group ii
+0.7418401872	deficient mice
+0.7417985845	aromatase inhibitors
+0.7416778752	times higher
+0.7414013385	structural features
+0.7413326159	tas 102
+0.7410481843	molecular docking
+0.7408661999	hl60 cells
+0.7406347049	drug delivery
+0.7402643890	learning and memory
+0.7399198787	airway epithelial
+0.7399148728	lung tissue
+0.7396295803	highly conserved
+0.7394428140	x ray crystallography
+0.7393836593	cell survival
+0.7392857572	adrenoceptor subtypes
+0.7381726383	low dose
+0.7377152258	treated animals
+0.7374254351	genes encoding
+0.7371241760	treated groups
+0.7369710421	transcriptional activity
+0.7361981274	risk factors
+0.7359872406	aryl hydrocarbon
+0.7358769321	beta 2 adrenoceptor
+0.7357763524	peroxisome proliferator activated receptor alpha
+0.7357151909	amino groups
+0.7357065430	markedly reduced
+0.7354876396	celecoxib and rofecoxib
+0.7354166732	glutamate release
+0.7345376926	zinc binding
+0.7340512199	  μm
+0.7321801470	treated rats
+0.7314931743	pancreatic beta
+0.7312980070	cyslt1 receptor
+0.7307325464	locomotor activity
+0.7302119969	plant extracts
+0.7301523649	growth inhibition
+0.7301498809	renal function
+0.7300842036	ros generation
+0.7296801561	cytotoxic effect
+0.7292279072	  =  
+0.7291229438	fasting plasma
+0.7289407163	glucose homeostasis
+0.7285510987	analysis revealed
+0.7281651583	tumor cell lines
+0.7281020808	human hepatocytes
+0.7276982576	recent studies
+0.7276616137	lipid metabolism
+0.7274814587	pai 1
+0.7271700733	protective effect
+0.7263476236	5 methyl urapidil
+0.7261264659	apoptosis inducing
+0.7258257445	adrenoceptor stimulation
+0.7256891875	liver microsomes
+0.7256063747	risk factor
+0.7254985261	terminal domain
+0.7253417844	3β diol
+0.7251011152	metabolic pathway
+0.7250446844	wt mice
+0.7244819132	maximal response
+0.7240366721	high fat
+0.7238939482	antiviral activity
+0.7233491876	dna repair
+0.7233369887	previously shown
+0.7230450765	ros production
+0.7229679803	  μg
+0.7223613951	peripheral blood
+0.7221735746	nmda receptor antagonists
+0.7221133900	c jun
+0.7220203316	d2 receptor
+0.7217086447	6 ohda
+0.7207198307	bde 47
+0.7199017674	inhibitory activity
+0.7196616118	significantly lower
+0.7193220136	lung cancer
+0.7189694442	primary hepatocytes
+0.7188914777	inotropic effects
+0.7188708460	il 10
+0.7188630952	agonistic activity
+0.7184215533	dopamine transporter
+0.7181799959	mcf 7
+0.7180716720	transcriptional activation
+0.7177644289	treated mice
+0.7174590914	da uptake
+0.7169252703	dopamine d2 receptors
+0.7165529526	high resolution
+0.7164465230	therapeutic targets
+0.7162727281	mode of action
+0.7157791608	selective cox 2 inhibitors
+0.7157737348	reduced glutathione
+0.7155696763	adenosine monophosphate
+0.7150578706	kg body weight
+0.7143590169	concentration dependently
+0.7141768793	5 meo dmt
+0.7139757358	c fos
+0.7139167693	hd patients
+0.7136611289	pharmacological properties
+0.7135720898	lung injury
+0.7127281671	dopaminergic neurons
+0.7119700823	binding affinity
+0.7118524268	hek 293
+0.7117725121	provide evidence
+0.7117563263	signal transducer and activator of transcription
+0.7114784155	breast cancer risk
+0.7112942436	ho 1
+0.7112403957	drf 2655
+0.7108224454	human lung
+0.7102109625	results demonstrate
+0.7102077998	inflammatory cytokines
+0.7098052690	beneficial effect
+0.7097252263	mantle cell
+0.7092160758	concentration range
+0.7082871708	heparin binding
+0.7079611089	95 confidence interval
+0.7079246304	peroxisome proliferator activated
+0.7078458026	omega 3
+0.7077449590	therapeutic agent
+0.7070263906	single agent
+0.7069786440	org 214444 0
+0.7057075490	target genes
+0.7056678131	invasion and metastasis
+0.7056143993	age and sex
+0.7056079406	atpase activity
+0.7055696688	biological activity
+0.7054394991	alpha 1a
+0.7053927127	biological activities
+0.7035851259	cell membranes
+0.7029924390	anti apoptotic
+0.7029581579	response curves
+0.7026253432	low doses
+0.7013049665	15d pgj2
+0.7002406430	women with pcos
+0.6999543431	p gp
+0.6998550400	crystal structures
+0.6989986783	ms ms
+0.6987275872	lavage fluid
+0.6987064255	bms 690514
+0.6979052616	ligand binding
+0.6978900720	nucleotide binding
+0.6974171898	all trans retinoic acid
+0.6972364201	kinase inhibitor
+0.6970301283	human umbilical
+0.6966263532	wnt signaling
+0.6965956892	inflammatory responses
+0.6960791335	low concentrations
+0.6951419299	receptor antagonists
+0.6951201013	enzymatic activity
+0.6949280243	norepinephrine reuptake
+0.6944845394	vp 16
+0.6941694600	dna topoisomerase
+0.6935140645	dld 1
+0.6934913961	significantly decreased
+0.6934638798	ampa receptors
+0.6933598607	molecular targets
+0.6930701429	high dose
+0.6930407042	significantly improved
+0.6928374139	pharmacological effects
+0.6926603424	induce apoptosis
+0.6926126941	postmenopausal women
+0.6921258977	efflux transporters
+0.6919063679	recombinant human
+0.6912408650	dna binding
+0.6904470953	antipsychotic drugs
+0.6901991750	complex iv
+0.6900483736	il 2r alpha
+0.6899240770	dna damage response
+0.6898741910	binding domain
+0.6892940962	il 8
+0.6886055923	cho cells
+0.6881382155	gnrh ii
+0.6879524100	mrna level
+0.6878114451	active form
+0.6877533874	protein expressions
+0.6875565336	pre treatment
+0.6875562565	lps induced
+0.6871159574	intracellular calcium
+0.6867826378	molecular mechanisms
+0.6865475358	materials and methods
+0.6851407685	partially inhibited
+0.6843283816	p glycoprotein
+0.6840851899	nf kappab activation
+0.6839581093	dopamine receptors
+0.6839030937	anti metastatic
+0.6838425425	efficacy and tolerability
+0.6833939700	h1 receptor
+0.6831608572	glucose uptake
+0.6828433811	s adenosylmethionine
+0.6821693894	receptor agonists
+0.6820893772	dopamine d2 receptor
+0.6812114357	male and female
+0.6812061684	insulin signaling
+0.6808087325	cpe gene
+0.6807882056	5 ht1b
+0.6802000423	mrna levels
+0.6798484806	anti inflammatory effect
+0.6778169353	antioxidant enzymes
+0.6776376665	organic anion transport
+0.6774889749	findings provide
+0.6767434210	metabolic pathways
+0.6766752008	5 ht2a
+0.6764757203	ucp 3 mrna
+0.6759320701	5 hydroxytryptamine
+0.6758834437	5 ht1a
+0.6754849055	competitive inhibitors
+0.6753399842	antioxidant properties
+0.6750597776	evn 50
+0.6749564160	diet induced obesity
+0.6746668024	induced neurotoxicity
+0.6738760102	se deficiency
+0.6731698170	potential role
+0.6724431776	strongly inhibited
+0.6722181146	beta 1 adrenoceptor
+0.6710795995	significantly higher
+0.6697506542	atp sensitive
+0.6690503933	treated group
+0.6686079639	murine model
+0.6683246656	group iii
+0.6675336999	ici 118
+0.6668640650	completely inhibited
+0.6666591327	β cell
+0.6658915709	significant differences
+0.6658852704	inhibitory effect
+0.6657773969	il 2r
+0.6655637492	vascular smooth muscle cells
+0.6654963872	studies revealed
+0.6647676168	n terminus
+0.6645666953	related genes
+0.6637497449	dopamine d2
+0.6636540112	beta adrenergic receptors
+0.6633861340	antiproliferative activity
+0.6628035813	nuclear receptors
+0.6627538392	therapeutic potential
+0.6626049895	mrna content
+0.6621553692	control group
+0.6617516605	mitochondrial membrane
+0.6615087937	amphetamine induced
+0.6609602540	protein synthesis
+0.6601647415	icam 1
+0.6601254165	5 ht2
+0.6597886748	mrna expression
+0.6597065974	cardiac function
+0.6589876916	c57bl 6 mice
+0.6587525675	glucose lowering
+0.6587462839	ki values
+0.6582604757	membrane potential
+0.6574231886	efficacy and safety
+0.6573533717	cells expressing
+0.6571698606	anti cancer
+0.6558758145	nuclear factor kappa
+0.6550971606	selective cox 2 inhibitor
+0.6539847996	d 1997
+0.6537266230	tyrosine kinase inhibitor
+0.6524133800	© 2013
+0.6523719854	h1 receptor antagonists
+0.6518510819	non small cell lung cancer
+0.6517580015	response curve
+0.6517477277	binding assays
+0.6516125156	preclinical and clinical
+0.6515169925	tumor cells
+0.6510854664	epithelial cell
+0.6510832596	significant reduction
+0.6510223354	non steroidal anti inflammatory
+0.6503061912	dose dependent
+0.6502452306	chinese hamster ovary cells
+0.6493931217	adenosine receptor
+0.6492073807	potential therapeutic
+0.6491971936	selective agonist
+0.6490824232	a lesser extent
+0.6489430714	cells stably expressing
+0.6487456344	oxytocin receptor
+0.6484432423	raw 264
+0.6481946220	erk1 2
+0.6473537571	histamine h1
+0.6473499322	thp 1
+0.6471012283	da release
+0.6464818661	histamine release
+0.6452603404	biological evaluation
+0.6449286215	il 2
+0.6440564773	nf κb activation
+0.6439444032	nuclear factor kappa b
+0.6436848444	alcohol dependent
+0.6433465440	induced contraction
+0.6424356305	inhibitory effects
+0.6418541084	mcp 1
+0.6415479297	p450 enzymes
+0.6409579916	human breast
+0.6408564872	beta end
+0.6390918914	receptor subtype
+0.6386964054	high level
+0.6365942402	5 ht3
+0.6364565242	ppar alpha
+0.6360414914	dpp 4
+0.6355040173	small cell lung cancer
+0.6350370077	n acetyl
+0.6348084681	site directed
+0.6344608086	case control
+0.6338622928	significantly reduced
+0.6334380000	selective beta
+0.6332437289	rats fed
+0.6329397654	alpha 1 adrenoceptor
+0.6325026685	glucagon like peptide 1
+0.6317590945	300 microg kg
+0.6309858800	significantly reduce
+0.6299570247	reuptake inhibitor
+0.6299389506	interleukin 6
+0.6295723652	caspase 9
+0.6294714472	5 ht
+0.6294702382	5 ht1
+0.6289528337	stably expressing
+0.6286959566	dopamine receptor
+0.6285232400	bmp 7
+0.6279514532	balb c mice
+0.6269646454	glutamate receptor
+0.6266520783	results suggest
+0.6265461274	significantly suppressed
+0.6264697070	luciferase activity
+0.6263929420	oh dpat
+0.6262048476	anti tumor
+0.6259161144	colorectal cancer cells
+0.6258194373	cancer therapy
+0.6255460312	de novo
+0.6254559542	6 nc
+0.6253149431	μg ml
+0.6247141666	concentration dependent
+0.6245142071	rate limiting
+0.6245110542	recently reported
+0.6239964182	breast cancer cells
+0.6238941361	drug development
+0.6220229918	bearing mice
+0.6205056554	g protein coupled
+0.6204898064	alpha 2 adrenoceptor
+0.6201071806	data demonstrate
+0.6199953358	alpha 2 adrenoceptors
+0.6196051940	reverse transcription
+0.6195616263	rar beta
+0.6195518172	highly potent
+0.6193583110	transporting polypeptide
+0.6190569205	selective antagonist
+0.6188722190	gnrh receptor
+0.6186472145	5 fu
+0.6174892508	promoter activity
+0.6172785487	insulin therapy
+0.6166998116	l dopa
+0.6165175562	5 ht7
+0.6164636888	small interfering
+0.6147655940	mcl 1
+0.6147201983	chronic administration
+0.6126610910	induced pain
+0.6126553024	studies demonstrate
+0.6124455808	rat liver
+0.6118691678	diabetic patients
+0.6118670198	clinical studies
+0.6118271145	synthesized and evaluated
+0.6117229814	significantly greater
+0.6115066036	g csf
+0.6112139086	intracellular ca
+0.6111971093	6 nitrotryptophan
+0.6106989272	dependent protein kinase
+0.6105672989	selective inhibitors
+0.6100183458	proliferation and differentiation
+0.6090837951	amino acid transporter
+0.6084100683	5 ht1d
+0.6082433715	d galn
+0.6082265996	significant increases
+0.6071972311	higher concentrations
+0.6069764006	cancer cells
+0.6067063899	abstract truncated at
+0.6061219374	binding proteins
+0.6053422670	markedly increased
+0.6049445579	g gap
+0.6048234674	mcf 7 cells
+0.6046889472	lfa 1
+0.6046608348	vitamin k dependent
+0.6036886870	rat model
+0.6021451907	drug metabolizing
+0.6019169025	significantly increased
+0.6016717147	central role
+0.6011740976	human skin
+0.6008661187	μg kg
+0.6005540593	induced apoptosis
+0.6004181976	studies suggest
+0.6001172729	carnitine transport
+0.6000463064	agonists and antagonists
+0.5990661963	reuptake inhibitors
+0.5985336126	dif 3
+0.5983379812	signal regulated kinase
+0.5978722768	fold greater
+0.5975653380	cox 1
+0.5974219184	culture medium
+0.5968907091	17 aag
+0.5967037188	free survival
+0.5961899817	human ether
+0.5920651362	primary cultures
+0.5909194450	wild type mice
+0.5906876303	ligand dependent
+0.5904319281	coa reductase
+0.5901554353	experimental results
+0.5893403503	caco 2
+0.5872621015	dependent fashion
+0.5870904169	non small cell lung
+0.5870334261	smooth muscle cells
+0.5868301639	therapeutic agents
+0.5868182631	central nervous system
+0.5864867957	l cystine
+0.5847261171	female mice
+0.5844920897	mechanisms of action
+0.5838926607	results obtained
+0.5837187276	n methyl d aspartate
+0.5830879353	molecular mechanism
+0.5830395726	mechanism of action
+0.5825513369	analysis showed
+0.5822364482	converting enzyme
+0.5808854731	hormone receptor
+0.5804432025	fgf 7
+0.5802179821	docking studies
+0.5801619156	deficient cells
+0.5797689010	inducible nitric oxide
+0.5796175535	mouse models
+0.5795213429	interfering rna
+0.5773848149	critical role
+0.5773772041	95 ci
+0.5772249536	l arginine
+0.5766199264	down regulation
+0.5765971976	transfected cells
+0.5760681162	potent and selective
+0.5760069137	dose related
+0.5755915027	brain tissue
+0.5753015643	anti inflammatory activities
+0.5749352722	b raf
+0.5742226263	fold increase
+0.5735500535	induced obesity
+0.5729098798	oral glucose
+0.5722506552	muscle cells
+0.5719575558	complex formation
+0.5716196550	8 oh dpat
+0.5707383140	rat brain
+0.5706476453	phosphate dehydrogenase
+0.5702891466	plasma glucose
+0.5688640002	kinase inhibitors
+0.5688590673	findings demonstrate
+0.5680452176	highly selective
+0.5680296212	high affinity binding
+0.5672571951	angiotensin ii type 1
+0.5667543032	cyclooxygenase 2
+0.5667375071	e cadherin
+0.5665167096	ethanol induced
+0.5664896057	down regulated
+0.5660151793	c myc
+0.5659485037	alpha and beta
+0.5659117394	mrna and protein levels
+0.5655350758	tandem mass
+0.5652781909	potential mechanism
+0.5644764201	methods and results
+0.5642578566	receptor agonist
+0.5642355949	glp 2
+0.5637011426	long term treatment
+0.5632634850	human embryonic kidney 293 cells
+0.5624755037	protein level
+0.5619665818	three dimensional
+0.5615209074	enzyme activity
+0.5608477454	et al
+0.5600588438	il 6 production
+0.5594992758	well tolerated
+0.5587932018	type 2 diabetic patients
+0.5584696719	5 ht2c
+0.5560760712	cell apoptosis
+0.5550533090	beta cell
+0.5540558883	dose response
+0.5527113058	type 2 diabetic
+0.5518031721	side chain
+0.5515025251	anti inflammatory effects
+0.5511113052	active compounds
+0.5505340747	angiotensin ii type 1 receptor
+0.5490303414	cholesterol levels
+0.5487529449	calcium dependent
+0.5486029147	receptor blockade
+0.5483062613	studies demonstrated
+0.5477567854	catalytic activity
+0.5477395269	protein expression
+0.5475556791	human liver
+0.5469906748	high performance
+0.5464028346	cox 1 and cox 2
+0.5438174013	once daily
+0.5430576731	serotonin reuptake inhibitors
+0.5428774512	igfbp 2
+0.5425142364	food and drug
+0.5420501499	mrna and protein
+0.5412275683	c jun n terminal
+0.5406640921	retinoic acid receptors
+0.5400409498	receptor mediated
+0.5398138857	up regulated
+0.5396339405	full length
+0.5390501499	expression and activity
+0.5389653584	human recombinant
+0.5383227020	protein tyrosine
+0.5382651257	glutamate receptors
+0.5380289656	5 fluorouracil
+0.5375510857	receptor antagonism
+0.5360350881	metabolizing enzymes
+0.5352287870	atp binding
+0.5352039873	ph 7
+0.5351859433	neuronal cell
+0.5350431749	g protein coupled receptor
+0.5349395412	significantly inhibited
+0.5348317866	ex vivo
+0.5341756076	nonsteroidal anti inflammatory
+0.5339730905	mmp 2
+0.5336550584	acetylcholine receptor
+0.5333489719	patients with advanced
+0.5329838148	follow up
+0.5326345234	results suggested
+0.5322289987	d2 receptors
+0.5316265097	airway smooth
+0.5291836510	play important
+0.5284072259	play important roles in
+0.5274205545	potent inhibition
+0.5256047000	adrenoceptor mediated
+0.5251655247	l glutamate
+0.5249579122	mao b
+0.5233725281	glucose dependent
+0.5231841419	similar results
+0.5229052361	low density
+0.5227064636	positive allosteric
+0.5218684480	p selectin
+0.5218147682	depressive disorder
+0.5215860423	human brain
+0.5212219722	neurotrophic factor
+0.5211732128	induced acute
+0.5188781644	potent anti
+0.5184035734	decreased significantly
+0.5179862111	insulin levels
+0.5179293525	5 lox
+0.5169212511	d mph
+0.5162357734	cultured cells
+0.5151567733	cyclin dependent
+0.5148502809	mg kg body
+0.5143559613	° c
+0.5142095189	molecular basis
+0.5138839558	twice daily
+0.5127312722	c57bl 6
+0.5122050296	related protein
+0.5118902859	induced cytotoxicity
+0.5118623236	a go go related gene
+0.5110644133	treatment of alzheimer's disease
+0.5105489905	a dose dependent manner
+0.5103364044	receptor ligand
+0.5102670860	human breast cancer
+0.5081813515	treated cells
+0.5070168255	fold lower
+0.5066036133	related compounds
+0.5062849487	n terminal
+0.5061260514	kinase activity
+0.5059632321	increased risk
+0.5057943876	renal cell
+0.5055131591	hypertensive rats
+0.5052911660	induced toxicity
+0.5049620674	selective antagonists
+0.5045440067	× 10
+0.5044879638	binding protein
+0.5044509148	plasma concentrations
+0.5041776864	substrate binding
+0.5039368337	protein levels
+0.5035740575	alpha 2a
+0.5030789936	inotropic effect
+0.5017822150	tumor cell
+0.5017303245	important role
+0.5007868116	± 0
+0.4995919930	ucp 3
+0.4995775230	showed significant
+0.4992496927	renin angiotensin
+0.4992344244	receptor ligands
+0.4982824498	anti inflammatory drugs
+0.4956986420	systolic blood
+0.4955902145	side chains
+0.4952186593	il 4
+0.4949427073	protein and mrna
+0.4948160461	reactive oxygen
+0.4941430636	concentration dependent manner
+0.4940258004	human colorectal
+0.4930763048	high glucose
+0.4928609947	serotonin reuptake
+0.4923534931	annexin 1
+0.4910747958	β cells
+0.4890875081	4 hydroxyphenyl
+0.4880602965	hypothalamic pituitary
+0.4879417941	results showed
+0.4878854681	stress induced
+0.4869103828	neuronal cells
+0.4859421735	first line
+0.4855433711	no significant difference
+0.4844733717	liver disease
+0.4842289567	human serum
+0.4826634831	specific binding
+0.4823193467	inflammatory effects
+0.4809798581	significant effects
+0.4803946274	higher affinity
+0.4801434075	reductase inhibitor
+0.4797808255	acetylcholine receptors
+0.4788598615	mononuclear cells
+0.4774592651	induced oxidative stress
+0.4772426112	cell based
+0.4763362342	positive cells
+0.4745911344	micromol l
+0.4742064931	mg kg day
+0.4741695221	third generation
+0.4741539436	high density
+0.4738312579	results provide
+0.4720356623	study demonstrates
+0.4714031302	structure activity
+0.4713953731	mrna and protein expression
+0.4691012896	polymerase chain
+0.4689681083	the concentration response
+0.4689200115	compared with placebo
+0.4681683053	d serine
+0.4680278060	real time
+0.4668643416	cell lymphoma
+0.4649951627	significant difference
+0.4643109199	side effects
+0.4640390438	cancer patients
+0.4632695463	growth factor receptor
+0.4617929589	stress related
+0.4608335196	ldl c
+0.4603573542	sup sup
+0.4599481334	il 5
+0.4585384033	binding studies
+0.4565092642	ca2 +
+0.4562386272	dependent kinase
+0.4558952106	an overview
+0.4554501603	studies showed
+0.4534479626	chronic treatment
+0.4532634499	compared with controls
+0.4531007133	c terminal
+0.4498515076	channel activity
+0.4482820919	binding of 3h
+0.4482209639	ap 1
+0.4466793632	without affecting
+0.4465675364	l cysteine
+0.4451851680	interleukin 2
+0.4436440650	5 lipoxygenase
+0.4434499324	patients with type 2 diabetes
+0.4432972955	cancer cell
+0.4431276452	caco 2 cells
+0.4428502073	high concentrations
+0.4421725189	second generation
+0.4421279553	oxygenase 1
+0.4398919567	serum albumin
+0.4396779403	terminal kinase
+0.4383950875	cpt 1
+0.4377667552	  mg kg day
+0.4362782358	24 hours
+0.4356240927	dose dependent manner
+0.4350591481	therapeutic target
+0.4350256295	receptor binding
+0.4340471867	pyridoxal 5
+0.4338324834	anti inflammatory activity
+0.4331675061	beta cells
+0.4325572986	negatively correlated with
+0.4317631941	selective cyclooxygenase
+0.4315227407	tolerance test
+0.4313368082	these results suggest
+0.4312852693	induction of apoptosis
+0.4312387503	5 meo
+0.4306414974	receptor function
+0.4299589310	mechanisms involved
+0.4298337883	g feed
+0.4287763455	emax =
+0.4280190663	no significant differences
+0.4279792160	hydroxy 5
+0.4279094638	g2 m
+0.4278743530	cyclic adenosine
+0.4278162276	hypoxia inducible
+0.4269136477	specific activity
+0.4269070824	agonist activity
+0.4266840664	clinical activity
+0.4258221553	expressing human
+0.4256915935	100 microm
+0.4256028211	regulated kinase
+0.4249043434	the present study
+0.4244819392	acute liver
+0.4236110318	akt pathway
+0.4229298613	balb c
+0.4222226778	extracellular signal
+0.4220858817	significant inhibition
+0.4220324932	cell function
+0.4217437738	protein kinases
+0.4215885044	cat 1
+0.4214365629	selective serotonin
+0.4205435594	increased intracellular
+0.4204908778	significant increase
+0.4194735813	annexin v
+0.4191494710	ki =
+0.4190651254	c kit
+0.4189299977	insight into
+0.4185281228	body mass
+0.4160591470	selective inhibitor
+0.4156634263	competitive inhibitor
+0.4155562167	study suggests
+0.4155409788	cultured human
+0.4150225067	these findings suggest
+0.4140958048	mitogen activated
+0.4136482934	this article
+0.4132174801	diet induced
+0.4131692401	a special issue entitled
+0.4131019199	disease activity
+0.4129671931	human colon
+0.4128160068	tumor necrosis
+0.4124378200	whole blood
+0.4119173578	single nucleotide
+0.4118197073	protein protein
+0.4115552993	cancer cell line
+0.4111420773	mg2 +
+0.4094086492	large number
+0.4092890144	important roles
+0.4092338340	study demonstrated
+0.4087466848	cell derived
+0.4069113108	ec50 =
+0.4068930744	loss of function
+0.4051898066	caspase 1
+0.4037653821	expression levels
+0.4017795370	human tumor
+0.3986359714	acid synthase
+0.3985990490	platelet derived
+0.3983060554	conformational changes
+0.3982965997	phosphatidylinositol 3
+0.3979430600	dhea s
+0.3956348610	nonsteroidal anti
+0.3955495949	nervous system
+0.3939711648	during pregnancy
+0.3938095950	oxidase activity
+0.3935666017	insights into
+0.3933462431	24  
+0.3931219222	dose dependent increase
+0.3920952278	protein kinase c
+0.3919487226	brain natriuretic
+0.3915920322	cyclin e
+0.3908857152	80 mg
+0.3902479839	methyl 4
+0.3899991350	mice showed
+0.3893093232	mammalian cells
+0.3889746015	10 ⁻
+0.3876214718	these results demonstrate
+0.3874192383	degrees c
+0.3872802976	l methionine
+0.3871670078	coupled receptor
+0.3869632226	ci = 0
+0.3865499133	control cells
+0.3858320611	increased mrna
+0.3835984714	present study
+0.3835750783	side effect
+0.3832049185	drug administration
+0.3828321771	a concentration dependent manner
+0.3818997930	taken together
+0.3816778075	kidney 293 cells
+0.3814956382	possible role
+0.3812692033	mediated inhibition
+0.3811159810	up regulation
+0.3799425919	coupled receptors
+0.3795429817	these data suggest
+0.3784965754	protein coupled receptor
+0.3784189256	mmol l
+0.3783974852	cyp2b6 *
+0.3781274256	cox 2 expression
+0.3775649122	receptor activation
+0.3774429935	study showed
+0.3773862231	did not differ
+0.3759447505	2 yl
+0.3757377533	cox 2 inhibitor
+0.3756652513	100 fold
+0.3748753899	correlation between
+0.3716015976	4 yl
+0.3711468710	a go go
+0.3710607423	postmenopausal women with
+0.3706494253	activated protein kinase
+0.3699600539	divided into
+0.3685132738	well established
+0.3680179193	cell lung cancer
+0.3665498149	receptor gene
+0.3653287849	receptor expression
+0.3632640843	t cell
+0.3628749734	sub 2 sub
+0.3627978632	widely used
+0.3624781961	so far
+0.3613592914	emerged as
+0.3611761387	20 mg kg
+0.3607805201	receptor alpha
+0.3604801981	± 4
+0.3601071908	cos 1
+0.3593345893	cyclooxygenase 1
+0.3581016539	acid induced
+0.3578855966	100 nm
+0.3578651297	5 ht2 receptor
+0.3546532650	the current study
+0.3542940046	shown to inhibit
+0.3536451198	cells stably
+0.3526660517	hup a
+0.3515158374	compared to controls
+0.3505756766	in vitro
+0.3504459301	greater than
+0.3500117437	30 mg kg
+0.3499688781	year old
+0.3495940633	term treatment
+0.3484815922	an important role
+0.3478681423	subjected to
+0.3472583809	ic50 value
+0.3469084052	3 yl
+0.3455406777	ic50 =
+0.3455011842	vitamin k
+0.3438562901	s phase
+0.3425273903	in vivo
+0.3420475683	patients treated
+0.3418432281	relatively low
+0.3414500900	the other hand
+0.3410994902	phosphodiesterase 4
+0.3409088270	± 1
+0.3407770092	nmol l
+0.3406778207	30 min
+0.3390923160	mg day
+0.3387652785	enzyme linked
+0.3381462489	vivo effects
+0.3377592041	mol l
+0.3334278510	il 2 receptor
+0.3321440319	o β d
+0.3317747684	apolipoprotein e
+0.3308305235	the authors
+0.3287141255	14 days
+0.3285506929	rather than
+0.3283885894	200 mg
+0.3279086938	10 mg kg
+0.3275830210	no detectable
+0.3272082616	300 mg
+0.3270367947	8 weeks
+0.3253285081	= 0
+0.3245689526	induced inflammatory
+0.3234589169	histamine release from
+0.3211375689	km =
+0.3202806339	ranging from
+0.3202645104	n methyl
+0.3200836174	the blood brain barrier
+0.3196238746	the renin angiotensin
+0.3185931576	12 weeks
+0.3182877260	binding activity
+0.3178971685	present results
+0.3176903630	an attractive
+0.3175078047	these findings demonstrate
+0.3171515487	attributed to
+0.3147540929	this paper
+0.3125579986	responsible for
+0.3125074557	in 3t3 l1
+0.3121217302	did not alter
+0.3120009466	cox 2 inhibitors
+0.3119965094	these results provide
+0.3117924945	very low
+0.3113840079	peptidase 4
+0.3104138243	100 mg kg
+0.3101738019	g proteins
+0.3094117868	these observations
+0.3089704097	vitamin d
+0.3088934032	time and dose dependent
+0.3083094110	to determine
+0.3083023562	prostaglandin e
+0.3069175183	cytochrome c
+0.3066889471	do not
+0.3066633198	vitamin c
+0.3065746204	attributable to
+0.3059611629	determine whether
+0.3050461218	non steroidal
+0.3047366865	did not affect
+0.3046397939	link between
+0.3023604542	depends on
+0.3016581640	10 microm
+0.3016429553	p = 0
+0.3011177480	15 min
+0.3010847117	differs from
+0.3006114918	cell carcinoma
+0.3005663866	commonly used
+0.2996787151	protects against
+0.2977024613	approximately 100
+0.2973989511	vitamin b
+0.2966142064	accompanied by
+0.2955193377	+ 0
+0.2952077383	area under
+0.2947750712	protection against
+0.2937283413	unable to
+0.2935479356	10 fold
+0.2931317881	these data demonstrate
+0.2929141403	alone or in combination
+0.2925020582	serve as
+0.2904500500	protect against
+0.2897585137	owing to
+0.2891601779	cells transfected with
+0.2884410709	interferes with
+0.2880527085	vitamin e
+0.2878633452	crystal structures of
+0.2877238020	does not
+0.2866916113	whole cell
+0.2846285127	this review
+0.2838359106	in vivo and in vitro
+0.2836599941	il 1
+0.2832074026	belong to
+0.2828446686	300 microg
+0.2797527085	to investigate
+0.2796036277	effects of chronic
+0.2785275520	24 h
+0.2776057216	hydroxy 3
+0.2773925837	inhibitory activity against
+0.2763975250	min 1
+0.2763421469	serum levels
+0.2762467220	dose dependent increase in
+0.2752348428	et 1
+0.2747620230	induced cell
+0.2730443769	to evaluate
+0.2722024281	time course
+0.2713179334	depending on
+0.2709723847	high degree of
+0.2703295248	human cells
+0.2699362007	led to
+0.2682529399	  h
+0.2679427992	a major role
+0.2678720959	expression of genes
+0.2673905999	wide range of
+0.2671634563	thought to
+0.2671602039	clinically used
+0.2658520059	devoid of
+0.2653587228	capable of
+0.2645516235	rank order of
+0.2631792759	primary human
+0.2630376964	kg day
+0.2617552847	irrespective of
+0.2600529627	inflammatory activities
+0.2599372526	to date
+0.2593452097	plasma levels
+0.2591117249	100 mg
+0.2590488043	immune system
+0.2587984797	no synthase
+0.2587365934	to clarify
+0.2584881405	non steroidal anti
+0.2573205314	in postmenopausal women
+0.2565493569	induced increase
+0.2563039377	well known
+0.2562352533	at least
+0.2556894177	determine if
+0.2552465580	rats treated
+0.2548142343	any significant
+0.2546357914	5 ht1a receptor
+0.2546276103	findings indicate
+0.2543898781	less potent
+0.2541746959	0 mg kg
+0.2535834195	+ prazosin
+0.2534214754	referred to
+0.2527129277	study aimed to
+0.2521509261	3 hydroxy 3
+0.2518141872	50 microm
+0.2517851284	this study
+0.2516342981	composed of
+0.2514497214	large number of
+0.2511707589	receptor beta
+0.2510186007	at high concentrations
+0.2497339498	g kg
+0.2486854037	significant effect
+0.2483268117	less effective
+0.2476856375	a key role
+0.2476618440	na + k +
+0.2472593235	to explore
+0.2460678411	previously described
+0.2457174430	a time and dose
+0.2450234444	p 0
+0.2449069281	differences between
+0.2441591385	activated receptor
+0.2434051597	17 beta
+0.2418812705	type 1
+0.2416027860	n =
+0.2413539642	5 ht release
+0.2407971336	the culture medium
+0.2396410092	data indicate
+0.2395432724	interfere with
+0.2385271061	high levels
+0.2382599450	therapeutic target for
+0.2377573509	with ki values
+0.2366544997	mg kg i
+0.2364841285	these findings
+0.2357440492	referred to as
+0.2346325081	the majority
+0.2344992345	focused on
+0.2338724102	x 10
+0.2338698080	by flow cytometry
+0.2337495144	did not
+0.2316675645	48 h
+0.2316339934	used to treat
+0.2312521770	a specific inhibitor
+0.2312287060	to compare
+0.2309699196	t cells
+0.2307003246	to treat
+0.2304924173	according to
+0.2303913582	belongs to
+0.2298941355	consistent with
+0.2294283022	and activator of transcription
+0.2281729914	contribute to
+0.2278112030	primary cultures of
+0.2276293932	relationship between
+0.2266027660	three times
+0.2261700546	apoptotic cell
+0.2257184316	association between
+0.2242234673	lower than
+0.2235371407	crystal structure of
+0.2235247475	to examine
+0.2223859297	apparent k
+0.2213198416	related gene
+0.2211952144	existence of
+0.2200657967	currently available
+0.2195978334	pre treatment with
+0.2193570127	inhibitory effects on
+0.2192970367	failed to
+0.2192111212	examined whether
+0.2189807148	a time and
+0.2187925759	compared with
+0.2185686926	a high fat diet
+0.2181724315	kg per
+0.2180670284	did not inhibit
+0.2172063024	associated proteins
+0.2169581022	in silico
+0.2168650521	glur a
+0.2162732730	na +
+0.2158356088	6 phosphate
+0.2157364953	depend on
+0.2154600527	the dentate gyrus
+0.2154343774	to assess
+0.2147762478	requirement for
+0.2140621553	the hypothalamic pituitary
+0.2140565083	higher levels
+0.2139509428	methyl 1
+0.2125877538	or in combination
+0.2125135238	7 days
+0.2125096705	inhibitory effect on
+0.2120590839	released from
+0.2116075096	extracted from
+0.2112439813	potent inhibitor of
+0.2105523471	5 mg kg
+0.2104776017	less than
+0.2098565526	leading to
+0.2095157984	synthesis and biological evaluation of
+0.2091467473	in xenopus oocytes
+0.2085691521	beta 1
+0.2083922807	an important
+0.2079106430	3 mg kg
+0.2077438070	type i
+0.2071660863	more effective
+0.2068643440	potent inhibitors
+0.2065299144	1 mg kg
+0.2064568041	acid residues
+0.2055933160	isolated from
+0.2055810592	by measuring
+0.2055357016	4 weeks
+0.2051476372	more potent
+0.2045853089	aimed at
+0.2043692246	ca2 + i
+0.2040603255	rats exposed to
+0.2037013792	10 mm
+0.2031019667	resulted in
+0.2028483403	the guinea pig
+0.2027930902	low levels
+0.2026855239	non selective
+0.2026048812	activity in vitro
+0.2019901787	in addition
+0.2018974167	investigated whether
+0.2013613218	regardless of
+0.2010031243	interaction between
+0.1996699928	c peptide
+0.1995524805	structure activity relationships of
+0.1995319216	at least in part
+0.1990206748	interacts with
+0.1986994234	serum levels of
+0.1977523459	promising new
+0.1973189749	to generate
+0.1972698033	differ between
+0.1970556605	contributes to
+0.1962997020	times more
+0.1957081063	able to
+0.1956884563	assigned to
+0.1951293579	account for
+0.1947834169	per day
+0.1946333737	chronic treatment with
+0.1941171952	low levels of
+0.1940963488	this finding
+0.1937820336	a high throughput
+0.1934022934	4 fold
+0.1929206957	before and after
+0.1927929003	due to
+0.1909714603	vs 0
+0.1906574446	majority of
+0.1900034406	inotropic effects of
+0.1899870908	fold increase in
+0.1898406321	nuclear translocation of
+0.1896137666	interactions between
+0.1895444715	in wild type mice
+0.1894597055	293 cells
+0.1891953791	contributing to
+0.1882631941	compared to
+0.1881288543	no significant effect
+0.1877088897	potent inhibitors of
+0.1873395715	protein 1
+0.1873237793	to detect
+0.1872234762	72 h
+0.1860605028	patients treated with
+0.1852227619	influenced by
+0.1844795857	appears to
+0.1844023676	6 months
+0.1842856354	5 methyl
+0.1842077338	7 fold
+0.1835283125	known about
+0.1834473515	a significant decrease
+0.1830102444	in chinese hamster ovary
+0.1826044244	10 μm
+0.1825936151	results indicate
+0.1821980071	mimicked by
+0.1814588863	8 fold
+0.1813632964	like growth factor
+0.1812018211	acid metabolism
+0.1810055463	correlated with
+0.1806698579	the endoplasmic reticulum
+0.1806246165	higher levels of
+0.1799515507	1 yl
+0.1798311472	clinical use
+0.1797017990	the active site
+0.1793312230	10  
+0.1785983267	high affinity for
+0.1785742034	a highly conserved
+0.1784531327	drug drug
+0.1775764928	therapeutic use
+0.1772769612	the rate limiting
+0.1769617908	such as
+0.1768622043	insulin like
+0.1766279924	based on
+0.1759057382	factor receptor
+0.1750576638	acts as
+0.1748094437	as well as
+0.1744495194	with regard to
+0.1742590614	impact on
+0.1739426521	required for
+0.1737742123	serotonin 5
+0.1736241166	the nucleus accumbens
+0.1735903288	an alternative
+0.1734448559	hours after
+0.1733879978	3 fold
+0.1733115362	alpha 1
+0.1732601871	type 2
+0.1720437805	to elucidate
+0.1720040405	at position
+0.1714888511	complex i
+0.1711088370	alpha 2
+0.1710247322	100 microg
+0.1702312617	3 hydroxy
+0.1685395198	this work
+0.1685232171	ability to
+0.1684807402	by western blot
+0.1682703553	10 mg
+0.1682567134	beta 2
+0.1682265760	5 fold
+0.1681323020	in animal models of
+0.1674976015	a highly potent
+0.1672106921	involved in
+0.1664928371	no effect
+0.1662091206	to obtain
+0.1653863860	plasma levels of
+0.1648689514	at ph
+0.1644048693	2 fold
+0.1643358870	x =
+0.1639642836	central role in
+0.1639469016	evidenced by
+0.1637533566	* 6
+0.1626316285	these agents
+0.1624472318	cells in vitro
+0.1623924945	an essential
+0.1623106707	in order to
+0.1621913328	a time and dose dependent
+0.1621220245	time dependent
+0.1607057765	dopamine d
+0.1606110147	leads to
+0.1603775995	this hypothesis
+0.1603350985	those obtained
+0.1596826703	these data
+0.1593715515	the control group
+0.1590412739	over expression
+0.1585664125	the positive inotropic
+0.1583594631	proteins involved in
+0.1572034613	respond to
+0.1568398335	higher than
+0.1564209604	high levels of
+0.1562670114	significant decrease in
+0.1560743075	in situ
+0.1558817733	the affinity of
+0.1555934173	40 mg
+0.1553863707	induced increase in
+0.1549674432	to identify
+0.1548830070	the presence or absence of
+0.1548730623	cells exposed to
+0.1548490132	better understanding of
+0.1548300703	recovery from
+0.1548089257	these results
+0.1546309975	anti inflammatory effects of
+0.1546173913	pretreated with
+0.1542246583	a total of
+0.1537996922	assessed using
+0.1537782845	in vitro and in vivo
+0.1536373426	to measure
+0.1533828219	in contrast
+0.1533603685	but rather
+0.1529401517	believed to
+0.1527594896	with ic50 values
+0.1521620285	non specific
+0.1519287120	mg d
+0.1518817733	the addition of
+0.1516776559	provide new
+0.1513489389	current study
+0.1512479442	catalyzed by
+0.1512372700	genes involved in
+0.1510507043	apoptosis induced by
+0.1509716618	unaffected by
+0.1508310328	supplemented with
+0.1507883428	the progression of
+0.1506006160	these results indicate
+0.1504497679	ic50 values of
+0.1501969040	results indicated
+0.1501885560	two distinct
+0.1499660168	patients with
+0.1497627017	the roles of
+0.1497015811	interact with
+0.1490973537	all trans
+0.1490954485	the growth of
+0.1489417848	derived from
+0.1487020336	attempt to
+0.1483262178	the synthesis of
+0.1482099408	the present work
+0.1478648169	supported by
+0.1476986724	replaced by
+0.1472208244	equal to
+0.1471642075	correlate with
+0.1471077022	susceptible to
+0.1470954485	the objective of
+0.1470954485	the control of
+0.1470084920	the purpose of
+0.1468544190	key role in
+0.1466182792	three groups
+0.1465580400	both cell lines
+0.1462906494	significant inhibition of
+0.1458817733	the rate of
+0.1458718869	2 amino
+0.1457541700	5 mm
+0.1456195285	co administration
+0.1450395118	not affected
+0.1450235320	act as
+0.1449391606	affinity binding
+0.1449310112	the most potent
+0.1448817733	the design of
+0.1448304330	most potent
+0.1445211632	these drugs
+0.1445094329	induces apoptosis in
+0.1443898086	competitive inhibitor of
+0.1441555894	with high affinity
+0.1441467491	a critical role in
+0.1440799296	resulting from
+0.1440534697	the cerebral cortex
+0.1438817733	the metabolism of
+0.1438817733	the potency of
+0.1436235068	6 fold
+0.1434572358	factor 2
+0.1434064956	9 + 0
+0.1433562757	20 mg
+0.1431996806	a dose dependent
+0.1431093253	mao a
+0.1431007808	both groups
+0.1430632274	no significant
+0.1426108170	important roles in
+0.1422058230	associated with
+0.1417742728	performed using
+0.1417046771	10 nm
+0.1415498857	to achieve
+0.1414420107	2 mg kg
+0.1411720017	explained by
+0.1410978722	transporter 1
+0.1410954485	the proliferation of
+0.1410160712	measured using
+0.1410084920	the uptake of
+0.1407987364	characterized by
+0.1407390686	expression levels of
+0.1398348980	rats treated with
+0.1396457212	as expected
+0.1396090563	consisting of
+0.1395516174	the dopamine d2 receptor
+0.1389719783	selective inhibition of
+0.1387545969	blocked by
+0.1386435979	days after
+0.1383603446	8 + 0
+0.1383354307	obtained from
+0.1380635915	the toxicity of
+0.1379458481	increased risk of
+0.1376521162	significant reduction in
+0.1376366905	human cancer
+0.1374560422	kappa b
+0.1373635008	data indicated
+0.1373212471	modulated by
+0.1373034943	in spite of
+0.1372552293	agreement with
+0.1370242773	the transcription factor
+0.1364527125	kg 1
+0.1364203057	participation of
+0.1361850628	d glucuronide
+0.1360726631	with and without
+0.1359701609	the end of
+0.1354258167	blood cells
+0.1350635915	the association of
+0.1350241905	aimed to
+0.1349033174	more potent than
+0.1346363672	study examined
+0.1345916955	biological evaluation of
+0.1342078988	further studies
+0.1339506874	an initial
+0.1338930392	oral administration of
+0.1338666401	studies indicate
+0.1338554344	ci 1
+0.1331679638	induced phosphorylation of
+0.1331264162	this effect
+0.1330070671	the entire
+0.1329558888	and safety of
+0.1328297345	= 12
+0.1325697629	affinities for
+0.1323054389	indicative of
+0.1323034943	a group of
+0.1322591104	50 mg
+0.1322488365	participate in
+0.1320635915	the surface of
+0.1320202153	dependent protein
+0.1319360408	mice treated with
+0.1318606983	correlates with
+0.1317778532	the sensitivity of
+0.1316669358	effect on
+0.1314476670	decreased expression of
+0.1313687304	significant effect on
+0.1313370465	g protein
+0.1313034943	the generation of
+0.1312446392	the most important
+0.1311774201	the results showed
+0.1309906184	d aspartate
+0.1306312997	an excellent
+0.1304559458	a concentration dependent
+0.1304451731	factor 1
+0.1304016599	a mouse model
+0.1303034943	the viability of
+0.1303034943	the expressions of
+0.1299287481	relatively high
+0.1297689824	role of
+0.1297287428	induced reduction in
+0.1295809806	protective effect of
+0.1293034943	the mechanisms by
+0.1289565431	incubation with
+0.1285836133	an increased risk
+0.1285206999	consists of
+0.1283449100	reductions in
+0.1281997128	down regulation of
+0.1277946223	2 weeks
+0.1275613217	caused by
+0.1275001983	β d
+0.1274381407	but not
+0.1274323170	increased expression of
+0.1273969248	the concentration of
+0.1273701527	these findings indicate
+0.1273560298	5 μm
+0.1272772667	the order of
+0.1271395073	inhibitory effects of
+0.1265395959	preference for
+0.1263643593	most common
+0.1261070495	interacting with
+0.1260378555	6 + 0
+0.1257026196	mediated inhibition of
+0.1256725004	the long term
+0.1252594648	than placebo
+0.1249140920	significant increase in
+0.1246501401	in vitro and in
+0.1242736435	the ratio of
+0.1242442693	followed by
+0.1240193007	an additional
+0.1240060300	induced increases in
+0.1236433791	reversed by
+0.1236106001	the affinities of
+0.1235827462	in vivo and in
+0.1235459169	mrna levels of
+0.1234568902	receptor 1
+0.1230563493	proved to
+0.1230411562	1 microm
+0.1229624765	binding sites for
+0.1228409922	this class
+0.1226106001	as inhibitors of
+0.1226106001	the increase of
+0.1225236435	the secretion of
+0.1224582970	a competitive inhibitor
+0.1224222675	the plasma membrane
+0.1223016782	treated with
+0.1220269941	the treatment of type 2 diabetes
+0.1217013128	synthesized and evaluated for
+0.1216106001	the oxidation of
+0.1216106001	the cytotoxicity of
+0.1215620458	to understand
+0.1215421312	effects on
+0.1215077230	on chromosome
+0.1213969248	and synthesis of
+0.1212930387	receptor 2
+0.1209847506	the results obtained
+0.1209382121	with respect to
+0.1209347548	more effective than
+0.1205816822	evoked by
+0.1205758423	a significant increase
+0.1204627893	shown to
+0.1204304470	the cell cycle
+0.1196317802	the molecular mechanisms
+0.1195860731	cells treated
+0.1193143753	25 mg
+0.1193074872	mrna expression in
+0.1191686722	selective inhibitor of
+0.1190384965	the ligand binding
+0.1187431342	in vitro studies
+0.1186362177	potential role of
+0.1182862725	5 mg
+0.1182780586	susceptibility to
+0.1182442202	increased levels of
+0.1179973958	by inhibiting
+0.1175675166	oxidative stress in
+0.1175528710	= 8
+0.1173416442	with or without
+0.1171802835	not altered
+0.1170357419	inhibitory effect of
+0.1169689941	mediated through
+0.1169146108	currently used
+0.1168531044	the same
+0.1166912792	not significantly different
+0.1166257912	possible mechanism
+0.1164612607	a high affinity
+0.1164529736	5  
+0.1164262719	effects of
+0.1160015317	all patients
+0.1158766918	a high fat
+0.1158249644	appeared to
+0.1157106918	8 microm
+0.1157088964	n methyl d
+0.1156043892	implicated in
+0.1154227187	these effects
+0.1153414425	role in
+0.1153181643	important role in
+0.1152027091	induced oxidative
+0.1150763333	attached to
+0.1148041720	selective inhibition
+0.1147967731	the possibility
+0.1147010994	induced inhibition of
+0.1145807829	new therapeutic
+0.1145688400	result from
+0.1143555913	6 nm
+0.1143125460	the present results
+0.1142938329	dependent activation of
+0.1141955112	needed to
+0.1140316315	sought to
+0.1138812539	aspects of
+0.1137099428	gene expression in
+0.1132752442	adverse effects of
+0.1132181658	2 months
+0.1131954925	in rat brain
+0.1127663538	or placebo
+0.1127546607	prior to
+0.1126025253	inhibition of
+0.1125391869	8 oh
+0.1125263468	close to
+0.1124344983	5 days
+0.1123750965	no effect on
+0.1123261779	in mammalian cells
+0.1121730382	option for
+0.1121184392	4 days
+0.1120823464	the most common
+0.1119995148	the crystal structure
+0.1115520865	n = 6
+0.1115086103	receptor gamma
+0.1114707466	up regulation of
+0.1114358684	observed between
+0.1113345667	significantly higher in
+0.1109477102	suitable for
+0.1108572065	antitumor activity of
+0.1107631885	access to
+0.1107256848	in cultured human
+0.1106090446	distinct from
+0.1103151431	kinase 1
+0.1098887959	plasma concentrations of
+0.1096557727	low dose of
+0.1096005968	individuals with
+0.1095882490	iontophoresis of
+0.1095836424	the glucocorticoid receptor
+0.1095625234	an effective
+0.1093414981	similar to
+0.1093181854	specific inhibitor
+0.1091384643	binding sites of
+0.1086973253	8 ±
+0.1086649079	prepared from
+0.1082462924	a wide range of
+0.1082374234	appear to
+0.1079349131	mice treated
+0.1076970345	effective against
+0.1075709453	to develop
+0.1074024918	a single
+0.1073701968	catalytic activity of
+0.1073514379	protective effects of
+0.1073460027	essential for
+0.1072261050	the dopamine d2
+0.1070830052	binding sites in
+0.1069144554	the presence of
+0.1068829772	associated protein
+0.1066964057	fold more
+0.1064595769	more than
+0.1063638905	in human cancer
+0.1061837890	x receptor
+0.1059337899	1 μm
+0.1059104156	an open
+0.1059037367	children with
+0.1055448414	those observed
+0.1053977087	mrna expression of
+0.1053420858	percentage of
+0.1053374722	cell death in
+0.1050981181	+ 9
+0.1050634076	investigate whether
+0.1048783578	the androgen receptor
+0.1048696915	elicited by
+0.1047762120	binding site of
+0.1047412844	induced expression of
+0.1047046966	not yet
+0.1046891289	for treating
+0.1046133552	effect of
+0.1045378837	basis for
+0.1044563141	these enzymes
+0.1044446945	to produce
+0.1044368021	these include
+0.1039959094	encoded by
+0.1039733194	improvements in
+0.1039596853	the results suggest
+0.1038106974	novel therapeutic
+0.1036171839	cells treated with
+0.1032702527	controlled by
+0.1031732296	these differences
+0.1030899871	a comprehensive
+0.1027377294	abolished by
+0.1024899232	binding affinity of
+0.1023900348	candidates for
+0.1020007542	induced apoptosis in
+0.1019658839	studies show
+0.1019430620	induced by
+0.1018344065	all three
+0.1014757004	kinase 2
+0.1010608458	an allosteric
+0.1010072681	to determine whether
+0.1007842692	the rat brain
+0.1007799683	triggered by
+0.1007269524	a time dependent
+0.1004289789	= 6
+0.1001997521	1 mm
+0.0999483460	seem to
+0.0996770362	these compounds
+0.0992816582	glutathione s
+0.0989112699	necessary for
+0.0983412138	b cell
+0.0981249648	also inhibited
+0.0980610412	the most active
+0.0979432735	in conclusion
+0.0979095089	studied using
+0.0978584405	induced activation of
+0.0977816812	mouse model of
+0.0977435946	incubated with
+0.0977170040	more sensitive
+0.0975800553	in rat liver
+0.0975155115	inflammatory response in
+0.0973261136	data show
+0.0972529003	mrna levels in
+0.0972309295	24 h after
+0.0971931419	search for
+0.0967939117	6 microm
+0.0967324037	two groups
+0.0966135444	dependent increase in
+0.0965349239	activated t
+0.0964991751	mg m
+0.0964254516	contribution to
+0.0962949720	of elacridar
+0.0962354538	implications for
+0.0959585936	history of
+0.0959556963	upregulation of
+0.0958709026	identical to
+0.0956347820	also suppressed
+0.0954632282	biological activity of
+0.0952133318	the first time
+0.0951681730	mediated via
+0.0951420663	the cell surface
+0.0946748659	k +
+0.0945784722	development of new
+0.0945341059	determination of
+0.0945292518	in protecting
+0.0944934009	rise to
+0.0941017949	no production
+0.0940404859	the ability of
+0.0940163936	significant changes in
+0.0939713988	0 mg
+0.0939156012	purified from
+0.0938602488	most effective
+0.0938069644	a marked
+0.0937083508	2 +
+0.0936837245	along with
+0.0935785712	information on
+0.0933379922	members of
+0.0932714117	antagonized by
+0.0928497395	3 microm
+0.0928169230	strategy for
+0.0925867501	the hypothesis
+0.0925634896	pretreatment with
+0.0924513858	candidate for
+0.0918685874	as effective as
+0.0917672721	3 months
+0.0916657468	this process
+0.0915824235	to restore
+0.0915672696	the main
+0.0915004632	for example
+0.0914167311	in summary
+0.0913712093	a central role
+0.0913280645	dependent inhibition of
+0.0912640184	p =
+0.0912617146	characterization of
+0.0908162421	significantly increased in
+0.0908019155	30 mg
+0.0907906660	an apparent
+0.0907693814	n = 4
+0.0905973059	coding for
+0.0905092915	used to study
+0.0902332272	a wide
+0.0900885888	confirmed by
+0.0900809640	mediated by
+0.0899933071	co administration of
+0.0899619979	not fully
+0.0894869081	1 week
+0.0894691261	each other
+0.0892747589	a consequence
+0.0891215331	to determine if
+0.0890622799	protein expression of
+0.0887718233	by decreasing
+0.0884865277	+ 3
+0.0882791944	produced by
+0.0882053393	n 3
+0.0881272372	bind to
+0.0877504733	for 7 days
+0.0876992522	to prevent
+0.0876987110	results show
+0.0874178560	to maintain
+0.0874085296	= 7
+0.0873202175	exposed to
+0.0872986986	also studied
+0.0872322558	prevented by
+0.0872110221	+ 6
+0.0859245032	rationale for
+0.0859064074	metabolized by
+0.0858732035	removal of
+0.0855813935	receptor α
+0.0854711981	lead to
+0.0854477697	regulated by
+0.0852235491	5 microm
+0.0851905290	binding to
+0.0849451891	+ 1
+0.0847339945	related to
+0.0846036644	8 mg
+0.0845738996	did not significantly
+0.0844525415	novel series of
+0.0842608143	inhibited by
+0.0842289957	tools for
+0.0841590308	this enzyme
+0.0841300971	protein levels of
+0.0837264201	injected with
+0.0836170018	determined by
+0.0835547358	women with
+0.0835344726	a strong
+0.0832800218	activation of
+0.0831466319	proportion of
+0.0829679055	3 o
+0.0827994088	the molecular basis
+0.0825980924	these data indicate
+0.0824798153	achieved by
+0.0822670836	gene expression of
+0.0822147587	the respective
+0.0817105941	analyzed by
+0.0815591859	to establish
+0.0814163056	the central nervous system
+0.0812869456	+ 5
+0.0812410596	the parent
+0.0810053044	resulting in
+0.0807003687	the final
+0.0805766953	as evidenced
+0.0803790355	considered as
+0.0803425012	did not show
+0.0802488781	these studies
+0.0801260527	to predict
+0.0800587233	reactivation of
+0.0798962486	to modify
+0.0795081371	the structure activity
+0.0794167986	n = 5
+0.0793744161	a unique
+0.0793521570	the inhibitory effect
+0.0792426442	the alpha 1 adrenoceptor
+0.0792349735	response to
+0.0792209250	an experimental
+0.0790965507	an increase in
+0.0790380190	examined using
+0.0789863443	exposure to
+0.0786836765	men with
+0.0786622880	4 microm
+0.0785174811	screened for
+0.0782879436	signaling pathway in
+0.0782792415	a variety of
+0.0782713356	linked to
+0.0780845461	treatment with
+0.0778967755	expression of
+0.0778166911	effective at
+0.0776934322	a poor
+0.0775485923	= 1
+0.0774777424	non small
+0.0774545387	+ 4
+0.0774417550	of antioxidant enzymes
+0.0769031949	this disease
+0.0767877393	presence of
+0.0765650874	mixture of
+0.0765162551	to promote
+0.0764389860	the circadian
+0.0759180451	an inhibitory
+0.0759138029	two drugs
+0.0758744794	treatments for
+0.0757687399	6 h
+0.0757571294	+ 2
+0.0757519535	evaluation of
+0.0757350170	classes of
+0.0756952956	a special
+0.0755930805	approved for
+0.0753877603	induced increases
+0.0753624571	disruption of
+0.0752321517	tool for
+0.0751247538	set of
+0.0749593848	data from
+0.0749409990	this report
+0.0749026898	the enzyme
+0.0748632621	by inducing
+0.0746556213	after oral
+0.0741158619	proposed to
+0.0740909143	after exposure
+0.0740698026	and time dependent
+0.0739484506	these cells
+0.0737819815	rise in
+0.0735425346	by real time
+0.0735228863	injections of
+0.0735127129	adults with
+0.0733343366	point to
+0.0732215462	other drugs
+0.0731699308	variation in
+0.0730790364	the cytoplasm
+0.0730457084	to gain
+0.0730235256	in turn
+0.0726678546	no significant effect on
+0.0725827957	novel class of
+0.0725380909	comparable to
+0.0725220433	to characterize
+0.0724465525	a novel mechanism
+0.0724061867	cultures with
+0.0722920767	marker for
+0.0721026282	a concomitant
+0.0720950325	affinity for
+0.0720461058	to confirm
+0.0720379500	a promising
+0.0720114803	investigated using
+0.0718620326	a simple
+0.0715441897	protein 2
+0.0715008886	inflammatory effect of
+0.0715007960	also observed
+0.0714947200	formed by
+0.0713779694	act on
+0.0712568405	sufficient to
+0.0711289110	expressed at
+0.0711165654	the potential to
+0.0709757211	severity of
+0.0707307242	measurement of
+0.0705564131	role for
+0.0705141849	difficult to
+0.0703856629	not known
+0.0700247113	respect to
+0.0700222238	231 cells
+0.0697755275	the aim of
+0.0697645530	replacement of
+0.0696368922	these results show
+0.0696015334	5 nm
+0.0694713521	report on
+0.0694482094	critical for
+0.0693073315	a lesser
+0.0691954633	a key
+0.0690991012	by activating
+0.0690659897	detectable in
+0.0688217052	generated by
+0.0687957248	interaction with
+0.0687403935	affected by
+0.0684246267	attenuation of
+0.0683855807	also demonstrated
+0.0683048922	2 + 0
+0.0682207480	regulators of
+0.0681523817	an endogenous
+0.0680926210	identified as
+0.0680796166	a common
+0.0680766675	this compound
+0.0680480949	a large
+0.0680163650	2 methyl
+0.0678583829	suppressed by
+0.0677473021	the predominant
+0.0676738716	by increasing
+0.0673267272	variety of
+0.0672798931	an important role in
+0.0672207999	the literature
+0.0669673016	a significant
+0.0669260244	a series of
+0.0666985423	influence on
+0.0666494205	3 days
+0.0666072334	= 2
+0.0665350002	an increased risk of
+0.0662452950	downregulation of
+0.0662290728	selectivity for
+0.0661254703	also determined
+0.0661115747	significantly different
+0.0659841740	restricted to
+0.0658525228	combined with
+0.0658432394	this pathway
+0.0654699813	spectra of
+0.0653451933	in combination with
+0.0652599541	elevation in
+0.0651792842	effects against
+0.0650298103	effectiveness of
+0.0649904572	employed to
+0.0648479160	bound to
+0.0647850635	active site of
+0.0647445810	by blocking
+0.0646434158	a novel
+0.0646334120	obtained by
+0.0645879919	detoxification of
+0.0645658421	performed on
+0.0644056155	the most effective
+0.0642981166	found to
+0.0642038614	the potential of
+0.0641926345	a crucial
+0.0638935464	identification of
+0.0636287455	relation to
+0.0635977889	functions as
+0.0631991030	organization of
+0.0630625093	to test
+0.0630308601	consequence of
+0.0629873589	detected by
+0.0628311587	amounts of
+0.0626158786	= 4
+0.0625789453	association with
+0.0625492685	types of
+0.0625443898	activity against
+0.0623660239	the uterus
+0.0622868595	both compounds
+0.0622265204	resistance to
+0.0621880417	a small
+0.0621408525	6 mg
+0.0620070069	relative to
+0.0618713934	derivatives as
+0.0618684322	to suppress
+0.0618161862	a resolution
+0.0617950754	widely used in
+0.0617848891	a significant increase in
+0.0617342282	determinants of
+0.0616414671	regulator of
+0.0615066711	considered to
+0.0613389954	not only
+0.0611269355	exception of
+0.0609460670	r =
+0.0609379122	also decreased
+0.0608678535	seems to
+0.0608068073	modifications of
+0.0606049803	an enzyme
+0.0605329346	3 mm
+0.0605183312	attenuated by
+0.0604728330	1 methyl
+0.0602584590	relaxation of
+0.0602301612	to investigate whether
+0.0602240099	in terms of
+0.0600784014	this model
+0.0599933940	defects in
+0.0599442138	action on
+0.0598179076	an oral
+0.0597762327	occurrence of
+0.0596023222	= 10
+0.0595541886	cytotoxic effect of
+0.0594415272	grown in
+0.0593239648	the treatment of
+0.0593055701	an increase
+0.0592287841	nm for
+0.0592179079	lack of
+0.0591882269	subjects with
+0.0591462297	predicted to
+0.0590752537	development of novel
+0.0590728075	modulation of
+0.0590341912	this increase
+0.0589193913	expected to
+0.0589101355	1 mg
+0.0587087841	tumors with
+0.0585976749	a major
+0.0585749765	to protect
+0.0585022294	sensitivity to
+0.0584667967	resistant to
+0.0584580094	but did
+0.0584549397	a broad
+0.0583678058	a low
+0.0583161131	as indicated by
+0.0581513982	to form
+0.0579453364	targets for
+0.0578912085	added to
+0.0578841038	beneficial effects of
+0.0576478440	to improve
+0.0576320733	by reducing
+0.0575987666	to induce
+0.0575474604	also reduced
+0.0574618596	these proteins
+0.0573803703	at least two
+0.0573310008	bioavailability of
+0.0573195573	expressed in
+0.0572844724	a high
+0.0572126303	strategy to
+0.0571765149	up regulated in
+0.0571525930	differences in
+0.0571109849	a subset of
+0.0570405793	activity of
+0.0569240540	h after
+0.0568555606	a potent
+0.0567684092	the development of
+0.0567295179	values for
+0.0563355703	an inhibitor of
+0.0561109849	a panel of
+0.0558713088	arrest in
+0.0558672028	3 phosphate
+0.0558507839	localized to
+0.0557943286	degree of
+0.0556849443	dependent on
+0.0556742710	a key role in
+0.0554990003	a potential
+0.0554273792	need to
+0.0553935007	an association
+0.0553832336	by regulating
+0.0553106397	utility of
+0.0552764552	the present
+0.0552589702	a patient with
+0.0551165764	comparison of
+0.0550997997	also showed
+0.0550356054	not affected by
+0.0549991215	prevalence of
+0.0549720873	regulation of
+0.0549592059	mediators of
+0.0546795380	results from
+0.0545482831	or = 1
+0.0543322302	also increased
+0.0542906033	prolongation of
+0.0541310089	binds to
+0.0539747958	the hypothalamus
+0.0538325830	the pore
+0.0531882340	assay for
+0.0531762943	stabilization of
+0.0530435778	method for
+0.0530200697	understanding of
+0.0528537389	approach for
+0.0528461078	modified by
+0.0527528684	three different
+0.0526548052	the anticonvulsant
+0.0526319115	enhancement of
+0.0525943275	the rat
+0.0525176437	a case
+0.0524654457	the catecholamines
+0.0522672033	initiation of
+0.0522396702	mixtures of
+0.0521558471	to reduce
+0.0520922817	prediction of
+0.0517986551	effects through
+0.0517092061	in mediating
+0.0515471413	sites on
+0.0515075201	comparison with
+0.0515018466	= 3
+0.0514606558	known to
+0.0514468563	alteration of
+0.0513411127	to inhibit
+0.0511245392	discovery of
+0.0509823840	magnitude of
+0.0508462477	release from
+0.0506208176	measured with
+0.0503651932	a dominant
+0.0502556656	+ s
+0.0502404090	more sensitive to
+0.0502181036	a new class of
+0.0501777804	the effect of
+0.0500395707	measured by
+0.0499276995	by means of
+0.0498551413	to stimulate
+0.0498402836	to activate
+0.0498278089	two different
+0.0497720617	the dorsal
+0.0497120734	examination of
+0.0495883067	the effects of
+0.0495734032	little or
+0.0495716549	applied to
+0.0494932158	overexpressed in
+0.0494217508	optimization of
+0.0493883067	the expression of
+0.0492624321	recruitment of
+0.0491282843	in comparison to
+0.0490575552	not significantly
+0.0490222724	assessed by
+0.0489712595	no changes
+0.0489688795	overexpression of
+0.0487893067	shift in
+0.0485621525	observed at
+0.0483723648	the last
+0.0480976493	series of
+0.0480497477	1 year
+0.0480291010	quality of
+0.0480227087	used as
+0.0479225998	important for
+0.0478705341	time course of
+0.0477131488	after treatment
+0.0477032485	to regulate
+0.0476883724	kg i
+0.0476657882	consequences of
+0.0474861304	incidence of
+0.0474791647	abundant in
+0.0473573174	nature of
+0.0472883215	mode of
+0.0472601487	associated with increased
+0.0469215749	modification of
+0.0468925521	a natural
+0.0468679906	an antagonist
+0.0468369193	an ic50
+0.0467983570	treatment of
+0.0467351972	induction of
+0.0467275168	together with
+0.0467140197	levels of
+0.0467068523	source of
+0.0466836222	therapy for
+0.0466643470	an active
+0.0466579884	administration of
+0.0465765843	frequency of
+0.0465613819	selective 5
+0.0465512197	to enhance
+0.0464961231	interactions with
+0.0464617027	analysis of
+0.0463683257	a new
+0.0463393961	a critical
+0.0461791594	detected in
+0.0460979449	loss of
+0.0460386801	an alpha
+0.0459964346	elevation of
+0.0458735002	after administration
+0.0457963954	expression in
+0.0457720617	the fact
+0.0457410776	the basis of
+0.0456171223	the molecular basis of
+0.0454720793	substrate for
+0.0454695158	a combination of
+0.0454680944	with ic50 values of
+0.0454508324	the cytotoxic effect of
+0.0453767013	importance of
+0.0453454995	these changes
+0.0451933014	transfected with
+0.0451222249	the role of
+0.0450788474	administered by
+0.0450425393	occurs in
+0.0450274765	induced changes in
+0.0448840419	agent for
+0.0448714867	activated by
+0.0447527513	action of
+0.0446589340	developed for
+0.0446311964	suppression of
+0.0446091351	the ventral
+0.0445659210	significance of
+0.0445192739	combinations of
+0.0444702402	the beta 2
+0.0444296448	stimulated by
+0.0444179634	independently of
+0.0444171528	assessment of
+0.0441797760	modulator of
+0.0441082523	evidence for
+0.0440633379	aim of
+0.0438619909	the pathophysiology of
+0.0435946821	a rapid
+0.0435913312	mechanism of action of
+0.0434371776	member of
+0.0431631654	evaluated by
+0.0430887116	the pathogenesis of
+0.0430723900	conformation of
+0.0425903491	necessary to
+0.0425879938	consumption of
+0.0423228504	the first
+0.0421220548	a member of
+0.0418401755	knockdown of
+0.0418343810	incorporation of
+0.0418307467	terms of
+0.0417149935	an effect
+0.0416135897	amount of
+0.0415927007	duration of
+0.0415506867	m phase
+0.0415441810	a weak
+0.0414998042	conducted to
+0.0414874051	cleavage of
+0.0413177318	component of
+0.0410401480	absence of
+0.0410336220	a number of
+0.0410168351	a concentration
+0.0409662617	capacity to
+0.0409015200	tested for
+0.0408518913	also significantly
+0.0408390974	sensitive to
+0.0408121202	mutations in
+0.0407891640	located in
+0.0406414794	pattern of
+0.0405671047	involvement of
+0.0404414794	decreases in
+0.0402093291	coupled to
+0.0401075017	designed to
+0.0400490623	complex with
+0.0400458185	observed in
+0.0399786198	application of
+0.0399399585	established by
+0.0398954527	diagnosis of
+0.0397701992	secretion from
+0.0397553594	potentiation of
+0.0396702136	the presence
+0.0396120391	associated with reduced
+0.0393870669	activity in
+0.0393080086	target for
+0.0392032456	increases in
+0.0391808112	as determined
+0.0390430865	actions of
+0.0389455184	structures of
+0.0389372809	improvement in
+0.0388113283	truncated at
+0.0388104482	prevention of
+0.0387166458	randomized to
+0.0385919710	present in
+0.0385820041	the existence of
+0.0385470735	as assessed
+0.0384986483	the use of
+0.0383886108	need for
+0.0383007975	as assessed by
+0.0382614683	enhanced by
+0.0381729134	modulators of
+0.0381712239	but does
+0.0379643021	to explain
+0.0379474528	contribution of
+0.0379264463	inactivation of
+0.0378766390	uptake by
+0.0378125151	pathogenesis of
+0.0377254786	altered by
+0.0373692735	injection of
+0.0372843366	depletion of
+0.0372719937	features of
+0.0371582486	outcome of
+0.0371267800	required to
+0.0371068402	the absence of
+0.0370431322	detection of
+0.0369728175	the beta 1
+0.0368682063	hydrolysis of
+0.0366431587	the majority of
+0.0365376586	found between
+0.0364493456	a decrease in
+0.0363689735	maintenance of
+0.0363309605	2  
+0.0361559221	fraction of
+0.0360842800	properties of
+0.0360574843	binding of
+0.0360482482	on day
+0.0359659344	identified by
+0.0358737170	doses of
+0.0358658252	increased by
+0.0357386344	to exert
+0.0356820581	field of
+0.0356108181	with vehicle
+0.0355637102	studies on
+0.0355552943	cells against
+0.0354482647	increase in
+0.0353835356	demonstrated by
+0.0353550527	alone or
+0.0352553692	administered to
+0.0352081033	1  
+0.0350699487	reported to
+0.0350564116	decrease in
+0.0350296594	availability of
+0.0350174460	changes in
+0.0349345691	the need for
+0.0349092336	number of
+0.0349034962	5 +
+0.0348766198	evaluated for
+0.0348734903	structure of
+0.0348459331	synthesized by
+0.0348366882	likely to
+0.0347888574	reduction of
+0.0347522150	roles in
+0.0347492484	3 mrna
+0.0346911562	the discovery
+0.0346871311	characteristic of
+0.0344773595	8 +
+0.0343718682	spectrum of
+0.0343536173	accumulation of
+0.0343022382	observed with
+0.0342721304	a significant decrease in
+0.0342497040	= 5
+0.0342438521	conversion of
+0.0340978029	useful for
+0.0339887736	areas of
+0.0339848860	but does not
+0.0339816109	localization of
+0.0338861290	to occur
+0.0338365524	result in
+0.0337738259	to modulate
+0.0337196705	sites for
+0.0336222980	specific for
+0.0336177183	release of
+0.0334940534	potential for
+0.0333343410	blockade of
+0.0333149442	difference in
+0.0332546322	region of
+0.0332018794	site of
+0.0330969981	function as
+0.0330806877	the eye
+0.0330718516	combination with
+0.0330072303	approach to
+0.0329699897	the beneficial effects of
+0.0329285150	kinetics of
+0.0327506938	change in
+0.0326963261	means of
+0.0326793691	studied by
+0.0325942910	or = 0
+0.0325321720	an inhibitor
+0.0325127189	4 h
+0.0324854130	site on
+0.0324250126	deletion of
+0.0324149641	benefits of
+0.0321754961	level of
+0.0321643477	the binding of
+0.0321479438	the results
+0.0320810208	known as
+0.0320374317	as compared to
+0.0319973108	a population
+0.0319653511	dose of
+0.0319296369	domain of
+0.0319254445	but also
+0.0319244686	reduction in
+0.0319114025	examined by
+0.0318459331	experiments with
+0.0318452840	management of
+0.0318089442	alterations in
+0.0316736408	in contrast to
+0.0316634179	incubation of
+0.0316408245	phosphorylation of
+0.0316383119	9 +
+0.0315737622	substitution of
+0.0315731089	profile of
+0.0315671173	the inner
+0.0315477760	b 6
+0.0315054859	the results of
+0.0314883693	cells from
+0.0314876399	class of
+0.0314801591	a few
+0.0314099478	but did not
+0.0313310892	decreased by
+0.0313246333	determined for
+0.0313053296	the kinetics of
+0.0312844830	degradation of
+0.0311160593	to provide
+0.0310037560	a competitive inhibitor of
+0.0309560808	reduced by
+0.0309556921	in addition to
+0.0309544438	3 +
+0.0309478754	as well
+0.0309442581	suggested to
+0.0309128657	subset of
+0.0309058415	a result
+0.0308916730	none of
+0.0307502855	the mechanism of action
+0.0307275127	efficiency of
+0.0306820581	patterns of
+0.0306203993	mechanism for
+0.0305930938	distribution of
+0.0304086640	to block
+0.0303208705	the production of
+0.0302424035	the importance of
+0.0302275127	occurred in
+0.0301925540	a competitive
+0.0301663239	mechanism of
+0.0301492181	expressed by
+0.0301059272	clearance of
+0.0299863966	the percentage of
+0.0299471639	tissue from
+0.0299052079	the regulation of
+0.0298514181	demonstrated to
+0.0298090301	as measured by
+0.0298051035	observed for
+0.0298022382	activation by
+0.0297653150	the formation of
+0.0297556905	a history of
+0.0296507597	introduction of
+0.0296416038	daily for
+0.0296015495	stimulation of
+0.0295153915	measures of
+0.0295064529	the interaction of
+0.0292979359	a decrease
+0.0291837821	transfection of
+0.0291697357	a reduction in
+0.0291309117	activity at
+0.0290719571	mortality in
+0.0290384388	used to
+0.0290121474	revealed by
+0.0289903776	impact of
+0.0289553468	model of
+0.0289205180	obtained with
+0.0289192947	combination of
+0.0288838464	the latter
+0.0288115890	the need
+0.0283646753	concentrations of
+0.0283303292	performed to
+0.0283205663	efficacy of
+0.0282129702	formation of
+0.0281419339	elevated in
+0.0281052079	the level of
+0.0280844377	inhibitor of
+0.0280269146	a role for
+0.0278483710	a lack of
+0.0278146796	new class of
+0.0278141793	occur in
+0.0278090845	the discovery of
+0.0277931692	localized in
+0.0277931692	elimination of
+0.0277659742	assembly of
+0.0277639649	the percentage
+0.0277625998	relevant to
+0.0276389649	to interact
+0.0275846555	derivative of
+0.0273874269	the most
+0.0273257293	the inhibitory effect of
+0.0272741082	a good
+0.0272210192	benefits in
+0.0271261292	excretion of
+0.0271037753	included in
+0.0270508901	also found
+0.0270294817	model for
+0.0269383934	the inhibition of
+0.0268656120	seen with
+0.0268340908	activities of
+0.0267795080	studied in
+0.0267579847	the activity of
+0.0267339157	relevance of
+0.0267030682	impairment in
+0.0266758413	in response to
+0.0265934075	the influence of
+0.0265705663	development of
+0.0265402111	conserved in
+0.0264945285	or =
+0.0264615158	used for
+0.0263437145	the absence
+0.0262927955	a range of
+0.0261957666	pharmacology of
+0.0260772805	the alpha 1
+0.0260293025	the activation of
+0.0258931722	a model
+0.0258772920	step in
+0.0258460391	the impact of
+0.0258281875	and possibly
+0.0258148298	a role in
+0.0257976764	3 mg
+0.0257659148	developed to
+0.0256850449	the structure of
+0.0256492768	to find
+0.0256052954	a marker
+0.0255149702	the search
+0.0254821493	part of
+0.0254469073	the goal of
+0.0253626359	the levels of
+0.0253232932	a potent inhibitor of
+0.0252147679	the relationship between
+0.0251960991	influence of
+0.0251957666	stability of
+0.0251719571	ratios of
+0.0251484461	mechanism by
+0.0250619341	the release of
+0.0248917576	the involvement of
+0.0248601783	constant of
+0.0248042393	other than
+0.0247661809	investigation of
+0.0247653150	the number of
+0.0247253199	range of
+0.0246573289	to play
+0.0246084464	the development of new
+0.0245960391	in comparison with
+0.0244330450	activator of
+0.0243845043	cells via
+0.0243648911	metastasis in
+0.0243504171	mechanisms of
+0.0242196705	risk for
+0.0241723103	a result of
+0.0238042393	but only
+0.0237868154	after administration of
+0.0237306708	apoptosis in
+0.0237221696	formed in
+0.0237134916	after exposure to
+0.0237006903	after treatment with
+0.0236850449	the reduction of
+0.0236268354	significantly more
+0.0236205663	risk of
+0.0235452859	6 +
+0.0235338822	the action of
+0.0235059447	the amount of
+0.0234381150	different from
+0.0234248161	independent of
+0.0232105731	the pathophysiology
+0.0231881444	the contribution of
+0.0230369681	and biological evaluation of
+0.0230091653	use as
+0.0229501350	a consequence of
+0.0228579643	the mechanism of
+0.0227879541	the goal
+0.0227694870	the increase in
+0.0227542920	pharmacokinetics of
+0.0227542920	contraction in
+0.0227370506	extent of
+0.0227021696	case of
+0.0224137709	the active site of
+0.0223432411	the contribution
+0.0223117898	the interaction between
+0.0222495455	seen in
+0.0222139314	the mechanisms of
+0.0221957666	onset of
+0.0221939314	a loss of
+0.0221683968	production of
+0.0221025525	basis of
+0.0220846555	translocation of
+0.0219910250	the phosphorylation of
+0.0219745434	function of
+0.0217641744	the introduction of
+0.0216869449	relationships of
+0.0216864781	value of
+0.0216864046	this system
+0.0216333913	goal of
+0.0215486535	but not in
+0.0214154695	the identification of
+0.0213397119	a dose of
+0.0212961561	but not by
+0.0212666662	as determined by
+0.0212503892	the risk of
+0.0211793617	to bind
+0.0211045323	corresponding to
+0.0210483968	interaction of
+0.0207694870	for treatment of
+0.0207221696	conducted in
+0.0206208201	the results indicate
+0.0205921836	the crystal structure of
+0.0205486535	the activities of
+0.0204835189	through inhibition of
+0.0204417798	a model for
+0.0204354695	the function of
+0.0204354695	the accumulation of
+0.0204203344	the blockade of
+0.0204203344	the distribution of
+0.0204141477	contrast to
+0.0204095680	a dose
+0.0204039416	effective as
+0.0204003404	possible to
+0.0203131905	ability of
+0.0202739951	the mechanism by
+0.0202447789	or in combination with
+0.0202203344	the loss of
+0.0201771155	the interactions between
+0.0200258112	the frequency
+0.0200048382	the degree of
+0.0199799857	the occurrence of
+0.0199680150	the extent of
+0.0199082709	to bind to
+0.0197694870	and apoptosis in
+0.0197542763	course of
+0.0197494870	the structures of
+0.0196970701	the number
+0.0196156833	but not to
+0.0195740512	the management of
+0.0195486535	the induction of
+0.0195037953	through activation of
+0.0194290806	the mechanism of action of
+0.0194269006	use of
+0.0193937709	the mrna expression of
+0.0193795101	the combination of
+0.0193694870	the reduction in
+0.0193371286	the frequency of
+0.0193071155	a function of
+0.0191928227	a model of
+0.0191694870	the decrease in
+0.0190411275	panel of
+0.0189481122	the determination of
+0.0188972648	the modulation of
+0.0188647789	the actions of
+0.0188397119	the efficacy of
+0.0187812432	to cause
+0.0186139314	the response to
+0.0186092004	the inhibitory effects of
+0.0185740512	the onset of
+0.0185699544	expression of p
+0.0185472648	the potential for
+0.0183916299	the aim
+0.0183694870	the dose of
+0.0183071155	in association with
+0.0183071155	the results show
+0.0182961768	the conversion of
+0.0182926136	but not for
+0.0182917898	the association between
+0.0179779630	the incidence of
+0.0179271155	the ability to
+0.0179145007	both in vitro and
+0.0178972648	the degradation of
+0.0177779630	the stimulation of
+0.0177616041	the case of
+0.0176331170	the effects on
+0.0174722271	by treatment with
+0.0174593313	by pretreatment with
+0.0173071155	a target for
+0.0170601277	the administration of
+0.0170563269	the pathogenesis
+0.0170279179	the lack of
+0.0166727129	7 +
+0.0166331170	the analysis of
+0.0165964167	the changes in
+0.0165140121	by binding to
+0.0165140121	the prevention of
+0.0164737822	also observed in
+0.0163290864	as compared with
+0.0156315682	alone or in
+0.0154241945	by activation of
+0.0153883860	indicated by
+0.0152024643	the hydrolysis of
+0.0149707456	the mode of
+0.0148356640	comparison to
+0.0147024643	not associated with
+0.0146096773	found in
+0.0146096773	used in
+0.0145663999	pathophysiology of
+0.0145235556	or absence of
+0.0136144441	day for
+0.0134118615	a member
+0.0131747331	the best
+0.0128009363	interest in
+0.0125933754	a role
