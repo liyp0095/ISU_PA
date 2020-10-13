@@ -50,14 +50,16 @@ def get_true_labels(fname):
     with open(fname, encoding="utf-8") as fp:
         entity = []
         for line in fp.readlines():
-            aLine = line.strip("\n").split("\t")
-            if len(aLine) < 2:
+            if "<s>" in line or "<eof>" in line:
+                continue
+            aLine = line.strip("\n").split(" ")
+            if len(aLine) < 3:
                 index += 1
                 continue
             name = aLine[0]
-            type = aLine[1]
+            type = aLine[2]
 
-            if not type == "O":
+            if not type == "None":
                 if last_type == type:
                     entity.append(name)
                 else:
@@ -74,14 +76,16 @@ def get_true_labels(fname):
     return labels
 
 
-def compute_precision_recall_f1_word(pred_file, label_file):
+def compute_precision_recall_f1_word(label_file, pred_file):
     labels = []
     with open(label_file) as fp:
         for line in fp.readlines():
-            aLine = line.strip("\n").split("\t")
+            if "<s>" in line or "<eof>" in line:
+                continue
+            aLine = line.strip("\n").split(" ")
             if len(aLine) < 2:
                 continue
-            labels.append(aLine[-1])
+            labels.append(aLine[-1] if not aLine[-1] == "None" else "O")
     preds = []
     with open(pred_file) as fp:
         for line in fp.readlines():
@@ -90,7 +94,7 @@ def compute_precision_recall_f1_word(pred_file, label_file):
                 continue
             for i in range(int(aLine[1]) - int(aLine[0])):
                 preds.append(aLine[-1] if not aLine[-1] == "None" else "O")
-
+    # print(preds)
     tp = 0
     pp = 0
     np_ = 0
@@ -117,10 +121,10 @@ def compute_precision_recall_f1_word(pred_file, label_file):
 
 
 def main():
-    labels = get_true_labels("data/train_labeled.txt")
-    p, r, f = compute_precision_recall_f1("data/train_decoded.txt", labels)
+    labels = get_true_labels("data/test.txt")
+    p, r, f = compute_precision_recall_f1("result/decoded.txt", labels)
     print(p,r,f)
-    p, r, f = compute_precision_recall_f1_word("data/train_decoded.txt", "data/train_labeled.txt")
+    p, r, f = compute_precision_recall_f1_word("data/test.txt", "result/decoded.txt")
     print(p,r,f)
     pass
 

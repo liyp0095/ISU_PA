@@ -48,6 +48,7 @@
 2019S/573/PA3/src/*.m*
 2019S/573/PA4/data/
 2019S/573/PA4/src/__pycache__/
+2020F/CS661/HW2/embedding/
 
 *.DS_Store
 *.zip
